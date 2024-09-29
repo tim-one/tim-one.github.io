@@ -1,1 +1,4 @@
-- [ban](ban.html)
+- [Tim's](ban.html) account of PSF interactions before his 2024 ban
+- [Chris McDonough's](https://chrismcdonough.substack.com/p/the-shameful-defenestration-of-tim) account of Tim's 2024 ban announement
+- [Karl Knechtel's](https://zahlman.github.io/politics/the-psf/2024/07/31/an-open-letter-to-the-psf-coc-wg.html) account of his and David Mertz's indefinite suspensions from Discoure, and anticipating Tim's later ban (Karl may be neurodivergent, but he's not dense :wink:)
+- [Karl Knechtel's](https://zahlman.github.io/politics/the-psf/2024/08/10/open-letter-psf-coc-wg-addendum-1-tim-peters.html) account of Tim's 2024 ban announement
