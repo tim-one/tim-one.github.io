@@ -1,4 +1,6 @@
 - [**Tim's**](ban.html) account of PSF interactions before his 2024 ban
+- [**Nicholas Tollervey's**](https://ntoll.org/article/psf-woe) plea for compassion and honesty to counter PSF dysfunction
+> There appears to be confusion between things that should be celebrated (like passion, humour, honesty, differences of culture and diversity of experience) and things that are genuinely problematic (like deliberate bad-faith activity or intentionally diminishing, dehumanizing, harming or harassing others).
 - [**Chris McDonough's**](https://chrismcdonough.substack.com/p/the-shameful-defenestration-of-tim) account of Tim's 2024 ban announement
 - [**Karl Knechtel's**](https://zahlman.github.io/politics/the-psf/2024/08/10/open-letter-psf-coc-wg-addendum-1-tim-peters.html) account of Tim's 2024 ban announement
 - [**Karl Knechtel's**](https://zahlman.github.io/politics/the-psf/2024/07/31/an-open-letter-to-the-psf-coc-wg.html) account of his and David Mertz's 2024 indefinite suspensions from Discourse, and anticipating Tim's later ban (Karl may be neurodivergent, but he's not dense ;-))
