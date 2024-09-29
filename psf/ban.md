@@ -103,11 +103,7 @@ to have been made in bad faith. ***A key to this***
 is that it was mostly very vague, and the one specific claim it made
 didn't pass a "reasonable person" test to me[^1].
 
-[^1]: While they didn't
-reply, they apparently agreed, since the specific claim they made
-never appeared in public - they changed the claim before public
-posting, but to one which also didn't pass a reasonable person test to
-me - at which point my suspicion of bad faith increased.
+[^1]: While they didn't reply, they apparently agreed, since the specific claim they made never appeared in public - they changed the claim before public posting, but to one which also didn't pass a reasonable person test to me - at which point my suspicion of bad faith increased.
 
 Without specificity, the best I could make of it was "we're not
 objecting to what you're saying, we're objecting to who you are -
