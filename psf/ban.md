@@ -187,3 +187,4 @@ who "liked" it.
 So I knew then "OK! I'm next." The only surprise then was how long it took.
 
 [^2]: Two of the SC's complaints in [their public topic](https://discuss.python.org/t/inclusive-communications-expectations-in-python-spaces/57950) were obviously aimed at me, but the referent for "soft conduct moderation" was unknown. As detailed above, I never opposed a mod action against me, so I wasn't a plausible guess. No clarification was made, beyond that they didn't mean David Mertz (who seemed to be most peoples' guess).
+***
