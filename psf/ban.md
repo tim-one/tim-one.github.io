@@ -3,7 +3,7 @@ title: Dispelling Information Asymmetry
 ---
 
 Dispelling Information Asymmetry
-================================
+--------------------------------
 
 
 Scope
