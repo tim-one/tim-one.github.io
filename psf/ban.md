@@ -93,7 +93,7 @@ agreeing to stop rewording posts.
 
 **Number of times the SC contacted me: 1**
 
-[Emily](https://discuss.python.org/t/three-month-suspension-for-a-core-developer/60250/18) is correct that I was dismissive of their message. You'll have to take some things on
+[Emily Morehouse](https://discuss.python.org/t/three-month-suspension-for-a-core-developer/60250/18) is correct that I was dismissive of the SC's message. You'll have to take some things on
 trust here, because I don't have (and didn't ask for) permission
 to share their email to me. For the same reason, I won't
 reproduce my reply to them (which quotes their email).
