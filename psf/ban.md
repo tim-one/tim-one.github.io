@@ -1,4 +1,6 @@
-Dispelling Information Asymmetry
+---
+title: Dispelling Information Asymmetry
+---
 
 Scope
 -----
