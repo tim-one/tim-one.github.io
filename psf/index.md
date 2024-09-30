@@ -9,5 +9,5 @@ Dysfunction
 -----------
 - [**Nicholas Tollervey's**](https://ntoll.org/article/psf-woe) 2024 plea for compassion and honesty to counter PSF dysfunction
 > There appears to be confusion between things that should be celebrated (like passion, humour, honesty, differences of culture and diversity of experience) and things that are genuinely problematic (like deliberate bad-faith activity or intentionally diminishing, dehumanizing, harming or harassing others).
-- [**David Mertz's**](https://gnosis.cx/publish/Emeritus) explained his reasons for withdrawing his active Fellow status in his emeritus request letter
+- [**David Mertz's**](https://gnosis.cx/publish/Emeritus) emeritus request letter explained his reasons for withdrawing his active Fellow status
 > I simply believe that that honor that was formerly attached to becoming a Fellow of the Foundation has been stripped of good will or honor by those intent on exercise of arbitrary self-aggrandizement and grandstanding.
