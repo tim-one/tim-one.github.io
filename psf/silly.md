@@ -6,7 +6,7 @@ This page will not have a temperate tone. I believe posting that list was all of
 
 Any system of "justice" that won't even bother to present evidence is not a system of justice at all. Stalin-era show trials were more transparent and fair-minded.
 
-If you must, (Chris MoDonough's)(https://chrismcdonough.substack.com/p/the-shameful-defenestration-of-tim) blog does about as good as can be done at guessing what they might be getting at.
+If you must, [Chris MoDonough's](https://chrismcdonough.substack.com/p/the-shameful-defenestration-of-tim) blog does about as good as can be done at guessing what they might be getting at.
 
 I'll just look at one here, because - to my eyes - it comes close to libel under US civil law, or defamation under some EU countries' criminal law. But I have no intent of dragging lawyers into this.
 
