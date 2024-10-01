@@ -1,3 +1,7 @@
+---
+title: PSF topics
+---
+
 2024 bans
 ----------
 - [**Chris McDonough's**](https://chrismcdonough.substack.com/p/ban-transparency-from-tim-peters) account of Tim's account of 2024 pre-ban PSF interactions
