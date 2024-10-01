@@ -4,6 +4,7 @@ title: PSF topics
 
 2024 bans
 ----------
+- [**Tim's**](silly.html) non-rebuttal of the list of his "crimes" in his 2024 ban
 - [**Chris McDonough's**](https://chrismcdonough.substack.com/p/ban-transparency-from-tim-peters) account of Tim's account of 2024 pre-ban PSF interactions
 - [**Tim's**](ban.html) account of PSF interactions before his 2024 ban
 - [**Chris McDonough's**](https://chrismcdonough.substack.com/p/the-shameful-defenestration-of-tim) account of Tim's 2024 ban announement
