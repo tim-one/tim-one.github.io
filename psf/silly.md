@@ -1,6 +1,6 @@
 About the list of charges in [the ban announcement](https://discuss.python.org/t/three-month-suspension-for-a-core-developer/60250), I don't find them credible enough to bother taking time to refute. What's the point?
 
-This page will not have a temperate tone. I believe posting that list was all of unjust, immoral, and unethical. I will not pretend otherwise. It's bullying, and it's wrong.
+This page will not have a temperate tone. I believe posting that list was all of unjust, immoral, and unethical. I will not pretend otherwise. It's bullying, and a gross abuse of power by all involved. It's wrong.
 
 "What can be asserted without evidence can also be dismissed without evidence." - Hitchens's razor
 
@@ -8,7 +8,7 @@ Any system of "justice" that won't even bother to present evidence is not a syst
 
 If you must, [Chris McDonough's](https://chrismcdonough.substack.com/p/the-shameful-defenestration-of-tim) blog does about as good as can be done at guessing what they might be getting at.
 
-I'll just look at one here, because - to my eyes - it comes close to libel under US civil law, or defamation under some EU countries' criminal law. But I have no intent of dragging lawyers into this.
+I'll just look at one here, because - to my eyes - it may be libel under US civil law, or defamation under some EU countries' criminal law. But I have no intent of dragging lawyers into this.
 
 Thr alleged offense:
 
