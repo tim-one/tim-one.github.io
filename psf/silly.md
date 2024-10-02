@@ -10,7 +10,7 @@ If you must, [Chris McDonough's](https://chrismcdonough.substack.com/p/the-shame
 
 I'll just look at one here, because - to my eyes - it may be libel under US civil law, or defamation under some EU countries' criminal law. But I have no intent of dragging lawyers into this.
 
-Thr alleged offense:
+The alleged offense:
 
 > Defending “reverse racism” and “reverse sexism”, concepts not backed by empirical evidence, which could be seen as deliberate intimidation or creating an exclusionary environment.
 
