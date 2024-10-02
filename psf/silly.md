@@ -2,7 +2,7 @@ About the list of charges in [the ban announcement](https://discuss.python.org/t
 
 This page will not have a temperate tone. I believe posting that list was all of unjust, immoral, and unethical. I will not pretend otherwise. It's bullying, and it's wrong.
 
-> what is asserted without evidence may be dismissed without consideration
+"What can be asserted without evidence can also be dismissed without evidence." - Hitchens's razor
 
 Any system of "justice" that won't even bother to present evidence is not a system of justice at all. Stalin-era show trials were more transparent and fair-minded.
 
