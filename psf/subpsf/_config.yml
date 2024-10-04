@@ -1,8 +1,0 @@
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-
-header_pages:
-  - ../ban.md
-  - unlinked.md
