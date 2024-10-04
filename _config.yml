@@ -39,7 +39,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - index.md
+  - psf/index.md
   - psf/ban.md
   - psf/ban_qa.md
   
