@@ -20,7 +20,7 @@ I have never, in my life, addressed the concept of "reverse sexism". I did happe
 
 I did briefly address the _doctrine_ of "reverse racism", [here](https://discuss.python.org/t/im-leaving-too/58408/10). Read it for yourself. I linked there to a "100% woke" article that uncategorically rejected the "reverse racism" doctrine entirely. And explicitly said I stiil thought that article largely made good sense. So, sure, I defended the article - but defending an article that utterly rejected the doctrine cannot be sanely read as defending the doctrine. There's nothing difficult, subtle, or remotely arguable about this. Again, the claimed offense is plain garbage.
 
-It's true that I also objected to the PSF dogmatically insisting that's the only possible "good faith" view. The CoC in fact requires respecting other views, and I do. I'm not the hypocrite here.
+It's true that I also objected to the PSF dogmatically insisting that ours is the only possible "good faith" view. The CoC in fact requires respecting other views, and I do. I'm not the hypocrite here.
 
 Don't even start to give me a comic-book level misreading of Popper's "Paradox of Tolerance". It's irrelevant here - study the adult version for yourself. Even Google's "generative AI" has a more nuanced view:
 
