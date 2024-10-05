@@ -20,3 +20,11 @@ dev
 else's
 pre
 CPython
+McDonough's
+Knechtel's
+neurodivergent
+Mertz's
+Tollervey's
+Morehouse
+Pythoneers
+Hitchens's
