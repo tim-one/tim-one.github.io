@@ -1,3 +1,6 @@
+---
+title: Baseless chargessdf
+---
 About the list of charges in [the ban announcement](https://discuss.python.org/t/three-month-suspension-for-a-core-developer/60250), I don't find them credible enough to bother taking time to refute. What's the point?
 
 This page will not have a temperate tone. I believe posting that list was all of unjust, immoral, and unethical. I will not pretend otherwise. It's bullying, and a gross abuse of power by all involved. It's wrong.
