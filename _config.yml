@@ -39,9 +39,9 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - psf/index
-  - psf/ban
-  - psf/ban_qa
+  - psf/index.md
+  - psf/ban.md
+  - psf/ban_qa.md
   
 # Exclude from processing.
 # The following items will not be processed, by default.
