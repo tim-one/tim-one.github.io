@@ -24,3 +24,5 @@ matrix:
   sources:
   - '*.md'
   - 'content/blog/**/*.md'
+  - '**/*.md'
+  
