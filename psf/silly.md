@@ -1,5 +1,5 @@
 ---
-title: Baseless chargessdf
+title: Baseless charges
 ---
 About the list of charges in [the ban announcement](https://discuss.python.org/t/three-month-suspension-for-a-core-developer/60250), I don't find them credible enough to bother taking time to refute. What's the point?
 
