@@ -2,17 +2,17 @@
 title: PSF topics
 ---
 
-2024 bans
-----------
-- [**Tim's**](silly.html) non-rebuttal of the list of his "crimes" in his 2024 ban
+## 2024 bans
+
+- [**Tim's**](silly) non-rebuttal of the list of his "crimes" in his 2024 ban
 - [**Chris McDonough's**](https://chrismcdonough.substack.com/p/ban-transparency-from-tim-peters) account of Tim's account of 2024 pre-ban PSF interactions
-- [**Tim's**](ban.html) account of PSF interactions before his 2024 ban
+- [**Tim's**](ban) account of PSF interactions before his 2024 ban
 - [**Chris McDonough's**](https://chrismcdonough.substack.com/p/the-shameful-defenestration-of-tim) account of Tim's 2024 ban announement
 - [**Karl Knechtel's**](https://zahlman.github.io/politics/the-psf/2024/08/10/open-letter-psf-coc-wg-addendum-1-tim-peters.html) account of Tim's 2024 ban announement
 - [**Karl Knechtel's**](https://zahlman.github.io/politics/the-psf/2024/07/31/an-open-letter-to-the-psf-coc-wg.html) account of his and David Mertz's 2024 indefinite suspensions from Discourse, and anticipating Tim's later ban (Karl may be neurodivergent, but he's not dense ;-))
 
-Dysfunction
------------
+## Dysfunction
+
 - [**Nicholas Tollervey's**](https://ntoll.org/article/psf-woe) 2024 plea for compassion and honesty to counter PSF dysfunction
 > There appears to be confusion between things that should be celebrated (like passion, humour, honesty, differences of culture and diversity of experience) and things that are genuinely problematic (like deliberate bad-faith activity or intentionally diminishing, dehumanizing, harming or harassing others).
 - [**David Mertz's**](https://gnosis.cx/publish/Emeritus) 2024 emeritus request letter explained his reasons for withdrawing his active Fellow status
