@@ -13,7 +13,7 @@ title: PSF topics
 
 ## Dysfunction
 
-- [**Steve Holden's**](https://www.linkedin.com/posts/holdenweb_psf-coc-banishment-activity-7248238831806595072-sPbY) 2024 Linkedin post on proper balance among Foundation gaols
+- [**Steve Holden's**](https://www.linkedin.com/posts/holdenweb_psf-coc-banishment-activity-7248238831806595072-sPbY) 2024 Linkedin post on proper balance among Foundation goals
 > I’d suggest that the latter goal is being incorrectly emphasised over the former, by people with little to no experience of managing anything _except_ software foundations, who are out of their depth in the storm they’ve created.
 - [**Nicholas Tollervey's**](https://ntoll.org/article/psf-woe) 2024 plea for compassion and honesty to counter PSF dysfunction
 > There appears to be confusion between things that should be celebrated (like passion, humour, honesty, differences of culture and diversity of experience) and things that are genuinely problematic (like deliberate bad-faith activity or intentionally diminishing, dehumanizing, harming or harassing others).
