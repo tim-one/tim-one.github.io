@@ -7,8 +7,8 @@ title: PSF topics
 - [**Tim's**](silly) non-rebuttal of the list of his "crimes" in his 2024 ban
 - [**Chris McDonough's**](https://chrismcdonough.substack.com/p/ban-transparency-from-tim-peters) account of Tim's account of 2024 pre-ban PSF interactions
 - [**Tim's**](ban) account of PSF interactions before his 2024 ban
-- [**Chris McDonough's**](https://chrismcdonough.substack.com/p/the-shameful-defenestration-of-tim) account of Tim's 2024 ban announement
-- [**Karl Knechtel's**](https://zahlman.github.io/politics/the-psf/2024/08/10/open-letter-psf-coc-wg-addendum-1-tim-peters.html) account of Tim's 2024 ban announement
+- [**Chris McDonough's**](https://chrismcdonough.substack.com/p/the-shameful-defenestration-of-tim) account of Tim's 2024 ban announcement
+- [**Karl Knechtel's**](https://zahlman.github.io/politics/the-psf/2024/08/10/open-letter-psf-coc-wg-addendum-1-tim-peters.html) account of Tim's 2024 ban announcement
 - [**Karl Knechtel's**](https://zahlman.github.io/politics/the-psf/2024/07/31/an-open-letter-to-the-psf-coc-wg.html) account of his and David Mertz's 2024 indefinite suspensions from Discourse, and anticipating Tim's later ban (Karl may be neurodivergent, but he's not dense ;-))
 
 ## Dysfunction
