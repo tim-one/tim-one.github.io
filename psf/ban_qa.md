@@ -1,9 +1,9 @@
 ---
 title: Ban Q&A
 ---
-**2024-10-05 Sat 02:30p CDT**
+Brief replies to questions from a variety of sources.
 
-Random brief replies to questions from a variety of sources.
+**2024-10-05 Sat 02:30p CDT**
 
 **Q:** Is Ethan Furman a friend of yours covering for you?
 
