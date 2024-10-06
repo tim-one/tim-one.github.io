@@ -7,11 +7,11 @@ Brief replies to questions from a variety of sources.
 
 **Q:** Is Ethan Furman a friend of yours covering for you?
 
-**A:** No. I just recognized his name, as I recognize at least hundreds of Pythoneers' names. We didn't correspond before he posted his dissent, and, in fact, over a month passed before I remembered _why_ I recognized his name.
+**A:** No. His dissent was a surprise to me. I recognized his name, as I recognize at least hundreds of Pythoneers' names. We didn't correspond before he posted his dissent, and, in fact, over a month passed before I remembered _why_ I recognized his name.
 
 I was the only active admin on the python-dev mailing list for many years. I volunteered to step down if someone would step up (to take over the thankless job) who was willing to be more active (than I was willing to be) in moderating. Ethan volunteered. I didn't select him - I explicitly wanted no say in who took over. I believe the SC (at the time) gave him the job.
 
-I do count him as a friend now.
+I do count him as a friend now. As to whether he was covering for me, I think his brief dissent speaks for itself: to his moderator's eyes, "I found that Core Developer’s behavior to be exemplary". I wouldn't go that far, but I don't believe I materially violated the CoC under a "reasonable person" standard.
 
 **Q:** Why did you say you never intended to post again in the neurodivergence topic?
 
