@@ -3,7 +3,7 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources.
 
-#### [2024-10-05 Sat 02:30p CDT](#head2)
+#### 2024-10-05 Sat 02:30p CDT
 
 **Q:** Is Ethan Furman a friend of yours covering for you?
 
@@ -19,7 +19,7 @@ I do count him as a friend now. As to whether he was covering for me, I think hi
 
 Alas, the topic eventually got closed anyway, despite that it remained civil throughout, and didn't reach a "natural" conclusion. It had built up a lot of good energy, but got stalled when nobody stepped up to "do something". 
 
-#### [2024-10-02 Wed 10:00p CDT](#head1)
+#### 2024-10-02 Wed 10:00p CDT
 
 Addressing questions in replies to [Ethan's followup post](https://discuss.python.org/t/shedding-light-on-a-three-month-suspension/66337):
 
