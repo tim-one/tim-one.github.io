@@ -20,3 +20,12 @@ title: PSF topics
 > There appears to be confusion between things that should be celebrated (like passion, humour, honesty, differences of culture and diversity of experience) and things that are genuinely problematic (like deliberate bad-faith activity or intentionally diminishing, dehumanizing, harming or harassing others).
 - [**David Mertz's**](https://gnosis.cx/publish/Emeritus) 2024 emeritus request letter explained his reasons for withdrawing his active Fellow status
 > I simply believe that that honor that was formerly attached to becoming a Fellow of the Foundation has been stripped of good will or honor by those intent on exercise of arbitrary self-aggrandizement and grandstanding.
+
+
+
+- [**African Python groups' open letter to the PSF**](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html) about multiple problems working with the PSF
+> Yet we have witnessed discussions in which it has been proposed that volunteer organisers take public stances in their own countries that are not just contentious or socially unacceptable, but would actually violate local laws. 
+>
+> In one recent example, voices on the PSF Board were demanding that a condition of funding for a particular PyCon be the formal adoption of a “human rights plan” - a measure that would pose a significant legal and personal risk to its organisers.
+>
+> The entitlement and assumption of cultural superiority embodied in these ideas are absurd and offensive. 
