@@ -21,4 +21,4 @@ title: PSF topics
 - [**David Mertz's**](https://gnosis.cx/publish/Emeritus) 2024 emeritus request letter explained his reasons for withdrawing his active Fellow status
 > I simply believe that that honor that was formerly attached to becoming a Fellow of the Foundation has been stripped of good will or honor by those intent on exercise of arbitrary self-aggrandizement and grandstanding.
 - [**African Python groups' 2023 open letter**](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html) about multiple problems working with the PSF
-> The entitlement and assumption of cultural superiority embodied in these ideas are absurd and offensive. 
+> More recent experiences have left us feeling hurt and angry. We hear voices, openly and confidently raised within the PSF, that denigrate us and our communities, that dismiss our experiences, that doubt our values, and harm us materially.
