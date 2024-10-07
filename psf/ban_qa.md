@@ -1,7 +1,7 @@
 ---
 title: Ban Q&A
 ---
-Brief replies to questions from a variety of sources.
+Brief replies to questions from a variety of sources, most recent first.
 
 **2024-10-05 Sat 02:30p CDT**
 
