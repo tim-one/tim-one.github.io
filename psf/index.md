@@ -23,7 +23,7 @@ title: PSF topics
 
 
 
-- [**African Python groups' 2023 open letter to the PSF**](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html) about multiple problems working with the PSF
+- [**African Python groups' 2023 open letter**](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html) about multiple problems working with the PSF
 > Yet we have witnessed discussions in which it has been proposed that volunteer organisers take public stances in their own countries that are not just contentious or socially unacceptable, but would actually violate local laws. 
 >
 > In one recent example, voices on the PSF Board were demanding that a condition of funding for a particular PyCon be the formal adoption of a “human rights plan” - a measure that would pose a significant legal and personal risk to its organisers.
