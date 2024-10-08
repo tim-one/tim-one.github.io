@@ -3,6 +3,24 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
+**2024-10-07 Mon 07:00p CDT**
+
+**Q:** Why did you endlessly relitigate the bylaws vote?
+
+**A:** I have no idea what they're talking about. When the vote was done, I never mentioned it again. Nor do I recall that anyone else did. Next time I saw anything about it was at top of my list "offenses".
+
+**Q:** Why do you endlessly oppose the CoC?
+
+**A:** I don't. I voted for the initial CoC when I was on the Board. And when I talked about Python's early days, that was an opportunity for people to learn some entertaining and educational (if I say so myself) history. If people let confirmation bias, bad faith, or ill will blind them to that, that's their loss. [Here](https://discuss.python.org/t/inclusive-communications-expectations-in-python-spaces/57950/15):
+>> [Ned Batchelder] I’m fully in favor of the community educating or excluding someone who is “routinely impatient and dismissive.” Allowing that behavior drives other people out. It’s a bad tradeoff.
+
+> [me] I actually agree. In the early days, Python was in much more of a “beggars can’t be choosers” category. It outgrew that long ago.
+
+Nothing is really new. Much the same [here](https://discuss.python.org/t/discussion-about-recent-coc-events/5778/23) from 4 years ago:
+> [me] Usenet is one end of the spectrum; living in a North Korean re-education camp is the other, and I don’t want that either
+
+In my view the PSF has been moving steadily toward the latter.
+
 **2024-10-05 Sat 02:30p CDT**
 
 **Q:** Is Ethan Furman a friend of yours covering for you?
