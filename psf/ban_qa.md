@@ -11,7 +11,7 @@ Brief replies to questions from a variety of sources, most recent first.
 
 **Q:** Why do you endlessly oppose the CoC?
 
-**A:** I don't. I voted for the initial CoC when I was on the Board. And when I talked about Python's early daya, that was an opportunity for people to learn some entertaining and educational (if I say so myself) history. If people let confirmation bias, bad faith, or ill will blind them to that, that's their loss. [Here](https://discuss.python.org/t/inclusive-communications-expectations-in-python-spaces/57950/15):
+**A:** I don't. I voted for the initial CoC when I was on the Board. And when I talked about Python's early days, that was an opportunity for people to learn some entertaining and educational (if I say so myself) history. If people let confirmation bias, bad faith, or ill will blind them to that, that's their loss. [Here](https://discuss.python.org/t/inclusive-communications-expectations-in-python-spaces/57950/15):
 >> [Ned Batchelder] I’m fully in favor of the community educating or excluding someone who is “routinely impatient and dismissive.” Allowing that behavior drives other people out. It’s a bad tradeoff.
 
 > [me] I actually agree. In the early days, Python was in much more of a “beggars can’t be choosers” category. It outgrew that long ago.
