@@ -7,7 +7,7 @@ Brief replies to questions from a variety of sources, most recent first.
 
 **Q:** Why did you endlessly relitigate the bylaws vote?
 
-**A:** I have no idea what they're talking about. When the vote was done, I never mentioned it again. Nor do I recall that anyone else did. Next time I saw anything about it was at top of my list of "offenses".
+**A:** I have no idea what they're talking about. When the vote was done, I never mentioned it again. Nor do I recall that anyone else did. Next time I saw anything about it was at the top of my list of "offenses".
 
 **Q:** Why do you endlessly oppose the CoC?
 
