@@ -3,6 +3,23 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
+**2024-10-09 Wed 7:00p CDT**
+
+**Q:** So how many topics _did_ you start?
+
+**A:** Across the time in question, one. It was originally titled "Are the neurodivergent welcome here?". In a long, thoughtful, and helpful reply, Glyph said it would help to reframe it a bit. I replied, in part:
+> I’m not up to rewriting the whole OP, but if someone can think up a better title I’d be delighted to change it. Wholly agreed that the title now is so overly broad as to be largely devoid of coherent meaning.
+
+Glyph replied, in part:
+>  I think that leaving the OP as-is is fine, sometimes a discussion ends in a different place where it begins.
+>
+> As for a title, “How can we better support neurodivergent newcomers to the community?” might reflect my proposed pivot.
+
+Which I gratefully accepted, and changed the title accordingly.
+
+Discourse also says "Considerations around legal advice" is my topic, but I didn't start it or name it. As already detailed in my [Dispelling Information Asymmetry](ban) blog, a moderator split it off from a reply of mine in the bylaws topic. They gave it the title too, and, as I already said there, what they did was fine by me.
+
+
 **2024-10-07 Mon 07:00p CDT**
 
 **Q:** Why did you endlessly relitigate the bylaws vote?
