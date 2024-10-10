@@ -24,7 +24,7 @@ Discourse also says "Considerations around legal advice" is my topic, but I didn
 
 **Q:** Why did you endlessly relitigate the bylaws vote?
 
-**A:** I have no idea what they're talking about. When the vote was done, I never mentioned it again. Nor do I recall that anyone else did. Next time I saw anything about it was at the top of my list of "offenses".
+**A:** I have no idea what they're talking about. I stopped mentioning it well before the vote started. My last two posts _in_ the topic were entirely position-neutral, just reminding people that the deadline for affirming their intention to vote was imminent (something PSF staff was apparently too busy to remind people of themselves). I never mentioned the vote again. Next time I saw anything about it was at the top of my list of ["offenses"](crimes).
 
 **Q:** Why do you endlessly oppose the CoC?
 
