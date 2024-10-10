@@ -15,6 +15,8 @@ title: PSF topics
 
 ## Dysfunction
 
+- [**Peter Bittner's**](https://painless.software/letter-to-tim-peters-author-of-pep20) "Letter to Tim Peters, Author of PEP20"
+>  My vision of a society that I want to live in is one where people try to understand each other, even when this is difficult sometimes.
 - [**Steve Holden's**](https://www.linkedin.com/posts/holdenweb_psf-coc-banishment-activity-7248238831806595072-sPbY) 2024 LinkedIn post on proper balance among Foundation goals
 > I’d suggest that the latter goal is being incorrectly emphasised over the former, by people with little to no experience of managing anything **except** software foundations, who are out of their depth in the storm they’ve created.
 - [**Nicholas Tollervey's**](https://ntoll.org/article/psf-woe) 2024 plea for compassion and honesty to counter PSF dysfunction
