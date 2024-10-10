@@ -17,7 +17,7 @@ Glyph replied, in part:
 
 Which I gratefully accepted, and changed the title accordingly.
 
-Discourse also says "Considerations around legal advice" is my topic, but I didn't start it, or name it. As already detailed in my [Dispelling Information Asymmetry](ban) blog, a moderator split it off from a reply of mine in the bylaws topic. They gave it the title too, and, as I already said there, what they did was fine by me.
+Discourse also says "Considerations around legal advice" is my topic, but I didn't start it, or name it. As already detailed in my [Dispelling Information Asymmetry](ban) post, a moderator split it off from a reply of mine in the bylaws topic. They gave it the title too, and, as I already said there, what they did was fine by me.
 
 
 **2024-10-07 Mon 07:00p CDT**
