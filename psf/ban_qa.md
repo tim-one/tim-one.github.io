@@ -58,7 +58,7 @@ Alas, the topic eventually got closed anyway, despite that it remained civil thr
 
 Addressing questions in replies to [Ethan's followup post](https://discuss.python.org/t/shedding-light-on-a-three-month-suspension/66337):
 
-- As of Aug 8, the day after the ban, the SC represented to me that I had already agreed to do everything they asked for the ban to be lifted on the expiration day. It's not lifting of the ban I'm aiming at, it's transparency.
+- As of Aug 8, the day after the ban was announced, the SC represented to me that I had already agreed to do everything they asked for the ban to be lifted on the expiration day. It's not lifting of the ban I'm aiming at, it's transparency.
 
 - However, Aug 8 is also the last time I heard from the SC. They haven't replied to anything I sent to them since. I'm apparently ghosted for the duration.
 
