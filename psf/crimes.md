@@ -2,7 +2,7 @@
 title: The crimes
 ---
 
-For reference, the bizarre liss of offenses, supplied by the CoC WG, parroted in my [ban announcement](https://discuss.python.org/t/three-month-suspension-for-a-core-developer/60250):
+For reference, the bizarre list of offenses, supplied by the CoC WG, parroted in my [ban announcement](https://discuss.python.org/t/three-month-suspension-for-a-core-developer/60250):
 
 - Overloading the discussion of the bylaws change (47 out of 177 posts in topic at the time the moderators closed the topic), which created an atmosphere of fear, uncertainty, and doubt, which encouraged increasingly emotional responses from other community members. The later result of the vote showed 81% support for the most controversial of the bylaws changes, which demonstrates the controversy was blown out of proportion.
 
