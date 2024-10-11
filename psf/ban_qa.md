@@ -3,6 +3,12 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
+**2024-10-10 Thu 07:15p CDT**
+
+**Q:** Don't you take responsibility for _anything_?
+
+**A:** Sure! But not at all for being some kind of monster. I'm not. [See here](meaculpa) for my view of what went wrong.
+
 **2024-10-09 Wed 7:00p CDT**
 
 **Q:** So how many topics _did_ you start?
