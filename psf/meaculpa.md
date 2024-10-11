@@ -7,7 +7,7 @@ Here it is:
 
 Reading [Chris's blog](https://chrismcdonough.substack.com/p/the-shameful-defenestration-of-tim) reminded me of how very important my "style" was in the early days. It kept c.l.py and python-dev relatively pleasant and flame-free. It was valued by everyone, from Guido down to the rankest newbie. Surely Thomas and Barry remember those days?
 
-So it got way off on the wrong track with me when the old style was characterized as "unfortunately common" in the public shaming (ya, ya, I wasn't named, but everyone knew). That read like someone who knew nothing about Python's actual history. There wasn't anything "unfortunate" about it. It played a major role in Python's early growth.
+So it got way off on the wrong track with me when the old style was characterized as "unfortunately common" in the [public shaming](https://discuss.python.org/t/inclusive-communications-expectations-in-python-spaces/57950) (ya, ya, I wasn't named, but everyone knew). That read like someone who knew nothing about Python's actual history. There wasn't anything "unfortunate" about it. It played a major role in Python's early growth.
 
 So I've been pondering it. One thing that occurs to me:
 
