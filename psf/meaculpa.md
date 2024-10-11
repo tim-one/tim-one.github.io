@@ -27,4 +27,5 @@ Now it makes _some_ sense to me how someone could take offense at my message abo
 
 Which seems to be a real root cause of this unfortunate extended drama. Mea culpa. And that's something I can change. Maybe ;-)
 
+---
 [^1]: SH means "sexual harassment", which I need to spell out here for clarity. My message about that is the only one the SC ever pointed out to me. It's apparently impossible to use the phrase at all with offending someone, so I got into the habit of calling it "SH" instead. Which may be the new crime of "self-censoring".
