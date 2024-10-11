@@ -13,7 +13,7 @@ So I've been pondering it. One thing that occurs to me:
 
 Back in those days, mine was also the most dominant voice in those forums. I was Guido's oracle and by far the most engaged on all kinds of topics - and I read every single msg.
 
-My "style" was always playful, good-natured, partly joking (even dark humor at times), tongue-in-cheek gaslighting, and a sense of joy. Tedious earnestness wasn't on the menu. Come for the smiles, stay for uncommon tech knowledge.
+My "style" was always playful, good-natured, partly joking (even dark humor at times), tongue-in-cheek gaslighting, with a sense of joy. Tedious earnestness wasn't on the menu. Come for the smiles, stay for uncommon tech knowledge.
 
 My style was their style. Most people played along, not because they were forced to, but because people were having _fun_ with it. It was spontaneous. Chris reminded me of that too, and he's far from the only one who found the lack of pretension very inviting. If, e.g. you had a PhD in CompSci, I'd engage you at that level, but I was just as happy engaging with newcomer Chris at his level, someone who wondered whether they wanted to get into programming at all.
 
