@@ -23,9 +23,6 @@ But as I became less active over the years, my voice faded into campfire stories
 
 Wholly unintended, but understandable, and I first realized that yesterday.
 
-Now it makes _some_ sense to me how someone could take offense at my message about SH[^1]. There was some lighthearted tone in parts of it, but not at all about the topic under discussion. As Chris said, "Tim was as serious as Tim ever gets." But Chris knows my style very well - he "grew up" on it.
+Now it makes _some_ sense to me how someone could take offense at my message about sexual harassment. There was some lighthearted tone in parts of it, but not at all about the topic under discussion. As Chris said, "Tim was as serious as Tim ever gets." But Chris knows my style very well - he "grew up" on it.
 
 Which seems to be a real root cause of this unfortunate extended drama. Mea culpa. And that's something I can change. Maybe ;-)
-
----
-[^1]: SH means "sexual harassment", which I need to spell out here for clarity. My message about that is the only one the SC ever pointed out to me. It's apparently impossible to use the phrase at all with offending someone, so I got into the habit of calling it "SH" instead. Which may be the new crime of "self-censoring".
