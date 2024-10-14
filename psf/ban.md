@@ -107,7 +107,8 @@ to have been made in bad faith. ***A key to this***
 is that it was mostly very vague, and the one specific claim it made
 didn't pass a "reasonable person" test to me[^1].
 
-[^1]: While they didn't reply, they apparently agreed, since the specific claim they made never appeared in public - they changed the claim before public posting, but to one which also didn't pass a reasonable person test to me - at which point my suspicion of bad faith increased.
+[^1]: While they didn't reply, they apparently agreed, since the specific claim[^2] they made never appeared in public - they changed the claim before public posting, but to one which also didn't pass a reasonable person test to me - at which point my suspicion of bad faith increased.
+[^2]: Which was still aomewhat vague - no link to the message was given, so it was left to guesswork. I think it was "clear enough", and everyone else appeared to have the same guess, which is spelled out in the [2024-10-12 entry](ban_qa) of the Q&A page
 
 Without specificity, the best I could make of it was "we're not
 objecting to what you're saying, we're objecting to who you are -
@@ -184,7 +185,7 @@ not in this one.
 Addendum
 --------
 Of course many people saw this coming. It was hard to miss that _some_ "old timer"
-was in the crosshairs. But it wasn't exactly[^2] clear who until I saw
+was in the crosshairs. But it wasn't exactly[^3] clear who until I saw
 [this post](https://discuss.python.org/t/im-leaving-too/58408/9). Note especially
 who "liked" it.
 
@@ -194,5 +195,5 @@ Addendum 2
 ----------
 [Click here for some Q&A](ban_qa) from responses to this blog.
 
-[^2]: Two of the SC's complaints in [their public topic](https://discuss.python.org/t/inclusive-communications-expectations-in-python-spaces/57950) were obviously aimed at me, but the referent for "soft conduct moderation" was unknown. As detailed above, I never opposed a mod action against me, so I wasn't a plausible guess. No clarification was made, beyond that they didn't mean David Mertz (who seemed to be most peoples' guess).
+[^3]: Two of the SC's complaints in [their public topic](https://discuss.python.org/t/inclusive-communications-expectations-in-python-spaces/57950) were obviously aimed at me, but the referent for "soft conduct moderation" was unknown. As detailed above, I never opposed a mod action against me, so I wasn't a plausible guess. No clarification was made, beyond that they didn't mean David Mertz (who seemed to be most peoples' guess).
 ***
