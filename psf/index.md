@@ -23,7 +23,7 @@ title: PSF topics
 > There appears to be confusion between things that should be celebrated (like passion, humour, honesty, differences of culture and diversity of experience) and things that are genuinely problematic (like deliberate bad-faith activity or intentionally diminishing, dehumanizing, harming or harassing others).
 - [**David Mertz's**] (https://gnosis.cx/publish/ED-CoC-complaint) Complaint to the PSF Board and CoC WG about unprofessional behavior by the Executive Director of the Foundation
 > The PSF Executive Director, Deb Nicholson, has behaved in a manner that is unprofessional, motivated by personal animosity, in violation of Foundation bylaws, and that violated her fiduciary obligations as an employee and officer of the Foundation.
-- [**David Mertz's**](https://gnosis.cx/publish/Emeritus) 2024 emeritus request letter explained his reasons for withdrawing his active Fellow status
+- [**David Mertz's**] (https://gnosis.cx/publish/Emeritus) 2024 emeritus request letter explained his reasons for withdrawing his active Fellow status
 > I simply believe that that honor that was formerly attached to becoming a Fellow of the Foundation has been stripped of good will or honor by those intent on exercise of arbitrary self-aggrandizement and grandstanding.
 - [**African Python groups'**](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html) 2023 open letter about multiple problems working with the PSF
 > More recent experiences have left us feeling hurt and angry. We hear voices, openly and confidently raised within the PSF, that denigrate us and our communities, that dismiss our experiences, that doubt our values, and harm us materially.
