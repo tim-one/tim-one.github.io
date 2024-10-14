@@ -108,7 +108,7 @@ is that it was mostly very vague, and the one specific claim it made
 didn't pass a "reasonable person" test to me[^1].
 
 [^1]: While they didn't reply, they apparently agreed, since the specific claim[^2] they made never appeared in public - they changed the claim before public posting, but to one which also didn't pass a reasonable person test to me - at which point my suspicion of bad faith increased.
-[^2]: Which was still aomewhat vague - no link to the message was given, so it was left to guesswork. I think it was "clear enough", and everyone else appeared to have the same guess, which is spelled out in the [2024-10-12 entry](ban_qa) of the Q&A page
+[^2]: Which was still somewhat vague - no link to the message was given, so it was left to guesswork. I think it was "clear enough", and everyone else appeared to have the same guess, which is spelled out in the [2024-10-12 entry](ban_qa) of the Q&A page
 
 Without specificity, the best I could make of it was "we're not
 objecting to what you're saying, we're objecting to who you are -
