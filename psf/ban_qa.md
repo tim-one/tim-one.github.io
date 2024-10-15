@@ -5,8 +5,7 @@ Brief replies to questions from a variety of sources, most recent first.
 
 **2024-10-14 Mon 09:30p CDT**
 
-**Q:** What kind of monster likes old comedy shows?! And where's the msg? I can't find it.
-
+**Q:** Who likes old comedy shows?! And where's the post? I can't find it.<br>
 **Q:** The ban announcement says you made 47 posts in the bylaws topic. But Discourse only shows 46. What's up?
 
 **A:** Same answer to both. [Click here.](xxxx)
