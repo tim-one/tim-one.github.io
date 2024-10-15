@@ -3,6 +3,14 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
+**2024-10-14 Mon 09:30p CDT**
+
+**Q:** What kind of monster likes old comedy shows?! And where's the msg? I can't find it.
+
+**Q:** The ban announcement says you made 47 posts in the bylaws topic. But Discourse only shows 46. What's up?
+
+**A:** Same answer to both. [Click here.](xxxx)
+
 **2024-10-12 Sat 8:15p CDT**
 
 **Q:** You won't publish your emails with the SC without permission, but which specific message did they give as an example?
