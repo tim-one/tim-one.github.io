@@ -5,7 +5,7 @@ title: Jane, you ignorant XXXX
 Trigger warning: if you found this page, you almost certainly know what XXXX meant in context
 already. Don't come whining to me if you read on anyway - you're actively looking for offense then.
 
-This relates to one of my [crimes]():
+This relates to one of my [crimes](crimes):
 
 - Using potentially offensive language or slurs, in one case even calling an SNL skit from
 the 1970s using the same slur “genuinely funny”, which shows a lack of empathy towards
