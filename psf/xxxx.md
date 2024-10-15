@@ -24,7 +24,7 @@ Of course Dan's line was "Jane, you ignorant slut!". The name of the Python pack
 
 Note that I never said the skit was funny. I said the _show_ was funny, to help date it.
 Even then, the "wink" was a telegraphic clue about a larger digression that wasn't worth
-typing out: the meaning of "generally funny" is subjective. But it's a fact that the
+typing out: the meaning of "genuinely funny" is subjective. But it's a fact that the
 Akroyd/Curtin days are widely viewed as being SNL's "Golden Years".
 
 Neither did I say, or imply, that SNL was funny _because_ it used the word "slut".
