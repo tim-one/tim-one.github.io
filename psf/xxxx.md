@@ -53,12 +53,12 @@ was too high a bar for a major CoC decision. In the `slut.py` case, the issue wa
 minor as possible (nobody actually cared about the package - not even its author replied to
 questions about it).
 
-As to SNL: yes, while I never said so, I did think the recurring Akroyd/Curtin "Point, Counterpoint"
+As to SNL: yes, while I never said so, I did think the recurring Curtin/Akroyd Point/Counterpoint
 segments were comedy gold. Brilliant comic writing, brilliantly delivered by Curtin and Akroyd.
 Akroyd's "Jane, you ignorant slut!" catchphrase was a tiny part of it, no more or less funny than
 Curtin's "Dan, you pompous ass!" and "Dan, you miserable failure!" catchphrases.
 
-It was hilarious parody of the "60 Minutes" recurring "Point, Counterpoint" segments. It was also
+It was hilarious parody of the "60 Minutes" recurring Point/Counterpoint segments. It was also
 a major accomplishment for comediennes: Curtin's recurring role in this segment ensured her
 steady work in an extremely competitive environment, playing an intelligent character. Not a
 bimbo, airhead, scold, or passive victim. Major props to her and Akroyd.
