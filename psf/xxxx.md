@@ -34,7 +34,7 @@ they'd probably find it as inoffensive as applesauce. In many other cultures, "s
 at all - they routinely hear far harsher on their mainstream TV channels.
 
 SNL was in fact irrelevant to the point. It was merely a way to let people know which word I had in 
-mind, without actually using the word, which word I know makes some people uncomfortable. So, ya, more
+mind, without actually using the word, which word I knew made some people uncomfortable. So, ya, more
 of my crimes involve convolutions to _avoid_ giving offense. I may have mentioned before that
 it's impossible to "win" this stupid game :wink:.
 
