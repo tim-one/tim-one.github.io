@@ -25,7 +25,7 @@ I did briefly address the _doctrine_ of "reverse racism", [here](https://discuss
 
 It's true that I also objected to the PSF dogmatically insisting that ours is the only possible "good faith" view. The CoC in fact requires respecting other views, and I do. I'm not the hypocrite here.
 
-Don't even start to give me a comic-book level misreading of Popper's "Paradox of Tolerance". It's irrelevant here - study the adult version for yourself. Even Google's "generative AI" has a more nuanced view:
+Don't even start to give me a cartoon level misreading of Popper's "Paradox of Tolerance". It's irrelevant here - study the adult version for yourself. Even Google's "generative AI" has a more nuanced view:
 
 > Popper believed that a society should fight intolerance with reasonable arguments, but that it also has the right to be intolerant if the intolerant are not ready to debate. 
 
