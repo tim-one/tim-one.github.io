@@ -3,6 +3,14 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
+**2024-10-16 Wed 3:30p CDT**
+
+**Q:** You said you filed a CoC complaint of your own before the ban. How was that resolved?
+
+**A:** Don't know. After 4 days, I got a 1-line reply: "Tim, we acknowledge receipt of your report." After 7 weeks of silence passed, I politely asked for a response. That was about 3 weeks ago. Still no response.
+
+I see that the target of the complaint no longer has the position they had at the time of the complaint. But, technically, they have even more power now. Perhaps more removed from interacting with those without power. I would have happily settled for a private apology to me (and to the others involved - I can't know how many others received private messages spreading egregiously bad-faith libels about me).
+
 **2024-10-14 Mon 09:30p CDT**
 
 **Q:** Who likes old comedy shows?! And where's the post? I can't find it.<br>
