@@ -25,6 +25,9 @@ title: PSF topics
 > The PSF Executive Director, Deb Nicholson, has behaved in a manner that is unprofessional, motivated by personal animosity, in violation of Foundation bylaws, and that violated her fiduciary obligations as an employee and officer of the Foundation.
 - - [**David Mertz**](https://gnosis.cx/publish/Board-of-Fools) publishes the Board's reply, which passed a motion giving the Executive Director new powers, but claims that these new powers also apply retroactively
 >> It’s like a clown car ... I actually don’t think this is a deliberate power grab by the Executive Director. Rather, I think she is as oblivious to US law as are the current Board.
+- [**ExternalUserError's**](https://old.reddit.com/r/Python/comments/1ftbjt8/ban_transparency_from_tim_peters/lpsp3xa/) 2024 insightful Reddit comment on CoC enforcement dysfunctions in general
+>  It's like you take everything we know to work about a working justice system and do the complete opposite.
+> There's really just no way this system could ever produce good results, no matter who is in charge.
 - [**David Mertz's**](https://gnosis.cx/publish/Emeritus) 2024 emeritus request letter explained his reasons for withdrawing his active Fellow status
 > I simply believe that that honor that was formerly attached to becoming a Fellow of the Foundation has been stripped of good will or honor by those intent on exercise of arbitrary self-aggrandizement and grandstanding.
 - [**African Python groups'**](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html) 2023 open letter about multiple problems working with the PSF
