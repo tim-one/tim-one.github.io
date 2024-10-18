@@ -21,6 +21,7 @@ else's
 pre
 CPython
 McDonough's
+McDonough
 Knechtel's
 neurodivergent
 Mertz's
@@ -48,3 +49,4 @@ Curtin's
 SNL's
 XXXX
 ExternalUserError's
+Zope
