@@ -3,6 +3,18 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
+**2024-10-18 Fri 07:15p CDT**
+
+**Q:** What does Guido think about all this?
+
+**A:** While I spent years being his oracle, that's no longer my role. If he wants to be clear he'll need to speak for himself. Of course I know more, but in good conscience can only confirm the obvious: he hasn't said one public word in support of, or opposing, anyone's position in this.
+
+Which actually speaks volumes, but it's easy to misread what silence is saying. The most obvious reading is that he has no opinion. Since that's not credible here, the 2nd-most obvious is that he wants no public pzrt of it. That's closer.
+
+Please don't bug him about it. Some people find human drama very stressful, and I don't think it's a secret where Guido lies on that axis. The drama in the "walrus operator" flame wars 6 years ago caused him to abdicate his BDFL role. I got my share of abuse in that too, but shrugged it off as "another day on a mailing list".
+
+At this point, I don't think it matters anymore what anyone says anyway. Confirmation bias alone ensures all sides will remain frozen.
+
 **2024-10-18 Fri 12:45a CDT**
 
 **Q:** Se Ethan wasn't your friend - what about Chris McDonough?
