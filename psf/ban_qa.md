@@ -11,7 +11,7 @@ Brief replies to questions from a variety of sources, most recent first.
 
 Which actually speaks volumes, but it's easy to misread what silence is saying. The most obvious reading is that he has no opinion. Since that's not credible here, the second-most obvious is that he wants no public part of it. That's closer.
 
-Please don't bug him about it. Some people find human drama very stressful, and I don't think it's a secret where Guido lies on that axis. The drama in the "walrus operator" flame wars 6 years ago caused him to abdicate his BDFL role. I got my share of abuse in that too, but shrugged it off as "another day on a mailing list".
+Please don't bug him about it. Some people find human drama very stressful, and I don't think it's a secret where Guido lies on that axis. The drama in the "walrus operator" flame wars 6 years ago caused him to abdicate his BDFL role. I got my (smaller) share of abuse in that too, but shrugged it off as "another day on a mailing list".
 
 At this point, I don't think it matters anymore what anyone says anyway. Confirmation bias alone ensures all sides will remain frozen.
 
