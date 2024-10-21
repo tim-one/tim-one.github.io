@@ -17,7 +17,7 @@ Not just to me. I've long objected to the seemingly calculated cruelty of the PS
 
 **Q:** For someone who claims not to be Guido's oracle anymore, why are you acting as one?
 
-**A:** Heh. Fair point :-) I thought my last Q&A said so little he wouldn't mind, but not long after publishing I asked him if he was comfortable with the words I (didn't) put into his mouth. He replied "Yeah, that's about right ..." (the rest is nobody's business but ours), so we're cool.
+**A:** Heh. Fair point :-) I thought my last Q&A said so little he wouldn't mind, but not long after publishing I asked him if he was comfortable with the words I (didn't) put into his mouth. He replied "Yeah, that's about right ..."), so we're cool.
 
 I felt I had to say something, because that's the single most frequent question I get, and I try to do the best I can to address all sincere questions. Stonewalling isn't my style - people are sick to death of that.
 
