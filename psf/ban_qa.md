@@ -3,6 +3,16 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
+**2024-10-20 Sun 09:30p CDT**
+
+**Q:** What's up with the "bullying" claims? Isn't that extreme?
+
+**A:** Dictionary definition. People with power abusing it to harm someone with none. Stalin-era show trials were more transparent and fair-minded. So if you think those were bullying (they were - hugely so), well, this was worse in some respects[^stalin]. For example, Stalin's "courts" at least pretended to present evidence, not just spray raw assertions. And they let the accused speak. I wasn't even informed there _was_ a secret trial before it was over, and I was already banished and silenced. It didn't even meet the level of basic human decency.
+
+Not just to me. I've long objected to the seemingly calculated cruelty of the PSF's banning processes. I recognize that few others seem to care. Well, shame on them. Going along with a self-righteous mob is rarely somerhing to be proud of, and history generally doesn't look kindly on a Nuremberg defense.
+
+[^stalin]: But, of course, incomparably better in others; e.g., I wasn't imprisoned, or executed. Fot which I'm grateful :wink:.
+
 **2024-10-20 Sun 04:15 CDT**
 
 **Q:** For someone who claims not to be Guido's oracle anymore, why are you acting as one?
@@ -126,3 +136,5 @@ Addressing questions in replies to [Ethan's followup post](https://discuss.pytho
 - But all of that happened after the ban, so was out of scope for my pre-ban blog.
 
 - I still intend to return. I can't say whether the SC has changed their collective mind.
+
+---
