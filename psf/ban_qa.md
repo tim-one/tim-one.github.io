@@ -9,7 +9,7 @@ Brief replies to questions from a variety of sources, most recent first.
 
 **A:** Dictionary definition. People with power abusing it to harm someone with none. Stalin-era show trials were more transparent and fair-minded. So if you think those were bullying (they were - hugely so), well, this was worse in some respects[^stalin]. For example, Stalin's "courts" at least pretended to present evidence, not just spray raw assertions. And they let the accused speak. I wasn't even informed there _was_ a secret trial before it was over, and I was already banished and silenced. It didn't even meet the level of basic human decency.
 
-Not just to me. I've long objected to the seemingly calculated cruelty of the PSF banning processes. I recognize that few others seem to care. Well, shame on them. Going along with a self-righteous mob is rarely something to be proud of, and history generally doesn't look kindly on a Nuremberg defense.
+Not just to me. I've long objected to the seemingly calculated cruelty of the PSF banning processes. I recognize that few others seem to care. Well, shame on those who don't. Going along with a self-righteous mob is rarely something to be proud of, and history generally doesn't look kindly on a Nuremberg defense.
 
 [^stalin]: But, of course, incomparably better in others; e.g., I wasn't imprisoned, or executed. For which I'm grateful :wink:.
 
