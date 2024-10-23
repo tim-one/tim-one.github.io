@@ -3,6 +3,8 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
+gordo
+
 **2024-10-20 Sun 09:30p CDT**
 
 **Q:** What's up with the "bullying" claims? Isn't that extreme?
