@@ -15,8 +15,6 @@ title: PSF topics
 
 ## Dysfunction
 
-lkjlkj
-
 “So the pendulum swings, now violently, now slowly; and every institution not only carries within it the seeds of its own dissolution, but prepares the way for its most hated rival.” —  William Ralph Inge
 
 - [**Peter Bittner's**](https://painless.software/letter-to-tim-peters-author-of-pep20) 2024 "Letter to Tim Peters, Author of PEP20"
