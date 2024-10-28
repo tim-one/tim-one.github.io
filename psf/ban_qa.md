@@ -3,6 +3,12 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
+**2024-10-28 Mon 02:15a CDT**
+
+**Q:** Would it help if I resigned as a core dev? Relinquished Fellow status?
+
+**A:** Do what's best for you, but I hope you don't. There's no reason to expect "they" would care, and your best hope for change is to keep your ability to vote on possible changes to governance PEPs, and maybe even bylaw changes.
+
 **2024-10-20 Sun 09:30p CDT**
 
 **Q:** What's up with the "bullying" claims? Isn't that extreme?
