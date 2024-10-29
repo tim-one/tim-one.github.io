@@ -3,6 +3,12 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
+**2024-10-29 Tue 12:15a CDT**
+
+**Q:** You're obviously reading posts on Discourse. But it says your account is suspended. Did you create another account? Are you posting under another name?
+
+**A:** No. I have only ever had one account on Discourse, and it is suspended. But you don't need to log in to read posts there. Try it! Without logging in, you can see just about everything, but can't post, or click heart icons, or even see flag icons. It's a "read only" view of the site, although it does seem to save cookies to keep track of some things.
+
 **2024-10-28 Mon 02:15a CDT**
 
 **Q:** Would it help if I resigned as a core dev? Relinquish Fellow status?
