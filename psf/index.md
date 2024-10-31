@@ -23,7 +23,7 @@ title: PSF topics
 > I’d suggest that the latter goal is being incorrectly emphasised over the former, by people with little to no experience of managing anything **except** software foundations, who are out of their depth in the storm they’ve created.
 - [**Nicholas Tollervey's**](https://ntoll.org/article/psf-woe) 2024 plea for compassion and honesty to counter PSF dysfunction
 > There appears to be confusion between things that should be celebrated (like passion, humour, honesty, differences of culture and diversity of experience) and things that are genuinely problematic (like deliberate bad-faith activity or intentionally diminishing, dehumanizing, harming or harassing others).
-- [**David Mertz's**](https://gnosis.cx/publish/ED-CoC-complaint) Complaint to the PSF Board and CoC WG about unprofessional behavior by the Executive Director of the Foundation
+- [**David Mertz's**](https://gnosis.cx/publish/ED-CoC-complaint) 2024 complaint to the PSF Board and CoC WG about unprofessional behavior by the Executive Director of the Foundation
 > The PSF Executive Director, Deb Nicholson, has behaved in a manner that is unprofessional, motivated by personal animosity, in violation of Foundation bylaws, and that violated her fiduciary obligations as an employee and officer of the Foundation.
 - - [**David Mertz**](https://gnosis.cx/publish/Board-of-Fools) publishes the Board's reply, which passed a motion giving the Executive Director new powers, but claims that these new powers also apply retroactively
 >> It’s like a clown car ... I actually don’t think this is a deliberate power grab by the Executive Director. Rather, I think she is as oblivious to US law as are the current Board.
