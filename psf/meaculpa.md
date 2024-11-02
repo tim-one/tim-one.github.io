@@ -1,7 +1,7 @@
 ---
 title: Mea Culpa
 ---
-This is a mildly reworked version of an email I sent to the SC early during my ban, explaining as best I could make out the _real_ reason people took such offense at me (no, the [list of "offenses"](crimes) still appears beneath even minimal credibility to me). I don't know what the SC thought of it - they didn't reply. It remains my best guess.
+This is a mildly reworked version of an email I sent to the SC early during my ban, explaining as best I could make out the _real_ reason people took such offense at me (no, the [list of "CoC violations"](crimes) still appears beneath even minimal credibility to me). I don't know what the SC thought of it - they didn't reply. It remains my best guess.
 
 Here it is:
 
