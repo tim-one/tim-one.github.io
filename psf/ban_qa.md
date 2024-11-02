@@ -7,7 +7,7 @@ Brief replies to questions from a variety of sources, most recent first.
 
 **Q:** What do you think of [Glyph's blog](https://blog.glyph.im/2024/08/on-the-defense-of-heroes.html)?
 
-**A:** Glyph is a smart fellow, and a good writer, but I don't see any relevance to my case in what Glpph thinks Chris should or shouldn't write about.
+**A:** Glyph is a smart fellow, and a good writer, but I don't see any relevance to my case in what Glyph thinks Chris should or shouldn't write about.
 
 As I related before, I valued Chris's blog mostly for his love letters to Python's early days. They were charming and brought back many good memories. And Chris *did* analyze evidence, as best he could, given the entirely evidence-free [list of raw assertions](crimes) in the ban announcement. In several cases, it's completely unclear which posts they _might_ be implicitly referring to, and no clarifications of any kind were ever made. As far as any sane notion of "justice" goes, it was a total farce.
 
