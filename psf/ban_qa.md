@@ -3,6 +3,18 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
+**2024-11-01 Fri 10:00p CDT**
+
+**Q:** What do you think of [Glyph's blog](https://blog.glyph.im/2024/08/on-the-defense-of-heroes.html)?
+
+**A:** Glyph is a smart fellow, and a good writer, but I don't see any relevance to my case in what Glpph thinks Chris should or shouldn't write about.
+
+As I related before, I valued Chris's blog mostly for his love letters to Python's early days. They were charming and brought back many good memories. And Chris *did* analyze evidence, as best he could, given the entirely evidence-free [list of raw assertions](crimes) in the ban announcement. In several cases, it's completely unclear which posts they _might_ be implicitly referring to, and no clarifications of any kind were ever made. As far as any sane notion of "justice" goes, it was a total farce.
+
+So I'm glad Chris took it on. I'm so used to absorbing abuse from early Usenet and python-dev that I may have never bothered. It was when I reviewed Chris's post that it first occurred to me that "hey - this really is grossly unjust!" with emotional force. It woke me up. I owe Chris for that.
+
+Glyph should recognize that remote psychoanalysis of Chris's putative character flaws has nothing to do with the evidence in this case either. So, no, I don't think he added anything of primary value here - just more distraction. If you think I can't defend myself, [start with this](silly). There's plenty more where that came from, but I wasted enough time on such garbage already.
+
 **2024-10-29 Tue 12:15a CDT**
 
 **Q:** You're obviously reading posts on Discourse. But it says your account is suspended. Did you create another account? Are you posting under another name?
