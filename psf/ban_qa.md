@@ -3,6 +3,18 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
+**2024-11-03 Sun 05:00p CST**
+
+**Q:** What did you suggest to the SC to address the loss of trust?
+
+**A:** Same as always: sunlight is the best disinfectant.
+- Stop the interminable stonewalling.
+- Engage with the dissenters respectfully, addressing what they're saying directly, not deflecting by addressing a straw man instead.
+- Give straight answers.
+- Scrub that ridiculous list of ["CoC violations"](crimes). It backfired, and will continue to do new damage so long as it stays up.
+
+Of course they didn't reply. And I don't expect anything to change. Regardless of organization, group social dynamics are such that the longer a group stonewalls, the more determined they become to stay the course. I could write an essay about that, but will spare you :smile:.
+
 **2024-11-01 Fri 10:00p CDT**
 
 **Q:** What do you think of [Glyph's blog](https://blog.glyph.im/2024/08/on-the-defense-of-heroes.html)?
