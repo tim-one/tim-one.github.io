@@ -9,7 +9,7 @@ Brief replies to questions from a variety of sources, most recent first.
 
 **A:** Same as always: sunlight is the best disinfectant.
 - Stop the interminable stonewalling.
-- Engage with the dissenters respectfully, addressing what they're saying directly, not deflecting by addressing a strawman instead.
+- Engage with the dissenters respectfully, addressing what they're saying directly, not deflecting by addressing a straw man instead.
 - Give straight answers.
 - Scrub that ridiculous list of ["CoC violations"](crimes). It backfired, and will continue to do new damage so long as it stays up.
 
