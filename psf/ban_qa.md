@@ -13,7 +13,7 @@ Brief replies to questions from a variety of sources, most recent first.
 
 Of course that's baseless. I have never disclosed the name of anyone anonymously banned. I'm acutely aware of their desire to remain anonymous to whatever extent possible, and never betray their confidence in me.
 
-I can only image they're misreading [this post](https://discuss.python.org/t/inclusive-communications-expectations-in-python-spaces/57950/30):
+I can only imagine they're misreading [this post](https://discuss.python.org/t/inclusive-communications-expectations-in-python-spaces/57950/30):
 
 > The worst outcome I’ve seen was from that, the least transparent ban. The best outcome from the most transparent one, although in that case SK nailed the door wide open by effectively saying FU on the way out. A whole lot was revealed about why he was booted, and that did not inspire much fear.
 
