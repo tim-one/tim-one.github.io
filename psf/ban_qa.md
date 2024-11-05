@@ -7,7 +7,7 @@ Brief replies to questions from a variety of sources, most recent first.
 
 **Q:** Your ban was announced 7 Aug. Add 3 months to get 7 Nov. But you're posting now. What's up?
 
-**A:** Nobody seems to know! Discourse always said my aocount would be unlocked again on 1 Nov at 7am CDT. Since I'm both retired and sane, I was sound asleep then. But I was able to log in on the afternoon of the first, so as far as I was concerned my ban _was_ over then.
+**A:** Nobody seems to know! Discourse always said my account would be unlocked again on 1 Nov at 7am CDT. Since I'm both retired and sane, I was sound asleep then. But I was able to log in on the afternoon of the first, so as far as I was concerned my ban _was_ over then.
 
 I agree 7 Nov was a more plausible guess, and so does the SC, but they're not sure either. I suspect someone made a typo when filling out a Discourse admin web form on 7 Aug, perhaps entering 7 into the "hour" field instead of the "day" field by mistake. But no way to know now. As a matter of "practicality beats purity", the SC and I agreed to accept 1 Nov as the official end of the ban.
 
