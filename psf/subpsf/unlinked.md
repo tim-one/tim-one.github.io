@@ -31,3 +31,6 @@ f
 ###### six
 
 g
+
+[tru this](../ban)
+[and this](../ban#what-actually-works)
