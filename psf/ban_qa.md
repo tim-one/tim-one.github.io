@@ -3,6 +3,26 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
+**2024-11-04 Mon 08:45p CST**
+
+*Q:** You seem to give little credence to the list of ["CoC violations"](crimes). Yet the ban was lifted. Did you agree in private you were guilty of them?
+
+**A:** No, I didn't. I can't yet explain this, beyond just relating what happened. Shortly before the ban announcement was posted, I got email from the SC including the eventual post's text, along with some commentary. In part, about the list of CoC violations:
+
+> The Steering Council may not agree with the exact interpretation of every single item in that list ...
+
+I wasn't asked to agree I was guilty, or even to acknowledge that any of the claims had merit. They were simply never mentioned again. I said plenty about it later, but, as already related, they never replied to me again after Aug 8 (the day after the ban was announced).
+
+So I have no reason to believe this was about the claimed "violations" at all. But I don't believe I ever got a straight answer to what it _was_ about. No more than the public got. I have speculations about that, but don't know enough yet to air them. For now I can only say I've "heard things". Maybe more later, maybe not.
+
+IMO, the PSF would have been far better off skipping that list and relying solely on the 100% opaque "not a role model, dark patterns, secrets, trust us" spin. The SC didn't need a "CoC violation" to ban me - they can make up seemingly any criteria like for axing a core dev. As is, whatever point they were hoping to make got lost to a long list of shrill more-specific "violations" that are widely disbelieved. Not just on Discourse, but also on various blogs and on any number of "tech gossip" sites' comment sections. "WTF? That's not what he said! Note to self: never join that project."
+
+The list backfired. Unless, of course, the actual point was just to make a show of raw power, to demonstrate that the PSF can squash any member, by any means necessary. In that case it succeeded.
+
+The actual truth is probably messier than all the above squared :smile:.
+
+> Note: this was an old question by now, but I couldn't answer it before the ban _was_ lifted. Before then, I couldn't be sure that more conditions wouldn't be imposed. But no more ever were.
+
 **2024-11-04 Mon 08:00p CST**
 
 **Q:** Your ban was announced 7 Aug. Add 3 months to get 7 Nov. But you're posting now. What's up?
