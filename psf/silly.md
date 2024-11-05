@@ -29,4 +29,4 @@ Don't even start to give me a cartoon level misreading of Popper's "Paradox of T
 
 > Popper believed that a society should fight intolerance with reasonable arguments, but that it also has the right to be intolerant if the intolerant are not ready to debate. 
 
-Where intolerance cannot be tolerated is in people _with power_. Every accusation hides a confession.
+Where intolerance cannot be tolerated is in people _with power_, who impose their intolerance by force without allowing argument. Every accusation hides a confession.
