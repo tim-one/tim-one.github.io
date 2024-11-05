@@ -5,7 +5,7 @@ Brief replies to questions from a variety of sources, most recent first.
 
 **2024-11-04 Mon 08:45p CST**
 
-*Q:** You seem to give little credence to the list of ["CoC violations"](crimes). Yet the ban was lifted. Did you agree in private you were guilty of them?
+**Q:** You seem to give little credence to the list of ["CoC violations"](crimes). Yet the ban was lifted. Did you agree in private you were guilty of them?
 
 **A:** No, I didn't. I can't yet explain this, beyond just relating what happened. Shortly before the ban announcement was posted, I got email from the SC including the eventual post's text, along with some commentary. In part, about the list of CoC violations:
 
