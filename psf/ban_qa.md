@@ -31,7 +31,7 @@ The actual truth is probably messier than all the above squared :smile:.
 
 I agree 7 Nov was a more plausible guess, and so does the SC, but they're not sure either. I suspect someone made a typo when filling out a Discourse admin web form on 7 Aug, perhaps entering 7 into the "hour" field instead of the "day" field by mistake. But no way to know now. As a matter of "practicality beats purity", the SC and I agreed to accept 1 Nov as the official end of the ban.
 
-<a id="crimeAnon">></a>
+<a id="crimeAnon"></a>
 **2024-11-04 Mon 02:00a CST**
 
 **Q:** Why did you suggest that evidence be discussed in PSF rather than Committers?
@@ -134,6 +134,7 @@ I loved the post mostly for its love letters to Python and its community. Which,
 
 I see that a target of the complaint no longer has the position they had at the time of the complaint. But, technically, they have even more power now. Perhaps more removed from interacting with those without power. I would have happily settled for a private apology to me (and to the others involved - I can't know how many others received private messages spreading egregiously bad-faith libels about me on Discourse).
 
+<a id="crimeSNL"></a>
 **2024-10-14 Mon 09:30p CDT**
 
 **Q:** Who likes old comedy shows?! And where's the post? I can't find it.<br>
@@ -143,6 +144,7 @@ I see that a target of the complaint no longer has the position they had at the 
 
 **2024-10-12 Sat 8:15p CDT**
 
+<a id="crimeSh"></a>
 **Q:** You won't publish your emails with the SC without permission, but which specific message did they give as an example?
 
 **A:** I can't be sure, because they didn't supply a link. It had _something_ to do with sexual harassment, and all guesses I've seen match mine, that they must be referring to [this message](https://discuss.python.org/t/for-your-consideration-proposed-bylaws-changes-to-improve-our-membership-experience/55696/75), which briefly mentioned the topic. I have yet to see anyone, anywhere say that they did - or even _could_ - read it as making light of anything related to the topic. It's easy to find people who read it as intended (as condemnation of injustice to the _victims_): in replies to the SC's own topic, in various blogs, and in any number of "tech gossip" sites' comment sections. So while someone may very well have taken unintended offense at it, and I regret that if so, it cannot pass a "reasonable person" test.
