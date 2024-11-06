@@ -31,6 +31,7 @@ The actual truth is probably messier than all the above squared :smile:.
 
 I agree 7 Nov was a more plausible guess, and so does the SC, but they're not sure either. I suspect someone made a typo when filling out a Discourse admin web form on 7 Aug, perhaps entering 7 into the "hour" field instead of the "day" field by mistake. But no way to know now. As a matter of "practicality beats purity", the SC and I agreed to accept 1 Nov as the official end of the ban.
 
+<a id="crimeAnon">></a>
 **2024-11-04 Mon 02:00a CST**
 
 **Q:** Why did you suggest that evidence be discussed in PSF rather than Committers?
