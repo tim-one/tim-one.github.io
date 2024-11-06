@@ -40,13 +40,13 @@ I agree 7 Nov was a more plausible guess, and so does the SC, but they're not su
 
 > Discussing bans or removals of community members, which may be seen as publishing private information without permission.
 
-Of course that's baseless. I have never disclosed the name of anyone anonymously banned. I'm acutely aware of their desire to remain anonymous to whatever extent possible, and never betray their confidence in me.
+Of course that's baseless. I have never disclosed the name of anyone anonymously banned, to anyone. I'm acutely aware of their desire to remain anonymous to whatever extent possible, and never betray their confidence in me.
 
 I can only imagine they're misreading [this post](https://discuss.python.org/t/inclusive-communications-expectations-in-python-spaces/57950/30):
 
 > The worst outcome I’ve seen was from that, the least transparent ban. The best outcome from the most transparent one, although in that case SK nailed the door wide open by effectively saying FU on the way out. A whole lot was revealed about why he was booted, and that did not inspire much fear.
 
-Did my "SK" reveal their name without permission? Of course not. Their name is Stefan Krah, and there's a whole lot of open discussion about kicking him out available on Discourse. I used "SK" instead so as not to belabor the point. Brett certainly knew who I meant, and spelling out the full name was unnecessary in context. Leave the poor guy in peace.
+Did my "SK" reveal their name without permission? Of course not. Their name is Stefan Krah, and there's a [whole lot of open discussion](https://discuss.python.org/t/discussion-about-recent-coc-events/5778) about kicking him out available on Discourse. I used "SK" instead so as not to belabor the point. Brett certainly knew who I meant, and spelling out the full name was unnecessary in context. Leave the poor guy in peace.
 
 That's why I want everyone to be able to post: if someone out there feels I violated the CoC against them, I want them to be able to tell the world even if they aren't a core dev.
 
