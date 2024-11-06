@@ -144,6 +144,7 @@ I see that a target of the complaint no longer has the position they had at the 
 
 **2024-10-12 Sat 8:15p CDT**
 
+<a id="crimeSh"></a>
 **Q:** You won't publish your emails with the SC without permission, but which specific message did they give as an example?
 
 **A:** I can't be sure, because they didn't supply a link. It had _something_ to do with sexual harassment, and all guesses I've seen match mine, that they must be referring to [this message](https://discuss.python.org/t/for-your-consideration-proposed-bylaws-changes-to-improve-our-membership-experience/55696/75), which briefly mentioned the topic. I have yet to see anyone, anywhere say that they did - or even _could_ - read it as making light of anything related to the topic. It's easy to find people who read it as intended (as condemnation of injustice to the _victims_): in replies to the SC's own topic, in various blogs, and in any number of "tech gossip" sites' comment sections. So while someone may very well have taken unintended offense at it, and I regret that if so, it cannot pass a "reasonable person" test.
