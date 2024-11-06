@@ -31,7 +31,7 @@ The actual truth is probably messier than all the above squared :smile:.
 
 I agree 7 Nov was a more plausible guess, and so does the SC, but they're not sure either. I suspect someone made a typo when filling out a Discourse admin web form on 7 Aug, perhaps entering 7 into the "hour" field instead of the "day" field by mistake. But no way to know now. As a matter of "practicality beats purity", the SC and I agreed to accept 1 Nov as the official end of the ban.
 
-<a id="crimeAnon">></a>
+<a id="crimeAnon"></a>
 **2024-11-04 Mon 02:00a CST**
 
 **Q:** Why did you suggest that evidence be discussed in PSF rather than Committers?
@@ -134,6 +134,7 @@ I loved the post mostly for its love letters to Python and its community. Which,
 
 I see that a target of the complaint no longer has the position they had at the time of the complaint. But, technically, they have even more power now. Perhaps more removed from interacting with those without power. I would have happily settled for a private apology to me (and to the others involved - I can't know how many others received private messages spreading egregiously bad-faith libels about me on Discourse).
 
+<a id="crimeSNL"></a>
 **2024-10-14 Mon 09:30p CDT**
 
 **Q:** Who likes old comedy shows?! And where's the post? I can't find it.<br>
