@@ -5,9 +5,9 @@ title: PSF topics
 ## 2024 bans
 
 - [**Tim's**](silly) non-rebuttal of the list of his "crimes" in his ban
-- [**Chris McDonough's**](https://chrismcdonough.substack.com/p/ban-transparency-from-tim-peters) account of Tim's account of pre-ban PSF interactions
+- [**Tim's**](ban_qa) Q&A about ban details
+- [**Chris McDonough's**](https://chrismcdonough.substack.com/p/ban-transparency-from-tim-peters) account of Tim's account of PSF interactions before his ban
 - [**Tim's**](ban) account of PSF interactions before his ban
-  - and [**brief Q&A**](ban_qa) from responses to Tim's account
 - [**LWN's**](https://lwn.net/Articles/988894/) account of Tim's ban; by far the best "news" article I've seen, finding fault on all sides
 - [**Chris McDonough's**](https://chrismcdonough.substack.com/p/the-shameful-defenestration-of-tim) account of Tim's ban announcement
 - [**Karl Knechtel's**](https://zahlman.github.io/politics/the-psf/2024/08/10/open-letter-psf-coc-wg-addendum-1-tim-peters.html) account of Tim's ban announcement
