@@ -107,7 +107,7 @@ to have been made in bad faith. ***A key to this***
 is that it was mostly very vague, and the one specific[^1] claim it made
 didn't pass a "reasonable person" test to me[^2].
 
-[^1]: _Which_ post was still somewhat vague - no link was given, so it was left to guesswork. I think it was "clear enough", and everyone else later appeared to have the same guess, which is spelled out in the [2024-10-12 entry](ban_qa) of the Q&A page
+[^1]: _Which_ post was still somewhat vague - no link was given, so it was left to guesswork. I think it was "clear enough", and everyone else later appeared to have the same guess, which is spelled out in the [2024-10-12 entry](ban_qa#crimeSH) of the Q&A page
 
 [^2]: While they didn't reply, they apparently agreed, since the specific claim they made never appeared in public - they changed the claim (same post, but changed the claim about what was offensive about it) before public posting, but to one which also didn't pass a reasonable person test to me - at which point my suspicion of bad faith increased.
 
