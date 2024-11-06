@@ -14,7 +14,7 @@ For reference, the bizarre list of "CoC violations", supplied by the CoC WG, par
 
 - Casually mentioning scenarios involving sexual abuse, which may be inappropriate or triggering for some audiences.
 
-- Discussing bans or removals of community members, which may be seen as publishing private information without permission.
+- Discussing bans or removals of community members, which may be seen as publishing private information without permission. [&#x27F6;](ban_qa#crimeAnon)
 
 - Dismissing unacceptable behavior of others as a “neurodivergent” trait, which is problematic because it creates a stereotype that neurodivergent people are hard to interact with and need special treatment.
 
