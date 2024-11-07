@@ -31,11 +31,11 @@ Some of the links above resolve to write-ups below.
 <a id="crimeSA"></a>
 - Casually mentioning scenarios involving sexual abuse, which may be inappropriate or triggering for some audiences.
 
-Therr is a tiny shred of merit to this one. In my [account of pre-ban](ban) interactions, I noted that a mod once told me that a post was potentially offensive. It did mention sexual abuse, but not at all casually. The mod only asked me not to use "sexual abuse" in a hypothetical example again. In context, I thought the complaint was at best weakly justified, but in the interest of accommodation I didn't argue about it. Instead I edited two posts tose a different example, doing more than he asked for.
+There is a tiny shred of merit to this one. In my [account of pre-ban](ban) interactions, I noted that a mod once told me that a post was potentially offensive. It did mention sexual abuse, but not at all casually. The mod only asked me not to use "sexual abuse" in a hypothetical example again. In context, I thought the complaint was at best weakly justified, but in the interest of accommodation I didn't argue about it. Instead I edited two posts to use a different example, doing more than he asked for.
 
 You can see the changes by looking at the edit histories [here](https://discuss.python.org/t/considerations-around-legal-advice/56781/14) and [here](https://discuss.python.org/t/considerations-around-legal-advice/56781/16)
 
-That's why nobody can find any post of mine even mentioning "sexual abuse". Those were the only ones that ever did. It showed up in my list of "violations" anyway.
+That's why nobody can find any post of mine even mentioning "sexual abuse". Those were the only ones that ever did (and the second post just quoted the use in the first post). It showed up in my list of "violations" anyway.
 
 ---
 <a id="crimeAllude"></a>
