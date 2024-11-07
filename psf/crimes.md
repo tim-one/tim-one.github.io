@@ -20,6 +20,15 @@ For reference, the bizarre list of "CoC violations", supplied by the CoC WG, par
 
 - Excessive discussion of controversial topics or past conflicts, which could be seen as sustained disruption of community discussions.
 
-- Use of potentially offensive terms, even when self-censored or alluded to indirectly.
+- Use of potentially offensive terms, even when self-censored or alluded to indirectly. [&#x27F6;](#crimeAllude)
 
 - Making assumptions or speculations about other community members’ motivations and/or mental health.
+
+## Notes
+Some of the links above resolve to writeups below.
+
+---
+<a id="crimeAllude"></a>
+- Use of potentially offensive terms, even when self-censored or alluded to indirectly.
+
+If you can translate that to coherent English, let me know :wink:. I don't know what it's trying to say. That it violates the CoC to _avoid_ using potentially offensive terms? It really needs an example to clarify what it may be talking about. If it's referring to "XXXX", [see here](xxxx).
