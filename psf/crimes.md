@@ -58,3 +58,5 @@ Does that violate the CoC? I don't know. There appear to be a whole universe of 
 With respect to which, you can read Karl's blog for yourself (see links on my [PSF topics](../psf) page. Karl had no problem with what I did, and seems to endorse my speculations. In which case, where's the victim here?
 
 Or are they talking about something else? Who can possibly know, since the complaint is so utterly vague?
+
+BTW, I absolutely reject the notion that I ever speculated about anyone's "mental health". Varieties of neurodivergence are no more matters of "mental health" than are, e.g., varieties of sexual orientation. I would no more question the "mental health" of Karl than I would, e.g., of a transgender person for not being  cissexual. While the complaint here is too vague to know for sure what they're talking about, if they are questioning the mental health of the neurodivergent, I suggest they look into their own neurotypical prejudices.
