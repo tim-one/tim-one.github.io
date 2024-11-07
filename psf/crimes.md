@@ -16,7 +16,7 @@ For reference, the bizarre list of "CoC violations", supplied by the CoC WG, par
 
 - Discussing bans or removals of community members, which may be seen as publishing private information without permission. [&#x27F6;](ban_qa#crimeAnon)
 
-- Dismissing unacceptable behavior of others as a “neurodivergent” trait, which is problematic because it creates a stereotype that neurodivergent people are hard to interact with and need special treatment.
+- Dismissing unacceptable behavior of others as a “neurodivergent” trait, which is problematic because it creates a stereotype that neurodivergent people are hard to interact with and need special treatment.[&#x27F6;](#crimeNeuro) 
 
 - Excessive discussion of controversial topics or past conflicts, which could be seen as sustained disruption of community discussions.
 
@@ -42,6 +42,12 @@ That's why nobody can find any post of mine even mentioning "sexual abuse". Thos
 - Use of potentially offensive terms, even when self-censored or alluded to indirectly.
 
 If you can translate that to coherent English, let me know :wink:. I don't know what it's trying to say. That it violates the CoC to _avoid_ using potentially offensive terms? It really needs an example to clarify what it may be talking about. If it's referring to "XXXX", [see here](xxxx).
+
+---
+<a id="crimeNeuro"></a>
+- Dismissing unacceptable behavior of others as a “neurodivergent” trait, which is problematic because it creates a stereotype that neurodivergent people are hard to interact with and need special treatment.
+
+Not worth "refuting". It appears to be bad-faith misreading, based on cherry-picking sentences out of context. For example, I mentioned Karl Knecthel specifically but referred to him later via singular "they". Which some people read as the plural "they", concluding that I was ascribing details specific to Karl to _all_ neurodivergent people. Fair enough, but as soon as that became clear I clarified the intent, and edited the post to prevent future such misreadings. Didn't matter. There is no grace, or tolerance for human error, in this process. I _was_ guilty of not beeing 100% clear on the first try every time.
 
 ---
 <a id="crimeSpec"></a>
