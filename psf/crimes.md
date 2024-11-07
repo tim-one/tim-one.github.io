@@ -49,7 +49,7 @@ If you can translate that to coherent English, let me know :wink:. I don't know 
 
 People are social animals. Speculating about others' internal states is hardwired in most. It's essential to compassion and empathy.
 
-Speculation "out loud" is often inappropiate, though, and I don't believe I've ever done much of that. For example, I've frequently speculated about why the OoC WG got so much so wrong in my list of "violations". But I don't air those internal guesses - none of them are flattering, and I rarely comment if the principle of charity can't be stretched to come up with a positive interpretation.
+Speculation "out loud" is often inappropriate, though, and I don't believe I've ever done much of that. For example, I've frequently speculated about why the CoC WG got so much so wrong in my list of "violations". But I don't air those internal guesses - none of them are flattering, and I rarely comment if the principle of charity can't be stretched to come up with a positive interpretation.
 
 But I did indeed speculate openly about Karl Knechtel's internal states. In Karl's case, his "indefinite suspension" from Discourse was what spurred me to start a topic on neurodivergence, and since Karl was locked out he couldn't speak for himself. I felt I did have non-trivial insight into his internal states, and was open about speaking for him, although stressing that these were only my best guesses.
 
