@@ -22,9 +22,9 @@ For reference, the bizarre list of "CoC violations", supplied by the CoC WG, par
 
 - Use of potentially offensive terms, even when self-censored or alluded to indirectly. [&#x27F6;](#crimeAllude)
 
-- Making assumptions or speculations about other community members’ motivations and/or mental health.
+- Making assumptions or speculations about other community members’ motivations and/or mental health. [&#x27F6;](#crimeSpec)
 
-## Notes
+### Notes
 Some of the links above resolve to write-ups below.
 
 ---
@@ -42,3 +42,19 @@ That's why nobody can find any post of mine even mentioning "sexual abuse". Thos
 - Use of potentially offensive terms, even when self-censored or alluded to indirectly.
 
 If you can translate that to coherent English, let me know :wink:. I don't know what it's trying to say. That it violates the CoC to _avoid_ using potentially offensive terms? It really needs an example to clarify what it may be talking about. If it's referring to "XXXX", [see here](xxxx).
+
+---
+<a id="crimeSpec"></a>
+- Making assumptions or speculations about other community members’ motivations and/or mental health.
+
+People are social animals. Speculating about others' internal states is hardwired in most. It's essential to compassion and empathy.
+
+Speculation "out loud" is often inappropriate, though, and I don't believe I've ever done much of that. For example, I've frequently speculated about why the CoC WG got so much so wrong in my list of "violations". But I don't air those internal guesses - none of them are flattering, and I rarely comment if the principle of charity can't be stretched to come up with a positive interpretation.
+
+But I did indeed speculate openly about Karl Knechtel's internal states. In Karl's case, his "indefinite suspension" from Discourse was what spurred me to start a topic on neurodivergence, and since Karl was locked out he couldn't speak for himself. I felt I did have non-trivial insight into his internal states, and was open about speaking for him, although stressing that these were only my best guesses.
+
+Does that violate the CoC? I don't know. There appear to be a whole universe of things that violate the CoC that the CoC never actually says are violations :wink:. I try to live by the Golden Rule instead.
+
+With respect to which, you can read Karl's blog for yourself (see links on my [PSF topics](psf) page. Karl had no problem with what I did, and seems to endorse my speculations. In which case, where's the victim here?
+
+Or are they talking about something else? Who can possibly know, since the complaint is so utterly vague?
