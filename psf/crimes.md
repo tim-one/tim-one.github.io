@@ -53,7 +53,7 @@ Speculation "out loud" is often inappropriate, though, and I don't believe I've 
 
 But I did indeed speculate openly about Karl Knechtel's internal states. In Karl's case, his "indefinite suspension" from Discourse was what spurred me to start a topic on neurodivergence, and since Karl was locked out he couldn't speak for himself. I felt I did have non-trivial insight into his internal states, and was open about speaking for him, although stressing that these were only my best guesses.
 
-Does that violate the CoC? I don't know. There appear to be a whole universe of things that violate the CoC that the CoC never actually says are violations. I try to live by the Golden Rule instead.
+Does that violate the CoC? I don't know. There appear to be a whole universe of things that violate the CoC that the CoC never says are violations. I try to live by the Golden Rule instead.
 
 With respect to which, you can read Karl's blog for yourself (see links on my [PSF topics](../psf) page. Karl had no problem with what I did, and seems to endorse my speculations. In which case, where's the victim here?
 
