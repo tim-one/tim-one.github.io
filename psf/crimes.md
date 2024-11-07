@@ -25,7 +25,7 @@ For reference, the bizarre list of "CoC violations", supplied by the CoC WG, par
 - Making assumptions or speculations about other community members’ motivations and/or mental health.
 
 ## Notes
-Some of the links above resolve to writeups below.
+Some of the links above resolve to write-ups below.
 
 ---
 <a id="crimeSA"></a>
