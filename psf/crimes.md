@@ -1,5 +1,5 @@
 ---
-title: The crimes
+title: CoC "violations"
 ---
 
 For reference, the bizarre list of "CoC violations", supplied by the CoC WG, parroted in my [ban announcement](https://discuss.python.org/t/three-month-suspension-for-a-core-developer/60250). These are so off base they're not worth the bother of "refuting". I started [with one](silly), and lost all interest then. As time went on, it was convenient to refute others on Discourse, and in my [ban Q&A page](ban_qa). After each item that I said something substantial about, there's "&#x27F6;" at the end of the line, which links to the commentary:
@@ -47,7 +47,7 @@ If you can translate that to coherent English, let me know :wink:. I don't know 
 <a id="crimeNeuro"></a>
 - Dismissing unacceptable behavior of others as a “neurodivergent” trait, which is problematic because it creates a stereotype that neurodivergent people are hard to interact with and need special treatment.
 
-It appears to be bad-faith misreading, based on cherry-picking sentences out of context. For example, I mentioned Karl Knecthel specifically but referred to him later via singular "they". Which some people read as the plural "they", concluding that I was ascribing details specific to Karl to _all_ neurodivergent people. Fair enough, but as soon as that became clear I clarified the intent, and edited the post to prevent future such misreadings. Didn't matter. There is no grace, charity, or tolerance for human error, in this process. I _was_ guilty of not beeing 100% clear on the first try every time.
+It appears to be bad-faith misreading, based on cherry-picking sentences out of context. For example, I mentioned Karl Knechtel specifically but referred to him later via singular "they". Which some people read as the plural "they", concluding that I was ascribing details specific to Karl to _all_ neurodivergent people. Fair enough, but as soon as that became clear I clarified the intent, and edited the post to prevent future such misreadings. Didn't matter. There is no grace, charity, or tolerance for human error, in this process. I _was_ guilty of not being 100% clear on the first try every time.
 
 I'm confident that any reasonable person reading [the topic](https://discuss.python.org/t/how-can-we-better-support-neurodivergent-newcomers-to-the-community/58724) in whole will agree the claim is at best misleading.
 
