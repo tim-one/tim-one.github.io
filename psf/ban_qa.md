@@ -3,6 +3,37 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
+
+**2024-11-07 Thu 10:00p CST**
+
+**Q:** You were banned on Aug 7. You said the SC represented that you had agreed to do all that was required for the ban to be lifted (on its expiration day) the next day already, Aug 8. Yet you say you weren't asked to agree that the list of ["CoC violations"](crimes) even had any merit. What's missing? What _did_ you agree to?
+
+**A:** Another one I can't really explain, beyond just relating what happened. Part of the initial email I got from the SC, on Aug 7:
+
+> We would also like you to explicitly agree to follow the CoC WG going forward.
+
+And part of my reply, also on Aug 7:
+
+> I'm unclear on what that means. ... WRT plausible (to me) readings of "follow the CoC WG", yes, I accept that their reading of the CoC is dispositive, and explicitly agree to follow it. I cannot, however, honestly promise that I'll always believe their readings are reasonable. Requiring that I do that too is an implausible (to me) reading of "follow the CoC WG". So if that's what was intended, it needs more clarity. As is, in short I will follow the rules as best I understand them, regardless of whether I think they're reasonable in specific cases, but cannot promise to suspend my own judgment about whether they are reasonable.
+
+On Aug 8, they replied (in part):
+
+> That was an unfortunate typo that slipped through all of our proofreading.. I meant to say "follow the Code of Conduct", as in the CoC WG's original recommendation: "The WG asks that Tim agree to follow the Code of Conduct". We don't expect everyone to promise to agree with the _CoC WG_, just accept the Code of Conduct. It's clear that you do, so thank you.
+
+So that was that! It's important to note that the SC never replied (as a group) to anything I sent them  about the ban again[^ghost] until Nov 4, when I asked if the ban was over. So later on Aug 8, I replied (in part, and not realizing I'd never hear back):
+
+[^ghost]: The relentless ghosting is something I can't explain either. I see nothing about ghosting in any PSF CoC-related docs, nobody said it would happen, nobody acknowledged it _was_ happening, and it was about two months before I realized that trying to discuss anything with the SC would be rigidly ignored. I gave up trying.
+
+> Sorry that I'll need to elaborate, to prevent future misunderstanding:
+>
+> That's why I can't post at all - in my understanding, I have almost never violated the CoC.
+
+And so on. I had never agreed I violated the CoC to begin with, so what was the point of saying I would follow the CoC going forward? They're asking me to agree that I wouldn't _stop_ following the CoC? That made little sense to me, so I pressed for clarity. But got none.
+
+Anyway, so far I believe I stuck to my word: I don't believe I've violated the CoC since coming back - but didn't believe I materially violated the CoC before the ban either.
+
+Any further clarity about this can't come from me - you know as much as I do about this now.
+
 **2024-11-04 Mon 08:45p CST**
 
 **Q:** You seem to give little credence to the list of ["CoC violations"](crimes). Yet the ban was lifted. Did you agree in private you were guilty of them?
