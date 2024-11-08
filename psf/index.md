@@ -4,7 +4,7 @@ title: PSF topics
 
 ## 2024 bans
 
-- [**Tim's**](silly) non-rebuttal of the list of his "crimes" in his ban
+- [**Tim's**](crimes) responses to the claimed CoC violations
 - [**Tim's**](ban_qa) Q&A about ban details
 - [**Chris McDonough's**](https://chrismcdonough.substack.com/p/ban-transparency-from-tim-peters) account of Tim's account of PSF interactions before his ban
 - [**Tim's**](ban) account of PSF interactions before his ban

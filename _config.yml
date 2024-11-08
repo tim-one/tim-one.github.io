@@ -40,7 +40,7 @@ plugins:
 
 header_pages:
   - psf/index.md
-  - psf/ban.md
+  - psf/crimes.md
   - psf/ban_qa.md
   - psf/meaculpa.md
 

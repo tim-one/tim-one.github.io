@@ -1,5 +1,5 @@
 ---
-title: CoC "violations"
+title: CoC responses
 ---
 
 For reference, the bizarre list of "CoC violations", supplied by the CoC WG, parroted in my [ban announcement](https://discuss.python.org/t/three-month-suspension-for-a-core-developer/60250). These are so off base they're not worth the bother of "refuting". I started [with one](silly), and lost all interest then. As time went on, it was convenient to refute others on Discourse, and in my [ban Q&A page](ban_qa). After each item that I said something substantial about, there's "&#x27F6;" at the end of the line, which links to the commentary:
