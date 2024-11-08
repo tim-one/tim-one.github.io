@@ -37,6 +37,7 @@ url: "https://tim-one.github.io" # the base hostname & protocol for your site, e
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 header_pages:
   - psf/index.md
