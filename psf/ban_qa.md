@@ -6,7 +6,7 @@ Brief replies to questions from a variety of sources, most recent first.
 
 **2024-11-07 Thu 10:00p CST**
 
-**Q:** You were banned on Aug 7. You said the SC represented that you had agreed to do all that was required for the ban to be lifted (on its expiration day) the next day already, Aug 8. Yet you say you weren't asked to agree that the list of ["Coc violations"](crimes) even had any mwerit. Whar'a miaaing? What _did_ you agree to?
+**Q:** You were banned on Aug 7. You said the SC represented that you had agreed to do all that was required for the ban to be lifted (on its expiration day) the next day already, Aug 8. Yet you say you weren't asked to agree that the list of ["CoC violations"](crimes) even had any merit. What'd missing? What _did_ you agree to?
 
 **A:** Another one I can't really explain, beyond just relating what happened. Part of the initial email I got from the SC, on Aug 7:
 
