@@ -11,7 +11,7 @@ Reason: No constructive purpose to their actions other than creating dissent wit
 
 I see no legitimate reason for these actions. To the contrary, a healthy community _needs_ open discussion of contentious issues!
 
-My personal complaint is that "willy" misrepresented what I did, but by echoing the misrepresntations the PSF made in my list of ["violationd"](crimes) (no, I never mentioned reverse sexism; no, far from defending the doctrine of reverse racism, I opposed it; and I never expressed an opinion about any SNL sketch - all misreading the plain meaning of plain English).
+My personal complaint is that "willy" misrepresented what I did, but by echoing the misrepresentations the PSF made in my list of ["violationd"](crimes) (no, I never mentioned reverse sexism; no, far from defending the doctrine of reverse racism, I opposed it; and I never expressed an opinion about any SNL sketch - all misreading the plain meaning of plain English).
 
 
 Subject: [PSF] A Call for Balance: Reconsidering extremist political views<br>
