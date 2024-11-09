@@ -2,11 +2,11 @@ This was posted in the early morning of 2024-11-08 to the PSF category. It was h
 
 It was from a new account, almost certainly using a pseudonym. Here's the [account info](https://discuss.python.org/u/woke/summary), which says:
 
-"""
-willy Wokesson
-woke
-This user is suspended.
-Reason: No constructive purpose to their actions other than creating dissent within the community
+"""<br>
+willy Wokesson<br>
+woke<br>
+This user is suspended.<br>
+Reason: No constructive purpose to their actions other than creating dissent within the community<br>
 """
 
 I see no legitimate reason for these actions. To the contrary, a healthy community _needs_ open discussion of contentious issues!
@@ -14,7 +14,7 @@ I see no legitimate reason for these actions. To the contrary, a healthy communi
 My personal complaint is that "willy" mispresented what I did, but by echoing the misrepresntatinos the PSF made in my list of ["violationd"](crimes) (no, I never mentioned reverse sexism; no, far from defending the doctrine of reverse racism, I opposed it; and I never expressed an opinion about any SNL sketch - all misreading the plain meaning of plain English).
 
 
-Subject: [PSF] A Call for Balance: Reconsidering extremist political views
+Subject: [PSF] A Call for Balance: Reconsidering extremist political views<br>
 Date: 2024-11-08 Fri
 
 Dear Python Community,
