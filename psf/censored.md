@@ -14,7 +14,7 @@ I see no legitimate reason for these actions. To the contrary, a healthy communi
 My personal complaint is that "willy" misrepresented what I did, but by echoing the misrepresentations the PSF made in my list of ["violations"](crimes) (no, I never mentioned reverse sexism; no, far from defending the doctrine of reverse racism, I opposed it; and I never expressed an opinion about any SNL sketch - all misreading the plain meaning of plain English).
 
 
-Subject: [PSF] A Call for Balance: Reconsidering extremist political views<br>
+### Subject: [PSF] A Call for Balance: Reconsidering extremist political views<br>
 Date: 2024-11-08 Fri
 
 Dear Python Community,
