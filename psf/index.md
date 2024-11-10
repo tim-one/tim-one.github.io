@@ -17,7 +17,7 @@ title: PSF topics
 
 “So the pendulum swings, now violently, now slowly; and every institution not only carries within it the seeds of its own dissolution, but prepares the way for its most hated rival.” —  William Ralph Inge
 
-- [**"willy Wokesson"'s**](censored) 2024 disturbingly suppressed call for discussion on the PSF's Discourse
+- [**willy Wokesson's**](censored) 2024 disturbingly suppressed call for discussion on the PSF's Discourse
 > t's crucial to differentiate between truly harmful behavior and discussions that might challenge our sensibilities but contribute to our collective growth.
 - [**Peter Bittner's**](https://painless.software/letter-to-tim-peters-author-of-pep20) 2024 "Letter to Tim Peters, Author of PEP20"
 >  My vision of a society that I want to live in is one where people try to understand each other, even when this is difficult sometimes. 
