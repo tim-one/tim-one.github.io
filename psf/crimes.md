@@ -2,7 +2,7 @@
 title: CoC responses
 ---
 
-For reference, the bizarre list of "CoC violations", supplied by the CoC WG, parroted in my [ban announcement](https://discuss.python.org/t/three-month-suspension-for-a-core-developer/60250). These are so off base they're not worth the bother of "refuting". I started [with one](silly), and lost all interest then. As time went on, it was convenient to refute others on Discourse, and in my [ban Q&A page](ban_qa). After each item that I said something substantial about, there's "&#x27F6;" at the end of the line, which links to the commentary:
+For reference, the bizarre list of "CoC violations", supplied by the CoC WG, parroted in my [ban announcement](https://discuss.python.org/t/three-month-suspension-for-a-core-developer/60250). These are so off base they're not worth the bother of "refuting". I started [with one](silly), and lost all interest then. As time went on, it was convenient to refute others on Discourse, and in my [ban Q&A page](ban_qa). "&#x27F6;" at the end of an item links to my commentary:
 
 - Overloading the discussion of the bylaws change (47 out of 177 posts in topic at the time the moderators closed the topic), which created an atmosphere of fear, uncertainty, and doubt, which encouraged increasingly emotional responses from other community members. The later result of the vote showed 81% support for the most controversial of the bylaws changes, which demonstrates the controversy was blown out of proportion. [&#x27F6;](https://discuss.python.org/t/shedding-light-on-a-three-month-suspension/66337/79)
 
