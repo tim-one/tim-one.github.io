@@ -67,7 +67,7 @@ I agree 7 Nov was a more plausible guess, and so does the SC, but they're not su
 
 **Q:** Why did you suggest that evidence be discussed in PSF rather than Committers?
 
-**A:** So everyone can post. Only core devs can post in Committers, and there's already a relevant topic in the unrestricted PSF category. This is like "Groundhog Day". One of my claimed CoC violations:
+**A:** So everyone can post. Only core devs can post in Committers, and there's already a relevant topic in the unrestricted PSF category. One of my claimed CoC violations:
 
 > Discussing bans or removals of community members, which may be seen as publishing private information without permission.
 
@@ -79,7 +79,7 @@ I can only imagine they're misreading [this post](https://discuss.python.org/t/i
 
 Did my "SK" reveal their name without permission? Of course not. Their name is Stefan Krah, and there's a [whole lot of open discussion](https://discuss.python.org/t/discussion-about-recent-coc-events/5778) about kicking him out available on Discourse. I used "SK" instead so as not to belabor the point. Brett certainly knew who I meant, and spelling out the full name was unnecessary in context. Leave the poor guy in peace.
 
-That's why I want everyone to be able to post: if someone out there feels I violated the CoC against them, I want them to be able to tell the world even if they aren't a core dev.
+That's why I want everyone to be able to post: if someone out there feels I violated the CoC against them, I want them to be able to tell the world even if they aren't a core dev. For SK, the case for banning became much clearer (at least to me) when people in the open discussion volunteered new information.
 
 **2024-11-03 Sun 05:00p CST**
 
