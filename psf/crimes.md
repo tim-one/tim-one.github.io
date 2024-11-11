@@ -69,7 +69,7 @@ But I did indeed speculate openly about Karl Knechtel's internal states. In Karl
 
 Does that violate the CoC? I don't know. There appear to be a whole universe of things that violate the CoC that the CoC never says are violations. I try to live by the Golden Rule instead.
 
-With respect to which, you can read Karl's blog for yourself (see links on my [PSF topics](../psf) page. Karl had no problem with what I did, and seems to endorse my speculations. In which case, where's the victim here?
+With respect to which, you can read Karl's blog for yourself (see links on my [PSF topics](../psf)) page. Karl had no problem with what I did, and seems to endorse my speculations. In which case, where's the victim here?
 
 Or are they talking about something else? Who can possibly know, since the complaint is so utterly vague?
 
