@@ -79,7 +79,7 @@ I can only imagine they're misreading [this post](https://discuss.python.org/t/i
 
 Did my "SK" reveal their name without permission? Of course not. Their name is Stefan Krah, and there's a [whole lot of open discussion](https://discuss.python.org/t/discussion-about-recent-coc-events/5778) about kicking him out available on Discourse. I used "SK" instead so as not to belabor the point. Brett certainly knew who I meant, and spelling out the full name was unnecessary in context. Leave the poor guy in peace.
 
-That's why I want everyone to be able to post: if someone out there feels I violated the CoC against them, I want them to be able to tell the world even if they aren't a core dev. For SK, the case for banning became much clearer (at least to me) when people in the open discussion volunteered new informatinon.
+That's why I want everyone to be able to post: if someone out there feels I violated the CoC against them, I want them to be able to tell the world even if they aren't a core dev. For SK, the case for banning became much clearer (at least to me) when people in the open discussion volunteered new information.
 
 **2024-11-03 Sun 05:00p CST**
 
