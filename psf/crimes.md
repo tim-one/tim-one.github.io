@@ -65,7 +65,7 @@ People are social animals. Speculating about others' internal states is hardwire
 
 Speculation "out loud" is often inappropriate, though, and I don't believe I've ever done much of that. For example, I've frequently speculated about why the CoC WG got so much so wrong in my list of "violations". But I don't air those internal guesses - none of them are flattering, and I rarely comment if the principle of charity can't be stretched to come up with a positive interpretation.
 
-But I did indeed speculate openly about Karl Knechtel's internal states. In Karl's case, his "indefinite suspension" from Discourse was what spurred me to start a topic on neurodivergence, and since Karl was locked out he couldn't speak for himself. I felt I did have non-trivial insight into his internal states, and was open about speaking for him, although stressing that these were only my best guesses.
+But I did indeed speculate openly about Karl Knechtel's internal states. In Karl's case, his "indefinite suspension" from Discourse was part of what spurred me to start a topic on neurodivergence, and since Karl was locked out he couldn't speak for himself. I felt I did have non-trivial insight into his internal states, and was open about speaking for him, although stressing that these were only my best guesses.
 
 Does that violate the CoC? I don't know. There appear to be a whole universe of things that violate the CoC that the CoC never says are violations. I try to live by the Golden Rule instead.
 
