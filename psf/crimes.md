@@ -77,4 +77,4 @@ BTW, I absolutely reject the notion that I ever speculated about anyone's "menta
 
 ---
 
-[^GR]: In my view, the Golden Rule is at the heart of every compassionate code of human relations, perhaps augmented in fuzzy cases by the [principle of charity](https://en.wikipedia.org/wiki/Principle_of_charity). The principle of charity should also be used for judging others, and would be in a truly healthy community. I'd settle for a harsher "reasaonable person" test instead, which is what most sane legal systems settle for. The PSF, alas, doesn't appear to embrace either.
+[^GR]: In my view, the Golden Rule is at the heart of every compassionate code of human relations, perhaps augmented in fuzzy cases by the [principle of charity](https://en.wikipedia.org/wiki/Principle_of_charity). The principle of charity should also be used for judging others, and would be in a truly healthy community. I'd settle for a harsher "reasonable person" test instead, which is what most sane legal systems settle for. The PSF, alas, doesn't appear to embrace either.
