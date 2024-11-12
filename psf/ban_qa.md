@@ -22,7 +22,7 @@ On Aug 8, they replied (in part):
 
 So that was that! It's important to note that the SC never replied (as a group) to anything I sent them  about the ban again[^ghost] until Nov 4, when I asked if the ban was over. So later on Aug 8, I replied (in part, and not realizing I'd never hear back):
 
-[^ghost]: The relentless ghosting is something I can't explain either. I see nothing about ghosting in any PSF CoC-related docs, nobody said it would happen, nobody acknowledged it _was_ happening, and it was about two months before I realized that trying to discuss anything with the SC would be rigidly ignored. I gave up trying.
+[^ghost]: The relentless ghosting is something I can't explain either. I see nothing about ghosting in any PSF CoC-related docs, nobody said it would happen, nobody acknowledged it _was_ happening, and it was well over a month before I realized that trying to discuss anything with the SC would be rigidly ignored. I gave up trying.
 
 > Sorry that I'll need to elaborate, to prevent future misunderstanding:
 >
