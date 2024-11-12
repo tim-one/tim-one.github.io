@@ -67,10 +67,14 @@ Speculation "out loud" is often inappropriate, though, and I don't believe I've 
 
 But I did indeed speculate openly about Karl Knechtel's internal states. In Karl's case, his "indefinite suspension" from Discourse was part of what spurred me to start a topic on neurodivergence, and since Karl was locked out he couldn't speak for himself. I felt I did have non-trivial insight into his internal states, and was open about speaking for him, although stressing that these were only my best guesses.
 
-Does that violate the CoC? I don't know. There appear to be a whole universe of things that violate the CoC that the CoC never says are violations. I try to live by the Golden Rule instead.
+Does that violate the CoC? I don't know. There appear to be a whole universe of things that violate the CoC that the CoC never says are violations. I try to live by the Golden Rule[^GR] instead.
 
 With respect to which, you can read Karl's blog for yourself (see links on my [PSF topics](../psf)) page. Karl had no problem with what I did, and seems to endorse my speculations. In which case, where's the victim here?
 
 Or are they talking about something else? Who can possibly know, since the complaint is so utterly vague?
 
 BTW, I absolutely reject the notion that I ever speculated about anyone's "mental health". Varieties of neurodivergence are no more matters of "mental health" than are, e.g., varieties of gender or sexual orientation. I would no more question the "mental health" of Karl than I would, e.g., of a transsexual person for not being cissexual. While the complaint here is too vague to know what they're talking about, if they are questioning the mental health of the neurodivergent, I suggest they look into their own prejudices.
+
+---
+
+[^GR]: In my view, the Golden Rule is at the heart of every compassionate code of human relations, perhaps augmented in fuzzy cases by the [principle of charity](https://en.wikipedia.org/wiki/Principle_of_charity). The principle of charity should also be used for judging others, and would be in a truly healthy community. I'd settle for a harsher "reasonable person" test instead, which is what most sane legal systems settle for. The PSF, alas, doesn't appear to embrace either.
