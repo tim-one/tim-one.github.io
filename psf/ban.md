@@ -104,7 +104,7 @@ reproduce my reply to them (which quotes their email).
 
 In the end, their message appeared to me, rightly or wrongly,
 to have been made in bad faith. ***A key to this***
-is that it was mostly very vague, and the one specific[^1] claim it made
+is that it was mostly very vague, and the one specific[^1] [claim](ban_qa#crimeSH) it made
 didn't pass a "reasonable person" test to me[^2].
 
 [^1]: _Which_ post was still somewhat vague - no link was given, so it was left to guesswork. I think it was "clear enough", and everyone else later appeared to have the same guess, which is spelled out in the [2024-10-12 entry](ban_qa#crimeSH) of the Q&A page
