@@ -71,3 +71,4 @@ unwoke
 wokeness
 Workgroup
 Wokesson's
+PyCon
