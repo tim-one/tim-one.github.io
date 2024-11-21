@@ -22,6 +22,7 @@ title: PSF topics
 - [**willy Wokesson's**](censored) disturbingly suppressed call for discussion on the PSF's Discourse
 > t's crucial to differentiate between truly harmful behavior and discussions that might challenge our sensibilities but contribute to our collective growth.
 - [**David Mertz's**](https://www.youtube.com/watch?v=TOB1CEaZcDk) keynote address at PyCon Nigeria, "Python as a Social Fact"
+> Codes of conduct are meant to encourage cooperation and deference, but they can sometimes simultaneously attract zealots devoted to their draconian and capricious enforcement. ... A descent into a miniature authoritarianism can emerge from a collective feeling of what a community means. Those who carry out “purification” generally believe they are acting from consensus, and even from demands of the larger groups.
 - [**Peter Bittner's**](https://painless.software/letter-to-tim-peters-author-of-pep20) "Letter to Tim Peters, Author of PEP20"
 >  My vision of a society that I want to live in is one where people try to understand each other, even when this is difficult sometimes. 
 - [**Steve Holden's**](https://www.linkedin.com/posts/holdenweb_psf-coc-banishment-activity-7248238831806595072-sPbY) LinkedIn post on proper balance among Foundation goals
