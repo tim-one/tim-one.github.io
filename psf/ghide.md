@@ -2,7 +2,7 @@
 title: Moderation Insanity
 ---
 
-On 25-Aug-2025, Guido van Rossum (Python's creator) posted some [very mild shade](https://discuss.python.org/t/should-we-consider-ranked-choice-voting-for-sc-elections/61880/6) at my ban, in a topic about moving to a different voting method for Steering Council (SC) elections.
+On 25-Aug-2024, Guido van Rossum (Python's creator) posted some [very mild shade](https://discuss.python.org/t/should-we-consider-ranked-choice-voting-for-sc-elections/61880/6) at my ban, in a topic about moving to a different voting method for Steering Council (SC) elections.
 
 >  I don’t know much about voting systems, but I know someone who does. Unfortunately he’s currently banned. Maybe we can wait until his 3-month ban expires and ask him for advice?
 
