@@ -111,3 +111,10 @@ As things turned out, the core devs agreed to switch to "bloc STAR", thanks to G
 
 But that isn't the point here either. The point is how very maddening bad moderation policies can be. And also how maddening trying to point that out can be. Matthew's is one of the few cases I've heard of where the CoC WG even bothered to reply to email. Sure, they're busy. In which case perhaps they shouldn't butt in so much on trivialities to begin with :wink:.
 
+Note: I believe Judge Dredd, and the CoC WG, couldn't identify "a rule" Guido's post violated because there simply isn't one in the cited
+
+>  Guidelines - Discussions on Python.org as well as here: Python Software Foundation Code of Conduct - Python Software Foundation Policies
+
+The "not a role model" justification comes from a somewhat strained reading of PEP 13, and applies _only_ to core devs (of which, of course, Guido is one). There is no attempt of any kind to explain what "role model" means, and the SC has taken the position that it can do anything it likes to any core dev who isn't acting like a role model, in their sole opinion. No CoC or "community guidelines" violations are needed. This is strictly a "core dev, via PEP 13" thing.
+
+But it's surprising news to me if the mods are tasked with enforcing their own opinions of what the SC's opinions about what "role model" may mean. Leaving aside that, as above, there was no credible explanation given for in what way Guido wasn't acting as a role model. To the contrary, his suggestion was perfectly sensible in context. There was no actual rush to pick a new voting method, as the issue was raised far too late to be implemented for the upcoming SC 2025-term election. He didn't even say he had any objection to my ban.
