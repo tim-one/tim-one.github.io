@@ -70,7 +70,7 @@ Here's the entire exchange. I've changed the name of the mod to Judge Dredd. Whi
     subject is a satisfactory reason for you to cancel a post. Is
     that right?
 
-    Matthew Dixon Cowless
+    Matthew Dixon Cowles
 
 \---------------------------------------------------------------------<br>
     **Judge Dredd doom Aug 28**
