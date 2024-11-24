@@ -30,15 +30,13 @@ After Guido & I recounted this story on Discourse, Matthew Dixon Cowles sent me 
 
 Here's the entire exchange. I've changed the name of the mod to Judge Dredd. While part of me wants to name them, larger parts don't want to accuse someone in a forum where they can't speak. Under the principle of charity, I'll just assume they were having a very hard time thinking that day, for whatever reason(s) that aren't my business.
 
----
----
+\---------------------------------------------------------------------<br>
     **Matthew Dixon Cowles mdcowles Aug 28**
 
     Please tell me what rule Guido’s post violated.
 
     Matthew Dixon Cowles
----
----
+\---------------------------------------------------------------------<br>
     **Judge Dredd doom Aug 28**
 
     Multiple people indicated they felt that post was inappropriate
@@ -52,8 +50,7 @@ Here's the entire exchange. I've changed the name of the mod to Judge Dredd. Whi
     anything said by them. Core team members are expected to act as
     role models for the community, and that post didn't match that
     expectation.
----
----
+\---------------------------------------------------------------------<br>
     **Matthew Dixon Cowles mdcowles Aug 28**
 
     > Multiple people indicated they felt that post was inappropriate
@@ -72,9 +69,8 @@ Here's the entire exchange. I've changed the name of the mod to Judge Dredd. Whi
     that right?
 
     Matthew Dixon Cowles
----
----
-    **Judge Dredd doom Aug 289**
+\---------------------------------------------------------------------<br>
+    **Judge Dredd doom Aug 28**
 
     > I asked about a rule.
 
@@ -91,8 +87,7 @@ Here's the entire exchange. I've changed the name of the mod to Judge Dredd. Whi
     this, please send a report to the Code of Conduct team: Python
     Software Foundation Code of Conduct - Python Software Foundation
     Policies
----
----
+\---------------------------------------------------------------------<br>
 
 And Matthew adds:
 
