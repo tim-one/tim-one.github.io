@@ -14,7 +14,7 @@ When that flag is clicked, the user has a choice to make about _why_ they clicke
 
 That's it. Extremely broad, and in my experience impossible to guess _what_ was found to be "offensive", etc.
 
-Whenever I got one of these, I ignored it. Hidden posts sit in a queue waiting for moderator review, and for a long time mods always unhid my posts again on their own initiative (although very late in my pre-ban life, that changed, and it _appeared_ the mods had an agenda of hiding my posts ASAP on their own, and never un-hid them again). But that doesn't matter here.
+Whenever I got one of these, I ignored it. Hidden posts sit in a queue waiting for moderator review, and for a long time mods always unhid my posts again on their own initiative (although very late in my pre-ban life, that changed, and it _appeared_ the mods had an agenda of hiding my posts ASAP on their own, and never unhid them again). But that doesn't matter here.
 
 What does is that Guido's mild post was not getting unhidden by mod magic. There are more stories here about how tech-gossip sites speculated about why the PSF hid a post by Guido, and threatened to turn into another PR mini-disaster for the PSF. I'll skip those too. Suffice it to say that Guido and I both communicated with "press contacts" to assure them that it was probably just Discourse's auto-hiding algorithm at work, and that the post would soon enough become visible again.
 
