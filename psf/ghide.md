@@ -20,7 +20,7 @@ What does is that Guido's mild post was not getting unhidden by mod magic. There
 
 And so it was, before any "reputable" news site reported on the tech-gossip speculations.
 
-But it turns there's more to this story that hasn't been told before. Guido sent direct messages to the mods to ask why his post was hidden, and one mod in particular wouldn't reply. I'll call that mod "Judge Dredd" here. Another mod did reply, and quickly made the post visible again.
+But it turns out there's more to this story that hasn't been told before. Guido sent direct messages to the mods to ask why his post was hidden, and one mod in particular wouldn't reply. I'll call that mod "Judge Dredd" here. Another mod did reply, and quickly made the post visible again.
 
 After Guido & I recounted this story on Discourse, Matthew Dixon Cowles sent me email to reveal that he had asked the mods about why at the time, and got a truly remarkable reply. I assumed at first he wanted to remain anonymous, but, nope! He has courage:
 
