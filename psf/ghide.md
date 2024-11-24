@@ -36,6 +36,7 @@ Here's the entire exchange. I've changed the name of the mod to Judge Dredd. Whi
     Please tell me what rule Guido’s post violated.
 
     Matthew Dixon Cowles
+
 \---------------------------------------------------------------------<br>
     **Judge Dredd doom Aug 28**
 
@@ -50,6 +51,7 @@ Here's the entire exchange. I've changed the name of the mod to Judge Dredd. Whi
     anything said by them. Core team members are expected to act as
     role models for the community, and that post didn't match that
     expectation.
+
 \---------------------------------------------------------------------<br>
     **Matthew Dixon Cowles mdcowles Aug 28**
 
@@ -68,7 +70,8 @@ Here's the entire exchange. I've changed the name of the mod to Judge Dredd. Whi
     subject is a satisfactory reason for you to cancel a post. Is
     that right?
 
-    Matthew Dixon Cowles
+    Matthew Dixon Cowless
+
 \---------------------------------------------------------------------<br>
     **Judge Dredd doom Aug 28**
 
@@ -86,7 +89,8 @@ Here's the entire exchange. I've changed the name of the mod to Judge Dredd. Whi
     situation. If you’re concerned with moderation decisions beyond
     this, please send a report to the Code of Conduct team: Python
     Software Foundation Code of Conduct - Python Software Foundation
-    Policies
+    Policies.
+
 \---------------------------------------------------------------------<br>
 
 And Matthew adds:
