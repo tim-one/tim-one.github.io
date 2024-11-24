@@ -72,3 +72,5 @@ wokeness
 Workgroup
 Wokesson's
 PyCon
+Stufft
+Cowles
