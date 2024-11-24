@@ -74,4 +74,6 @@ Wokesson's
 PyCon
 Stufft
 Cowles
+Cowles'
 Dredd
+Roaaum
