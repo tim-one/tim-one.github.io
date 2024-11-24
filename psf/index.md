@@ -19,8 +19,10 @@ title: PSF topics
 
 ### 2024
 
+- [**Matthew Dixon Cowles's**](ghide) surreal account of Discourse moderation
+> A bizarre tale of one of Guido's posts getting hidden because he wasn't acting like a "role model"
 - [**willy Wokesson's**](censored) disturbingly suppressed call for discussion on the PSF's Discourse
-> t's crucial to differentiate between truly harmful behavior and discussions that might challenge our sensibilities but contribute to our collective growth.
+> It's crucial to differentiate between truly harmful behavior and discussions that might challenge our sensibilities but contribute to our collective growth.
 - [**David Mertz's**](https://www.youtube.com/watch?v=TOB1CEaZcDk) keynote address at PyCon Nigeria, "Python as a Social Fact"
 > Codes of conduct are meant to encourage cooperation and deference, but they can sometimes simultaneously attract zealots devoted to their draconian and capricious enforcement. ... A descent into a miniature authoritarianism can emerge from a collective feeling of what a community means. Those who carry out “purification” generally believe they are acting from consensus, and even from demands of the larger groups.
 - [**Peter Bittner's**](https://painless.software/letter-to-tim-peters-author-of-pep20) "Letter to Tim Peters, Author of PEP20"
