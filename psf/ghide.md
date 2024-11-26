@@ -1,5 +1,5 @@
 ---
-title: The Puzzling Moderation of Guido van Rossum
+title: The Puzzling Moderation of Guido
 ---
 
 On 25-Aug-2024, Guido van Rossum (Python's creator) posted some [very mild shade](https://discuss.python.org/t/should-we-consider-ranked-choice-voting-for-sc-elections/61880/6) at my ban, in a topic about moving to a different voting method for Steering Council (SC) elections.
