@@ -57,7 +57,7 @@ I'm confident that any reasonable person reading [the topic](https://discuss.pyt
 
 You tell me. Does the CoC say anything about which good-faith topics can be discussed? About the extent to which they can be discussed? I make no apology for expressing what may be unpopular views, or for visibly opposing what I believe to be injustice, or attempts to evade accountability by those with corporate power. I'd say "so sue me", but "so ban me" may be more appropriate :wink:.
 
-It occurred to me later that "excessive discussion" may be a violation of the Discourse [Community Guidelines](https://discuss.python.org/rules) promulgated during the pre-ban brouhaha. But, if so, that's not the CoC, and these were unambiguously sold as _being_ CoC violations.
+It occurred to me later that "excessive discussion" may be a violation of the Discourse [Community Guidelines](https://discuss.python.org/rules) promulgated during the pre-ban brouhaha. But, if so, that's not the CoC, and these were unambiguously sold as _being_ CoC violations. Those guidelines were introduced after the bylaws topic concluded anyway.
 
 ---
 <a id="crimeSpec"></a>
