@@ -21,9 +21,11 @@ That's garbage. It doesn't even pass a "sane person" test, misreading the plain 
 
 I have never, in my life, addressed the concept of "reverse sexism". I did happen to use the phrase once, but only by way of that the phrase was copied verbatim as part of quoting a post I was replying to. I said nothing about it. In fact I reject the _doctrine_ of "reverse sexism", but never said a word of my own about the doctrine. "Defense" cannot be sanely inferred from silence. That claim is garbage.
 
-I did briefly address the _doctrine_ of "reverse racism", [here](https://discuss.python.org/t/im-leaving-too/58408/10). Read it for yourself. I linked there to a "100% woke" article that rejected the "reverse racism" doctrine entirely. And explicitly said I still thought that article largely made good sense. So, sure, I defended the article - but defending an article that utterly rejected the doctrine cannot be sanely read as defending the doctrine. There's nothing difficult, subtle, or remotely arguable about this. Again, the claimed offense is plain garbage.
+I did briefly address the _doctrine_ of "reverse racism", [here](https://discuss.python.org/t/im-leaving-too/58408/10). Read it for yourself. I linked there to a "100% woke" article that rejected the "reverse racism" doctrine entirely. And explicitly said I still thought that article largely made good sense. So, sure, I defended the article - but defending an article that utterly rejected the doctrine cannot be sanely read as defending the doctrine. There's nothing difficult, subtle, or remotely arguable about this.
 
 It's true that I also objected to the PSF dogmatically insisting that ours is the only possible "good faith" view. The CoC in fact requires respecting other views, and I do. I'm not the hypocrite here.
+
+Again, the claimed offense is plain garbage.
 
 Don't even start to give me a cartoon level misreading of Popper's "Paradox of Tolerance". It's irrelevant here - study the adult version for yourself. Even Google's "generative AI" has a more nuanced view:
 
