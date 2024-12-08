@@ -3,6 +3,11 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
+**2024-12-08 Sun 01:15a CST**
+
+**Q:** You haven't posted in Ethan's topic for over a day! Are you being threatened?
+
+**A:** Nope. I simply have nothing new to say. I've said just about everything multiple times by now, with changes in wording trying to get it across. In the absence of new _relevant_ information posted by others, I'll stay quiet there.
 
 **2024-11-07 Thu 10:00p CST**
 
