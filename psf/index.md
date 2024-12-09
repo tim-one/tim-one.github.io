@@ -17,6 +17,8 @@ title: PSF topics
 
 “So the pendulum swings, now violently, now slowly; and every institution not only carries within it the seeds of its own dissolution, but prepares the way for its most hated rival.” —  William Ralph Inge
 
+"When we avoid hard conversations, we're not keeping the peace. We're just keeping the tension." - Unknown
+
 ### 2024
 
 - [**Matthew Dixon Cowles's**](ghide) surreal account of Discourse moderation
