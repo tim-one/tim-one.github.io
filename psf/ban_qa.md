@@ -7,7 +7,7 @@ Brief replies to questions from a variety of sources, most recent first.
 
 **Q:** Is Jake Edge a friend of yours?
 
-**A:** I would be pleased to say he ie, but best I know we had no contact before LWN publlished his first article about my ban. I sent email to LWN then to express my appreciation for Jake's detailed, balanced, fait-minded reporting. Jake replied, and we've had about half a dozen cordial email exchanges since. But we have no personal connection, and he has no dog in this fight. He clearly has empathy for all sides, and I value his "outsider" perspective. He's smart. insightful, and does his homework with an open mind. He should be proud of his journalistic work.
+**A:** I would be pleased to say he is, but best I know we had no contact before LWN published his first article about my ban. I sent email to LWN then to express my appreciation for Jake's detailed, balanced, fair-minded reporting. Jake replied, and we've had about half a dozen cordial email exchanges since. But we have no personal connection, and he has no dog in this fight. He clearly has empathy for all sides, and I value his "outsider" perspective. He's smart. insightful, and does his homework with an open mind. He should be proud of his journalistic work.
 
 **2024-12-08 Sun 01:15a CST**
 
