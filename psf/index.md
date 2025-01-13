@@ -5,7 +5,7 @@ title: PSF topics
 ## 2024 bans
 
 - [**LWN's**](https://lwn.net/SubscriberLink/1002340/0f6e04d38cf6576a) account of Tim's post-ban return
-    - [**Tim's**](ban_qa)comment on LWN's post-ban article
+    - [**Tim's**](ban_qa) comment on LWN's post-ban article
 - [**Tim's**](crimes) responses to the claimed CoC violations
 - [**Tim's**](ban_qa) Q&A about ban details
 - [**Chris McDonough's**](https://chrismcdonough.substack.com/p/ban-transparency-from-tim-peters) account of Tim's account of PSF interactions before his ban
