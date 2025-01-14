@@ -36,8 +36,8 @@ title: PSF topics
 - [**Nicholas Tollervey's**](https://ntoll.org/article/psf-woe) plea for compassion and honesty to counter PSF dysfunction
 > There appears to be confusion between things that should be celebrated (like passion, humour, honesty, differences of culture and diversity of experience) and things that are genuinely problematic (like deliberate bad-faith activity or intentionally diminishing, dehumanizing, harming or harassing others).
 - [**David Mertz's**](https://gnosis.cx/publish/ED-CoC-complaint) complaint to the PSF Board and CoC WG about unprofessional behavior by the Executive Director of the Foundation
-> The PSF Executive Director, Deb Nicholson, has behaved in a manner that is unprofessional, motivated by personal animosity, in violation of Foundation bylaws, and that violated her fiduciary obligations as an employee and officer of the Foundation.
-- - [**David Mertz**](https://gnosis.cx/publish/Board-of-Fools) publishes the Board's reply, which passed a motion giving the Executive Director new powers, but claims that these new powers also apply retroactively
+> The PSF Executive Director, Deb Nicholson, has behaved in a manner that is unprofessional, motivated by personal animosity, in violation of Foundation bylaws, and that violated her fiduciary obligations as an employee and officer of the Foundation.<br>
+    - [**David Mertz**](https://gnosis.cx/publish/Board-of-Fools) publishes the Board's reply, which passed a motion giving the Executive Director new powers, but claims that these new powers also apply retroactively
 >> It’s like a clown car ... I actually don’t think this is a deliberate power grab by the Executive Director. Rather, I think she is as oblivious to US law as are the current Board.
 - [**ExternalUserError's**](https://old.reddit.com/r/Python/comments/1ftbjt8/ban_transparency_from_tim_peters/lpsp3xa/) insightful Reddit comment on CoC enforcement dysfunctions in general
 >  It's like you take everything we know to work about a working justice system and do the complete opposite.
