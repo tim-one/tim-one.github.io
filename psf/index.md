@@ -21,6 +21,8 @@ title: PSF topics
 
 "When we avoid hard conversations, we're not keeping the peace. We're just keeping the tension." - Unknown
 
+"You will never understand bureaucracies until you understand that for bureaucrats procedure is everything and outcomes are nothing." - Thomas Sowell
+
 ### 2024
 
 - [**Matthew Dixon Cowles's**](ghide) surreal account of Discourse moderation
