@@ -23,6 +23,8 @@ title: PSF topics
 
 "You will never understand bureaucracies until you understand that for bureaucrats procedure is everything and outcomes are nothing." - Thomas Sowell
 
+"One reason people insist that you use the proper channels to change things is because they have control of the proper channels and they’re confident it won’t work." - Jon Stone
+
 ### 2024
 
 - [**Matthew Dixon Cowles's**](ghide) surreal account of Discourse moderation
