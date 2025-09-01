@@ -25,8 +25,17 @@ title: PSF topics
 
 "One reason people insist that you use the proper channels to change things is because they have control of the proper channels and they’re confident it won’t work." - Jon Stone
 
-### 2024
+### 2025
 
+- [**Kenneth Reitz's**](https://kennethreitz.org/essays/2025-08-25-when-values-eat-their-young) insightful account of how good intentions go bad, fleshing out the mechanics behind the Inge quote above. It's generally applicable, and the PSF is only mentioned in a brief footnote, related to why Kenneth gave up on that community.
+> The more a community cares about its values, the more vulnerable it becomes to betraying them.
+>
+> Not because the values are wrong. Not because the people are bad. But because human social dynamics create predictable failure modes that turn principles into their opposite.
+> ...
+> 
+> The tragedy of values eating their young isn't that people are hypocrites. It's that good people with genuine commitments to important values can create systems that betray those values through entirely predictable social dynamics.
+
+### 2024
 - [**Matthew Dixon Cowles's**](ghide) surreal account of Discourse moderation
 > A bizarre tale of one of Guido's posts getting hidden because he wasn't acting like a "role model"
 - [**willy Wokesson's**](censored) disturbingly suppressed call for discussion on the PSF's Discourse
