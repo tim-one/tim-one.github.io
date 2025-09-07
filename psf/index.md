@@ -62,5 +62,5 @@ title: PSF topics
 
 ### 2023
 
-- [**African Python groups'**](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html) open letter about multiple problems working with the PSF
+- [**African Python groups'**](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html) open letter about multiple problems working with the PSF. It's important to note that the PSF took these criticisms to heart, and reformed the grant process to treat the African Python communities much more fairly.
 > More recent experiences have left us feeling hurt and angry. We hear voices, openly and confidently raised within the PSF, that denigrate us and our communities, that dismiss our experiences, that doubt our values, and harm us materially.
