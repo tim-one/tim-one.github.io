@@ -26,6 +26,10 @@ title: PSF topics
 "One reason people insist that you use the proper channels to change things is because they have control of the proper channels and they’re confident it won’t work." - Jon Stone
 
 ### 2025
+
+- [**David Heinemeier Hansson's**](https://world.hey.com/dhh/we-ve-all-had-enough-of-this-nonsense-8545dd26) blatantly "woke" vs "anti-woke" but brief celebration of his detractors' apparent fall from grace. I don't like the framing, but the Ruby on Rails creator remains an important voice.
+> This is what it looks like when preference falsification finally falls. When normal people are no longer afraid to say no to these people. Then it's revealed just how small and isolated these aggrieved individuals actually are.
+  
 - [**Kenneth Reitz's**](https://kennethreitz.org/essays/2025-08-25-when-values-eat-their-young) insightful account of how good intentions go bad, fleshing out the mechanics behind the Inge quote above. It's generally applicable, and the Python world is mentioned only briefly.
 > The more a community cares about its values, the more vulnerable it becomes to betraying them.
 >
