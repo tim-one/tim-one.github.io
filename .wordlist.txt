@@ -84,3 +84,6 @@ Sowell
 Reitz's
 Heinemeier
 Hansson's
+NixOS
+NixOS's
+masse
