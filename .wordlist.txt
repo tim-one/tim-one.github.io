@@ -84,3 +84,4 @@ Sowell
 Reitz's
 Heinemeier
 Hansson's
+NixOS
