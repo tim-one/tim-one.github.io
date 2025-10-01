@@ -61,4 +61,3 @@ My glosses:
 I can certainly understand how a _careless_ reading could come away with an impression the opposite of what it actually said, and especially if read by someone already inclined to resent me ("confirmation bias") and/or Karl ("guilt by association"). But that's why a, at harshest, "reasonable peroon" standard is vital. Else anyone can be crushed for anything they post.
 
 I cannot undestand why an enforecment group never asked the accused for a response to any of the charges, or even disclosed their existence, until after highly public accusations were already posted, and the accused was already banned. It's not like this was treated with urgency. The prelude dragged on for months. The Golden Rule is spinning in its grave.
-
