@@ -3,6 +3,12 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
+**2024-10-01 Wed 02:30p CDT**
+
+**Q:** Have anything to say about the "smoking gun" evidence just revealed?
+
+**A:** How could I not? :wink: "God of the gaps" spin never worked, and won't. Surprisingly few of my posts remaineed hidden permanently, and I have nothing to hide in any of those either. [See here](gunsmoke) for the text of the hidden post, and for why it doesn't support the claimed charge at all.
+
 **2024-12-29 Sun 03:30p CST**
 
 **Q:** Is Jake Edge a friend of yours?
