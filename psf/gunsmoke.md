@@ -20,11 +20,9 @@ That's a link to what the Internet Wayback Machine captured before the post was 
 
 It's post #5 there, dated July 18, 2024, 3:24am.
 
-If you're conteent to take my word for it instead, I'll post the content here. Apologies for that it looks like a 1-item bullet list.  Markdown doesn't appear to have a way to say "I just want some indented normally formatted text spanning paragraphs", but list items can be tricked into that:
+If you're content to take my word for it instead, I'll post the content here. Apologies for that it looks like a 1-item bullet list.  Markdown doesn't appear to have a way to say "I just want some indented normally formatted text spanning paragraphs", but list items can be tricked into that:
 
-https://discuss.python.org/t/im-leaving-too/58408/5
-
--  [quote="[redacted by Tim], post:4, topic:58408, username:tungol"]
+-  [quote="[redacted by Tim], post:4 ..."]
 
    failing to acknowledge how and why they are using language that way sets up a situation where people talk past each other instead of productively
    
@@ -44,7 +42,7 @@ End of attempt at transcription.
 
 My glosses:
 
-- As I said, it didn't address "reverse sexism" directly at all. The phrase appoears only as part of a verbatim quote from a post I was replying to.
+- As I said, it didn't address "reverse sexism" directly at all. The phrase appears only as part of a verbatim quote from a post I was replying to.
 
 - No, "only whites can be racist" is not an attempt at sarcasm or humor. That _is_ the high-order bit of what the PSF means by the term. And also mostly what I mean by it.
 
@@ -54,10 +52,10 @@ My glosses:
 
 - The intended meaning arose in academia, and is indeed rooted in "analysis of power dynamics", which I explicitly said above I agreed with. It's in _opposition_ to Karl's view. But even then, it still didn't mention "reverse sexism", but instead alluded to the related (in academia) "reverse racism".
 
-- The meaning also gained traction among, especially, US college students, and social justice activists. But, no, most people in the Python world don't attend "social justice in tech" conferences. Some do. The PSF seems to _assume_ it's univerally accepted. It isn't, and I was defending Karl _expressing_ his own take, despite that it wasn't in agreement with the PSF's (or mine).
+- The meaning also gained traction among, especially, US college students, and social justice activists. But, no, most people in the Python world don't attend "social justice in tech" conferences. Some do. The PSF seems to _assume_ it's universally accepted. It isn't, and I was defending Karl _expressing_ his own take, despite that it wasn't in agreement with the PSF's (or mine).
 
 - I suspect that what some flaggers were _actually_ offended by was the phrase "US white left-of-center liberals". That was some admittedly too-obscure "Uncle Timmy snarky humor". The "joke" was that, while I don't endorse any political party in general, I've _mostly_ been a "US white left-of-center liberal" myself over the decades. It was poking some fun at who I've most often viewed as being "my people", and so also, by extension, at myself. I tried to clarify that too in a later post.
 
-I can certainly understand how a _careless_ reading could come away with an impression the opposite of what it actually said, and especially if read by someone already inclined to resent me ("confirmation bias") and/or Karl ("guilt by association"). But that's why a, at harshest, "reasonable peroon" standard is vital. Else anyone can be crushed for anything they post.
+I can certainly understand how a _careless_ reading could come away with an impression the opposite of what it actually said, and especially if read by someone already inclined to resent me ("confirmation bias") and/or Karl ("guilt by association"). But that's why a, at harshest, "reasonable person" standard is vital. Else anyone can be crushed for anything they post.
 
-I cannot undestand why an enforecment group never asked the accused for a response to any of the charges, or even disclosed their existence, until after highly public accusations were already posted, and the accused was already banned. It's not like this was treated with urgency. The prelude dragged on for months. The Golden Rule is spinning in its grave.
+I cannot understand why an enforcement body never asked the accused for a response to any of the charges, or even disclosed their existence, until after highly public accusations were already posted, and the accused was already banned. It's not like this was treated with urgency. The prelude dragged on for months. The Golden Rule is spinning in its grave.
