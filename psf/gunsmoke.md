@@ -8,7 +8,7 @@ After over a year of this  drama, I apparently became so annoying that the PSF f
 
 - Them: "There’s a now hidden post where you are doing exactly that."
 
-I'm _delighted_ by that this is the first bit of _substantive_ repsonse I've seen to date. Bravo! Do more of that, please.
+I'm _delighted_ by that this is the first bit of _substantive_ response I've seen to date. Bravo! Do more of that, please.
 
 But, alas, it's more "god of the gaps" gaslighting, although I don't believe intentionally so.
 
