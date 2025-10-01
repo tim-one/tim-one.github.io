@@ -3,7 +3,7 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
-**2024-10-01 Wed 03:00p CDT**
+**2025-10-01 Wed 03:00p CDT**
 
 **Q:** Have anything to say about the "smoking gun" evidence just revealed?
 
