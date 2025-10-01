@@ -87,3 +87,5 @@ Hansson's
 NixOS
 NixOS's
 masse
+dispositive
+flaggers
