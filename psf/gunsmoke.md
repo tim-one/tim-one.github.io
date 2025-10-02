@@ -64,9 +64,7 @@ I cannot understand why an enforcement body never asked the accused for a respon
 
 Soon after it became clear that this hidden post was also the basis for the "defended reverse racism" charge. My [guess](silly) about the source for that one was dead wrong. Would have been nice if they had given _anyone_ a clue what they were talking about :wink: before over a year passed.
 
-So I addressed that here in a comment, which I'll reproduce here to keep this self-contained.
-
-https://discuss.python.org/t/shedding-light-on-a-three-month-suspension/66337/260
+So I addressed that here in [a comment](https://discuss.python.org/t/shedding-light-on-a-three-month-suspension/66337/260), which I'll reproduce here to keep this self-contained.
 
 I've been privately informed that the hidden post isn't of high quality. Agreed! Of the (at least) tens of thousands of posts I've made over the decades, it's near the bottom of the barrel, too telegraphic and uncharacteristically sloppy.
 
