@@ -62,7 +62,7 @@ I cannot understand why an enforcement body never asked the accused for a respon
 
 ## Addendum
 
-Soon after it became clear that this hidden post was also the basis for the "defended reverse racism" charge. My [guest](silly) about the source for that one was dead wrong. Would have been nice if they had given _anyone_ a clue what they were talking about :wink: before over a year passed.
+Soon after it became clear that this hidden post was also the basis for the "defended reverse racism" charge. My [guess](silly) about the source for that one was dead wrong. Would have been nice if they had given _anyone_ a clue what they were talking about :wink: before over a year passed.
 
 So I addressed that here in a comment, which I'll reproduce here to keep this self-contained.
 
