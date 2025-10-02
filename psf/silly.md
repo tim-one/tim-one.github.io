@@ -32,3 +32,8 @@ Don't even start to give me a cartoon level misreading of Popper's "Paradox of T
 > Popper believed that a society should fight intolerance with reasonable arguments, but that it also has the right to be intolerant if the intolerant are not ready to debate. 
 
 Where intolerance cannot be tolerated is in people _exercising power_. Every accusation hides a confession.
+
+## Addendum
+
+It later (October of 2925) became clear that my best guess about the source of the "reverse racism" charge was dead wrong. Instead it appears to have been the very same hidden post that "informed" the silly "reverse sexism" charge. At least I did use the word "racist" in that post - but it's just as baseless. Details in the Addendum [here](gunsmoke).
+
