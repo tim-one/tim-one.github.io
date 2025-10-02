@@ -59,3 +59,25 @@ My glosses:
 I can certainly understand how a _careless_ reading could come away with an impression the opposite of what it actually said, and especially if read by someone already inclined to resent me ("confirmation bias") and/or Karl ("guilt by association"). But that's why a, at harshest, "reasonable person" standard is vital. Else anyone can be crushed for anything they post.
 
 I cannot understand why an enforcement body never asked the accused for a response to any of the charges, or even disclosed their existence until after highly public accusations were already posted, and the accused was already banned. It's not like this was treated with urgency. The prelude dragged on for months. The Golden Rule is spinning in its grave.
+
+## Addendum
+
+Soon after it became clear that this hidden post was also the basis for the "defended reverse racism" charge. My [guest](silly) about the source for that one was dead wrong. Would have been nice if they had given _anyone_ a clue what they were talking about :wink: before over a year passed.
+
+So I addressed that here in a comment, which I'll reproduce here to keep this self-contained.
+
+https://discuss.python.org/t/shedding-light-on-a-three-month-suspension/66337/260
+
+I've been privately informed that the hidden post isn't of high quality. Agreed! Of the (at least) tens of thousands of posts I've made over the decades, it's near the bottom of the barrel, too telegraphic and uncharacteristically sloppy.
+
+But I'm not recommending it for its _own_ sake, and it's not being nominated for some "Post of the Year" competition. It's completely forgettable (and better off forgotten).
+
+None of that matters here. The question is whether it's sufficient grounds for a "defended the doctrine of reverse sexism" chargeable offense. To my eyes it obviously is not. It never used the phrase, apart from a verbatim quote of it inherited from a previous poster's message..
+
+So expand it to whether it's sufficient grounds for a "defended the doctrine of reverse racism" chargeable offense. That's a topic I _did_ explicitly address (once), and my _guess_ that they were complaining about _that_ post now appears to have been completely wrong. Complaining about _that_ post didn't even make hallucinatory sense to me. It seems clear now that they _actually_ were implicitly referring to this same hidden post for both.
+
+In which I did indirectly mention that doctrine, but strongly implied I agreed with the PSF's view, and opposed Karl's view. It's just an implication, because to pick up on that you have to already know about how more than one "reverse X-ism" doctrines are dismissed within the academic framework of "power dynamics" analysis.
+
+I talk about various aspects of "social dynamics" so often it should be no surprise that I'm on board with that approach. Indeed, in the context of my posts, people should have been very surprised if I _had_ rejected that general approach in these specific cases. Cherry-picking a relatively rare relatively vaguer post isn't a good look either. Such a reading goes against my entire posting history on matters related to social dynamics analyses of many flavors. Not to mention that it's not a good-faith reading on its own.
+
+But many people in real life aren't on board with such academic analyses. So we disagree. BFD. I wouldn't suspend them for that even if so. \[Queue one of the 3-panel web cartoons distorting Popper's "Paradox of Tolerance" to the point of appearing to endorse "cancel culture" actions Popper cautioned would "certainly be unwise"\]
