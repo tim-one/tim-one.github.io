@@ -66,6 +66,8 @@ Soon after it became clear that this hidden post was also the basis for the "def
 
 So I addressed that here in [a comment](https://discuss.python.org/t/shedding-light-on-a-three-month-suspension/66337/260), which I'll reproduce here to keep this self-contained.
 
+-----
+
 I've been privately informed that the hidden post isn't of high quality. Agreed! Of the (at least) tens of thousands of posts I've made over the decades, it's near the bottom of the barrel, too telegraphic and uncharacteristically sloppy.
 
 But I'm not recommending it for its _own_ sake, and it's not being nominated for some "Post of the Year" competition. It's completely forgettable (and better off forgotten).
@@ -79,3 +81,8 @@ In which I did indirectly mention that doctrine, but strongly implied I agreed w
 I talk about various aspects of "social dynamics" so often it should be no surprise that I'm on board with that approach. Indeed, in the context of my posts, people should have been very surprised if I _had_ rejected that general approach in these specific cases. Cherry-picking a relatively rare relatively vaguer post isn't a good look either. Such a reading goes against my entire posting history on matters related to social dynamics analyses of many flavors. Not to mention that it's not a good-faith reading on its own.
 
 But many people in real life aren't on board with such academic analyses. So we disagree. BFD. I wouldn't suspend them for that even if so. \[Queue one of the 3-panel web cartoons distorting Popper's "Paradox of Tolerance" to the point of appearing to endorse "cancel culture" actions Popper cautioned would "certainly be unwise"\]
+
+-----
+
+
+
