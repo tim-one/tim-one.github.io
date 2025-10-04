@@ -4,7 +4,7 @@ title: Smoking Gun
 
 After over a year of this  drama, I apparently became so annoying that the PSF finally revealed an actual bit of "evidence", which was portrayed as being a slam dunk [starting here](https://discuss.python.org/t/suspension-of-franz-kiraly/103776/95);
 
-- Me" "You, for example, would not have signed off on publicly accusing me of “defending reverse sexism”, not just because you already know it’s something I _wouldn’t_ defend, but because I in fact never even mentioned the topic."
+- Me: "You, for example, would not have signed off on publicly accusing me of “defending reverse sexism”, not just because you already know it’s something I _wouldn’t_ defend, but because I in fact never even mentioned the topic."
 
 - Them: "There’s a now hidden post where you are doing exactly that."
 
