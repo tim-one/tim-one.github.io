@@ -96,7 +96,7 @@ The result surprised me. While bots played no part in what I had written, and Mi
 
 So I shared that on Discourse, pasting the output, and a brief followup pointing out a minor blind spot of _its_.
 
-And those posts were promptly "hidden by commmunity flags". Yes, it's like a clown car :wink:.
+And those posts were promptly "hidden by community flags". Yes, it's like a clown car :wink:.
 
 So let's spell that out. Here various pieces in roughly reverse chronological order, because the resolution informs the start of it too.
 
