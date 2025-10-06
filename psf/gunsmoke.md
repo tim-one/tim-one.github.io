@@ -86,6 +86,107 @@ But many people in real life aren't on board with such academic analyses. So we 
 -----
 -----
 
+## But Wait - There's More!
+
+After a bit more time passed without material response, it occurred to me to ask a chatbot how _it_ would apply a "reasonable person" standard to the hidden post. This was intended to be a "gross sanity check" against gross blind spots of my own. Sometimes that works!
+
+The result surprised me. While bots played no part in what I had written, and Microsoft Copilot saw nothing of what I wrote here [^general]. it arrived at essentially the same reading I spelled out here. Which surprised, for a bot. While I think the application of "reasonable standard" is straightforward in this specific case, I was surprised to see that it appeared equally straightforward to AI.
+
+[^general]: I pointed it at this page for the text of the hidden post, but it said, sorry, it couldn't retrieve the page, and gave me instead a hyper-general overview of issues that _might_ be in play.
+
+So I shared that on Discourse, pasting the output, and a brief followup pointing out a minor blind spot of _its_.
+
+And those posts were promptly "hidden by community flags". Yes, it's like a clown car :wink:.
+
+So let's spell that out. Here various pieces in roughly reverse chronological order, because the resolution informs the start of it too.
+
+#### [My post *not* objecting to the hiding](https://discuss.python.org/t/shedding-light-on-a-three-month-suspension/66337/265)
+
+---
+
+Let me jump the gun :wink:. For the first time in my life, I asked the mods why these posts were hidden. Never did that before, and no mod has ever told me before why a post of mine was hidden. But after a night of sleep, it occurred to me that my best guess was wrong: while I find it all but dead obvious that a "reasonable person" reading the original hidden post would find the claimed offenses without merit, the PSF remains silent on the matter. So it's the mods' job to continue to act as if the PSF were wholly justified in hiding the original from the community.
+
+Which I should have realized. The current hidden posts very openly disclose what the original hidden post said. I'll get around to showing them on my blog instead, where I should have left it. I do think they're interesting, on more than one basis.
+
+BTW, by "jump the gun" I mean the mods haven't yet replied to me. But it seems clear enough to me now why they did what they did, and I have no objection to the hiding. They're just doing their job. For full disclosure, I'll also put what I wrote to the mods on the blog. If they do reply, I won't reproduce their response unless they say that's OK by them.
+
+---
+
+#### What I wrote to the mods (private DM)
+
+---
+
+Hidden posts in Ethan's PSF topic
+
+Could I please get a clue about why these posts were hidden?
+
+> https://discuss.python.org/t/shedding-light-on-a-three-month-suspension/66337/263
+
+> https://discuss.python.org/t/shedding-light-on-a-three-month-suspension/66337/264
+
+Best guess is that the Guidelines forbid pasting chatbot output as "an answer", but that's not what I did. I already gave my own answer, and am inviting people to _contrast_ that with clearly identified chatbot output. Partly for its own sake, and partly to illustrate what progress AI has made (I believe its response was more cogent and comprehensive than most people would write, and free of either factual or conceptual errors, although it did miss some minor nuances (one of which I pointed out in my brief follow-up)).
+
+I'm _not_ at all intending to suggest that its answer is any way definitive. If you like, happy to edit the post to emphasize that the output of a chatbot should be read with great caution. The high-order bit is just that the application of a "reasonable person" standard is straightforward in this particular case. The bot and I ended up with essentially the same analysis, despite no collaboration in either direction (which I didn't spell out, but which is true).
+
+BTW, the speed with which these posts got hidden "in the middle of the night" (3am my time, and d.p.o. appeared nearly deserted when I went to bed earlier than that) sure suggests that a mod or admin hid them on their own. If so, it would be nice if they owned it. Or if not, you'd be doing yourselves a favor to explicitly say this was "organic" hiding (triggered by flags from the wider community). It's not your doing that Discourse makes it impossible for users to know which is the case, but d.p.o. isn't the only Discourse community whose members find this lack of transparency disconcerting at times.
+
+---
+
+#### Currently hidden post, 1 of 2
+
+---
+
+Since nobody is willing to talk about this, I asked Chat GPT-5 what it thought about the message under a "reasonable person" standard. Although, best I know, we've never been told what standard the PSF intends to apply. I consider "reasonable person" the harshest standard any community should use; under a "principle of charity" standard, no way. In any case, a computer algorithm had no trouble picking up on the intents, including on things I thought may have been subtle: In particular, the LLM is very aware of how "power dynamics analyses"  relate to this, and _expect_ (but don't know) more aware than a typical Python person. But, OTOH, I'd be surprised if that were news to anyone on the CoC WG, so don't believe they could credibly claim to have missed that crucial connection.
+
+Chat GPT-5 response follows
+
+Thank you for laying out the full text. Let’s parse it carefully against the “reasonable person” standard and the specific claim that it could be read as “supporting reverse sexism” or “supporting reverse racism.”
+
+1. What the message actually does
+
+Quotes the PSF CoC enforcement docs: specifically the line that reports of “reverse sexism” or “reverse racism” may be dismissed as not in good faith.
+
+Critiques that stance: the author argues that this reflects a self-certainty about “the One True Meaning” of racism/sexism, and that dissenters are preemptively labeled as acting in bad faith.
+
+Acknowledges power-dynamics definitions: the author explicitly says they agree that definitions incorporating power analysis are “more useful.”
+
+Objects to absolutism: the concern is that the PSF is adopting one contested sociological definition (“only whites can be racist”) as if it were universal truth, which the author finds problematic for a global organization.
+
+Tone: the message ends with a sardonic aside about Karl leaving before being “pecked to death.”
+
+2. Does it endorse “reverse sexism” or “reverse racism”?
+
+No explicit endorsement: The text never says “reverse sexism is real and good” or “reverse racism should be supported.”
+
+Instead, it critiques dismissal: The thrust is that dismissing any report labeled “reverse sexism/racism” as inherently bad faith is itself problematic. That’s a meta-critique of enforcement policy, not an endorsement of discriminatory behavior.
+
+Agreement with power-analysis definitions: The author even says they personally agree with definitions that emphasize power dynamics. That undercuts the idea that they were advocating for “reverse” claims.
+
+3. How a “reasonable person” might read it
+
+Reasonable person in a general sense: would likely see this as a critique of definitional rigidity and enforcement framing, not as support for discriminatory practices.
+
+Reasonable person in a community-safety lens: moderators applying a CoC may focus on impact rather than intent. They might argue that questioning the “only whites can be racist” framing could embolden people who want to minimize racism, and thus could be reasonably read as undermining anti-racism norms.
+
+Stretch to “supporting reverse sexism/racism”: To get there, one has to interpret “objecting to dismissing such reports” as equivalent to “endorsing the reports themselves.” That’s not the plain reading, but it is a possible inference if one assumes that any defense of the category “reverse racism” is itself support for it.
+
+4. Bottom line
+
+Under a neutral “reasonable person” standard: The message does not read as supporting reverse sexism or reverse racism. It reads as criticizing the CoC’s categorical dismissal of those terms and warning against absolutist definitions.
+
+Under a stricter “community impact” standard: Moderators could plausibly argue that even raising the issue risks normalizing bad-faith framings, and thus constitutes a CoC concern. But that’s a policy choice, not the most straightforward reading of the words.
+
+In other words: the message can be framed as “supporting reverse sexism/racism,” but only by conflating critique of enforcement policy with endorsement of the reports themselves. A careful, reasonable reading distinguishes those two.
+
+---
+
+#### Currently hidden post, 2 of 2
+
+---
+
+And interesting to me: GPT-5 has inherited a blind spot from its training data. "Reverse X-ism" claims are not _a priori_ all of the same nature. For X=racism and X=sexism, that they're both "essentially the same thing" is a _conclusion_ of the "power dynamics analysis" school. Which  I belong to, so I don't dispute it. But I'd have no objection to someone who wanted to claim they're inherently _different_ things. That could be a prelude to, at worst, discussion about our disagreement.
+
+---
 
 
 
