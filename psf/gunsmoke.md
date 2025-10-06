@@ -86,6 +86,47 @@ But many people in real life aren't on board with such academic analyses. So we 
 -----
 -----
 
+## But Wait - There's More!
 
+After a bit more time passed without material response, it occurred to me to ask a chatbot how _it_ would apply a "reasonable person" standard to the hidden post. This was intended to be a "gross sanity check" against gross blind spots of my own.
 
+The result surprised me. While bots no played part in what I had written, and Microsoft Copilot saw nothing of what I wrote here (I pointed it at this page for the text of the hidden post, but it said, sorry, it couldn't retrieve the page, and gave me instead a hyper-general overview of issues that _might_ be in play). it arrived at essentially the same reading I spelled out here. Which surprised, for a bot. While I think the application of "reasonable standard" is straightforward in this specific case, I was surprised to see that it appeared equally straightforward to AI.
+
+So I shared that on Discourse, pasting the output, and a brief followup pointing out a minor blind spot of _its_.
+
+And those posts were promptly "hidden by commmunity flags". Yes, it's like a clown car :wink:.
+
+So let's spell that out. Here various pieces in roughly reverse chronological order, because the resolution informs the start of it too.
+
+#### [My post *not* objecting to the hiding](https://discuss.python.org/t/shedding-light-on-a-three-month-suspension/66337/265)
+
+---
+
+Let me jump the gun :wink:. For the first time in my life, I asked the mods why these posts were hidden. Never did that before, and no mod has ever told me before why a post of mine was hidden. But after a night of sleep, it occurred to me that my best guess was wrong: while I find it all but dead obvious that a "reasonable person" reading the original hidden post would find the claimed offenses without merit, the PSF remains silent on the matter. So it's the mods' job to continue to act as if the PSF were wholly justified in hiding the original from the community.
+
+Which I should have realized. The current hidden posts very openly disclose what the original hidden post said. I'll get around to showing them on my blog instead, where I should have left it. I do think they're interesting, on more than one basis.
+
+BTW, by "jump the gun" I mean the mods haven't yet replied to me. But it seems clear enough to me now why they did what they did, and I have no objection to the hiding. They're just doing their job. For full disclosure, I'll also put what I wrote to the mods on the blog. If they do reply, I won't reproduce their response unless they say that's OK by them.
+
+---
+
+#### What I wrote to the mods (private DM)
+
+---
+
+Hidden posts in Ethan's PSF topic
+
+Could I please get a clue about why these posts were hidden?
+
+> https://discuss.python.org/t/shedding-light-on-a-three-month-suspension/66337/263
+
+> https://discuss.python.org/t/shedding-light-on-a-three-month-suspension/66337/264
+
+Best guess is that the Guidelines forbid pasting chatbot output as "an answer", but that's not what I did. I already gave my own answer, and am inviting people to _contrast_ that with clearly identified chatbot output. Partly for its own sake, and partly to illustrate what progress AI has made (I believe its response was more cogent and comprehensive than most people would write, and free of either factual or conceptual errors, although it did miss some minor nuances (one of which I pointed out in my brief follow-up)).
+
+I'm _not_ at all intending to suggest that its answer is any way definitive. If you like, happy to edit the post to emphasize that the output of a chatbot should be read with great caution. The high-order bit is just that the application of a "reasonable person" standard is straightforward in this particular case. The bot and I ended up with essentially the same analysis, despite no collaboration in either direction (which I didn't spell out, but which is true).
+
+BTW, the speed with which these posts got hidden "in the middle of the night" (3am my time, and d.p.o. appeared nearly deserted when I went to bed earlier than that) sure suggests that a mod or admin hid them on their own. If so, it would be nice if they owned it. Or if not, you'd be doing yourselves a favor to explicitly say this was "organic" hiding (triggered by flags from the wider community). It's not your doing that Discourse makes it impossible for users to know which is the case, but d.p.o. isn't the only Discourse community whose members find this lack of transparency disconcerting at times.
+
+---
 
