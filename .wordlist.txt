@@ -92,3 +92,9 @@ flaggers
 Wayback
 https
 BFD
+chatbot
+definitional
+framings
+GPT
+LLM
+priori
