@@ -90,7 +90,7 @@ But many people in real life aren't on board with such academic analyses. So we 
 
 After a bit more time passed without material response, it occurred to me to ask a chatbot how _it_ would apply a "reasonable person" standard to the hidden post. This was intended to be a "gross sanity check" against gross blind spots of my own. Sometimes that works!
 
-The result surprised me. While bots played no part in what I had written, and Microsoft Copilot saw nothing of what I wrote here [^general]. it arrived at essentially the same reading I spelled out here. Which surprised, for a bot. While I think the application of "reasonable standard" is straightforward in this specific case, I was surprised to see that it appeared equally straightforward to AI.
+The result surprised me. While bots played no part in what I had written, and Microsoft Copilot saw nothing of what I wrote here [^general]. it arrived at essentially the same reading I spelled out here. Which surprised, for a bot. While I think the application of "reasonable person" is straightforward in this specific case, I was surprised to see that it appeared equally straightforward to AI.
 
 [^general]: I pointed it at this page for the text of the hidden post, but it said, sorry, it couldn't retrieve the page, and gave me instead a hyper-general overview of issues that _might_ be in play.
 
