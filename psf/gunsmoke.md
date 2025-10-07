@@ -92,7 +92,7 @@ After a bit more time passed without material response, it occurred to me to ask
 
 The result surprised me. While bots played no part in what I had written, and Microsoft Copilot saw nothing of what I wrote here [^general]. it arrived at essentially the same reading I spelled out here. Which surprised, for a bot. While I think the application of "reasonable person" is straightforward in this specific case, I was surprised to see that it appeared equally straightforward to AI.
 
-[^general]: I pointed it at this page for the text of the hidden post, but it said, sorry, it couldn't retrieve the page, and gave me instead a hyper-general overview of issues that _might_ be in play.
+[^general]: I pointed it at this page for the text of the hidden post, but it said, sorry, it couldn't retrieve the page, and gave me instead a hyper-general overview of issues that _might_ be in play. That was fine so far as it went, but not fit for purpose. So I pasted in the text of the hidden post verbatim, with none of what I said about it.
 
 So I shared that on Discourse, pasting the output, and a brief followup pointing out a minor blind spot of _its_.
 
