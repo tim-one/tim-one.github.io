@@ -144,37 +144,37 @@ Thank you for laying out the full text. Let’s parse it carefully against the �
 
 1. What the message actually does
 
-Quotes the PSF CoC enforcement docs: specifically the line that reports of “reverse sexism” or “reverse racism” may be dismissed as not in good faith.
+   Quotes the PSF CoC enforcement docs: specifically the line that reports of “reverse sexism” or “reverse racism” may be dismissed as not in good faith.
 
-Critiques that stance: the author argues that this reflects a self-certainty about “the One True Meaning” of racism/sexism, and that dissenters are preemptively labeled as acting in bad faith.
+   Critiques that stance: the author argues that this reflects a self-certainty about “the One True Meaning” of racism/sexism, and that dissenters are preemptively labeled as acting in bad faith.
 
-Acknowledges power-dynamics definitions: the author explicitly says they agree that definitions incorporating power analysis are “more useful.”
+   Acknowledges power-dynamics definitions: the author explicitly says they agree that definitions incorporating power analysis are “more useful.”
 
-Objects to absolutism: the concern is that the PSF is adopting one contested sociological definition (“only whites can be racist”) as if it were universal truth, which the author finds problematic for a global organization.
+   Objects to absolutism: the concern is that the PSF is adopting one contested sociological definition (“only whites can be racist”) as if it were universal truth, which the author finds problematic for a global organization.
 
-Tone: the message ends with a sardonic aside about Karl leaving before being “pecked to death.”
+   Tone: the message ends with a sardonic aside about Karl leaving before being “pecked to death.”
 
 2. Does it endorse “reverse sexism” or “reverse racism”?
 
-No explicit endorsement: The text never says “reverse sexism is real and good” or “reverse racism should be supported.”
+   No explicit endorsement: The text never says “reverse sexism is real and good” or “reverse racism should be supported.”
 
-Instead, it critiques dismissal: The thrust is that dismissing any report labeled “reverse sexism/racism” as inherently bad faith is itself problematic. That’s a meta-critique of enforcement policy, not an endorsement of discriminatory behavior.
+   Instead, it critiques dismissal: The thrust is that dismissing any report labeled “reverse sexism/racism” as inherently bad faith is itself problematic. That’s a meta-critique of enforcement policy, not an endorsement of discriminatory behavior.
 
-Agreement with power-analysis definitions: The author even says they personally agree with definitions that emphasize power dynamics. That undercuts the idea that they were advocating for “reverse” claims.
+   Agreement with power-analysis definitions: The author even says they personally agree with definitions that emphasize power dynamics. That undercuts the idea that they were advocating for “reverse” claims.
 
 3. How a “reasonable person” might read it
 
-Reasonable person in a general sense: would likely see this as a critique of definitional rigidity and enforcement framing, not as support for discriminatory practices.
+   Reasonable person in a general sense: would likely see this as a critique of definitional rigidity and enforcement framing, not as support for discriminatory practices.
 
-Reasonable person in a community-safety lens: moderators applying a CoC may focus on impact rather than intent. They might argue that questioning the “only whites can be racist” framing could embolden people who want to minimize racism, and thus could be reasonably read as undermining anti-racism norms.
+   Reasonable person in a community-safety lens: moderators applying a CoC may focus on impact rather than intent. They might argue that questioning the “only whites can be racist” framing could embolden people who want to minimize racism, and thus could be reasonably read as undermining anti-racism norms.
 
-Stretch to “supporting reverse sexism/racism”: To get there, one has to interpret “objecting to dismissing such reports” as equivalent to “endorsing the reports themselves.” That’s not the plain reading, but it is a possible inference if one assumes that any defense of the category “reverse racism” is itself support for it.
+   Stretch to “supporting reverse sexism/racism”: To get there, one has to interpret “objecting to dismissing such reports” as equivalent to “endorsing the reports themselves.” That’s not the plain reading, but it is a possible inference if one assumes that any defense of the category “reverse racism” is itself support for it.
 
 4. Bottom line
 
-Under a neutral “reasonable person” standard: The message does not read as supporting reverse sexism or reverse racism. It reads as criticizing the CoC’s categorical dismissal of those terms and warning against absolutist definitions.
+   Under a neutral “reasonable person” standard: The message does not read as supporting reverse sexism or reverse racism. It reads as criticizing the CoC’s categorical dismissal of those terms and warning against absolutist definitions.
 
-Under a stricter “community impact” standard: Moderators could plausibly argue that even raising the issue risks normalizing bad-faith framings, and thus constitutes a CoC concern. But that’s a policy choice, not the most straightforward reading of the words.
+   Under a stricter “community impact” standard: Moderators could plausibly argue that even raising the issue risks normalizing bad-faith framings, and thus constitutes a CoC concern. But that’s a policy choice, not the most straightforward reading of the words.
 
 In other words: the message can be framed as “supporting reverse sexism/racism,” but only by conflating critique of enforcement policy with endorsement of the reports themselves. A careful, reasonable reading distinguishes those two.
 
