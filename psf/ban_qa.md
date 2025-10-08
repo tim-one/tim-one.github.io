@@ -3,6 +3,12 @@ title: Ban Q&A
 ---
 Brief replies to questions from a variety of sources, most recent first.
 
+**2025-10-08 Wed 01:00p CDT**
+
+**Q:** Another hidden post?!
+
+**A:** Yup. It is, after all, another day :wink:. This one is in topic ["Suspension of Franz Király"](https://discuss.python.org/t/suspension-of-franz-kiraly/103776/105), and the auto-geneerated system notification said it was flagged as "off topic" (a refreshing change from the uaual "hateful", etc). khich it surely is, by a literal reading. But it's a bit of a challenge finding anythihng directly about the topic title anywhere in the 100+ posts aleready there. The actual discussion quickly diverged. Human discourse is discursive. This post was largely continuing a mediltation on how the Ruby language community seems to manage to remain free of "conduct drama", and was inviting consideration of the underlying dynamics. I don't at all regret posting it. If it remains hidden, after a few days I'll reproduce it here.
+
 **2025-10-01 Wed 03:00p CDT**
 
 **Q:** Have anything to say about the "smoking gun" evidence just revealed?
