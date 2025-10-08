@@ -116,7 +116,7 @@ BTW, by "jump the gun" I mean the mods haven't yet replied to me. But it seems c
 
 ---
 
-Hidden posts in Ethan's PSF topic
+Subject: Hidden posts in Ethan's PSF topic
 
 Could I please get a clue about why these posts were hidden?
 
