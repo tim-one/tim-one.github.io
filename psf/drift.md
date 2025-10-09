@@ -64,7 +64,7 @@ to make welcome. Otherwise I wouldn't care.
 She doesn't post broadly, but appears to be highly respected for careful, informed posts (she has a doctorate
 in her field, and obviously puts real thought into her posts).
 
-I have her permission to use her name (she's brave too!), and screenshots of all the mod interactions she had, 
+I have her permission to use her name (she's brave!), and screenshots of all the mod interactions she had, 
 but I don't think those necessary to make the point. I don't care about "assigning blame". I care about
 toxic _processes_.
 
