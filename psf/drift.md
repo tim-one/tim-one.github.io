@@ -3,10 +3,10 @@ title: Drift
 ---
 
 Drift, or creep, happens to governance systems over time. Their original goals can even got lost, or actively opposed, over time. This is
-especially so in systems insulated from feedback from the governed. Then internal echo chambers intensify the process, sith internal players
+especially so in systems insulated from feedback from the governed. Then internal echo chambers intensify the process, with internal players
 seeming, at times, to egg each other on in a race to the bottom.
 
-Drjft is incremental, and not always monotonic. And sometimes it's "secret", not visible to the public.
+Drift is incremental, and not always monotonic. And sometimes it's "secret", not visible to the public.
 
 Followig are some examples. It wiil probably grow over time.
 
@@ -20,30 +20,30 @@ drive someone out. And a person who was quite possibly of a class more recent Co
 
 For more:
 
+```
 https://discuss.python.org/t/steering-council-nomination-raymond-hettinger-2021-term/5731/25
-
 https://mail.python.org/archives/list/python-committers@python.org/message/EK5PNQSXC4J2RAEHDV6AAOVK4MJHRL6C/
-
+```
 
 #### Mission creep
 
-THe PSF's [code of conduct](https://policies.python.org/python.org/code-of-conduct/) is very legalistic in tone,
+The PSF's [code of conduct](https://policies.python.org/python.org/code-of-conduct/) is very legalistic in tone,
 with a relatively massive section on "Scope". It, e.g., takes pains to point out that even hallways in conference
 venues are subject to CoC enforcement. Well, duh :wink:. But it seems to be very explicit overall that only official
-"PSF spaces" and only spokespeople acting on behalf of the PSF sre covered.
+"PSF spaces" and only spokespeople acting on behalf of the PSF are covered.
 
-And [a good piece](https://snarky.ca/what-the-psf-conduct-wg-does/) from a long-tiue CoC WG member seems to acknowledge this:
+And [a good piece](https://snarky.ca/what-the-psf-conduct-wg-does/) from a long-time CoC WG member seems to acknowledge this:
 
 > What you do in your life outside of Python is none of the WG's concern,
 
-But that's not really a recongized constraint:
+But that's not really a recognized constraint:
 
 > but if you, e,g., call out your PSF affiliation on your profile on X and then post something that goes against
 > the CoC, then that's a problem as that then reflects poorly on the PSF and the rest of the membership.
 
 I see nothing in the actual CoC than can be read that way. Can you? I'm not a lawyer. I don't recall whether
 I ever said on my blog whether or not I'm a PSF member, but it's not a secret that I am (I'm a long-time Fellow,
-in fact). Does saying that out loud now make my blog subject to PSF censorship? We'll eee.
+in fact). Does saying that out loud now make my blog subject to PSF censorship? We'll see.
 
 And it may not end even there:
 
@@ -51,28 +51,28 @@ And it may not end even there:
 > Python then that might be enough to warrant the Conduct WG saying something to the PSF board (and this probably
 > applies more to Fellows than general members), but I haven't seen that happen.
 
-Like bureacracies everywhere, they don't actually recognize limits on the power they "should" have to control.
+Like bureaucracies everywhere, they don't actually recognize limits on the power they "should" have to control.
 
 #### Drift to indulge personal pecadillos
 
-This can also be seen as how well-intenioned overreach can backfire, causing more pain than it could spare.
+This can also be seen as how well-intentioned overreach can backfire, causing more pain than it could spare.
 
 I've mentioned briefly on d.p.o. that a woman contacted me (in December of 2224) to relate her tale of d.p.o.
 moderation pain. I say "a woman" because that was a demographic marker for people the CoC especially intended
 to make welcome. Otherwise I wouldn't care.
 
-She doesn't post broadly, but appears to be highly repsected for careful, informed posts (she has a doctorate
+She doesn't post broadly, but appears to be highly respected for careful, informed posts (she has a doctorate
 in her field, and obviously puts real thought into her posts).
 
 I have her permission to use her name (she's brave too!), and screenshots of all the mod interactions she had, 
 but I don't think those necessary to make the point. I don't care about "assigning blame". I care about
-toxic _prcesses_.
+toxic _processes_.
 
 She posted a message containing
 
 > I can't make sense of "keep it mostly the same but harm user experience".
 
-Looks ordinary to me. But a mod insisted that the word "harm" was "unnecessarilly negative", and wouldn't budge.
+Looks ordinary to me. But a mod insisted that the word "harm" was "unnecessarily negative", and wouldn't budge.
 Seems at the very worst a micro-aggression, but I can't stretch it even that far. It's common wording in the computer
 world to invoke an image of harm. Start with Dijkstra's famous "Go To Statement Considered Harmful".
 What - well - harm did the mod imagine her word might cause?
@@ -89,5 +89,5 @@ of "welcome". In her words:
 
 Indeed, the people who leave remain invisible forever more.
 
-And the final insult: her "trust level" on Discourse was reduced from levrl 3 to level 2 as a result. WHat kind
+And the final insult: her "trust level" on Discourse was reduced from level 3 to level 2 as a result. What kind
 of petty torment is that?! Going on a year now, I see it's still at level 2. BTW, she did reword the post.
