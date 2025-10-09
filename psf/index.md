@@ -27,7 +27,7 @@ title: PSF topics
 
 ### 2025
 
-- [A new page](drift) to record smaller stories of institutional deift and creep.
+- [A new page](drift) to record smaller stories of institutional drift and creep.
 
 - [**The NixOS moderators resign en masse**](https://discourse.nixos.org/t/a-statement-from-members-of-the-moderation-team/69828) For the historical record. NixOS's tale in the 2020s is as dysfunctional as I've ever seen. From mods calling users "Nazis" to driving out the project's founder, in a series of purges. Here 5 of the mods simultaneously resign in protest of the project's "Steering Committee" trying to rein them in, although the latter was also done in a clumsy way. A dumpster fire all around. Some people compare their treatment of Jon Ringer to the PSF's treatment of me.
 
