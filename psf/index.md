@@ -27,6 +27,8 @@ title: PSF topics
 
 ### 2025
 
+- [A new page](drift) to record smaller stories of institutional deift and creep.
+
 - [**The NixOS moderators resign en masse**](https://discourse.nixos.org/t/a-statement-from-members-of-the-moderation-team/69828) For the historical record. NixOS's tale in the 2020s is as dysfunctional as I've ever seen. From mods calling users "Nazis" to driving out the project's founder, in a series of purges. Here 5 of the mods simultaneously resign in protest of the project's "Steering Committee" trying to rein them in, although the latter was also done in a clumsy way. A dumpster fire all around. Some people compare their treatment of Jon Ringer to the PSF's treatment of me.
 
 - [**David Heinemeier Hansson's**](https://world.hey.com/dhh/we-ve-all-had-enough-of-this-nonsense-8545dd26) blatantly "woke" vs "anti-woke" but brief celebration of his detractors' apparent fall from grace. I don't like the framing, but the Ruby on Rails creator remains an important voice.
