@@ -99,3 +99,5 @@ GPT
 LLM
 priori
 Király
+CoCs
+pecadillos

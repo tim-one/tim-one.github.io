@@ -43,7 +43,7 @@ header_pages:
   - psf/index.md
   - psf/crimes.md
   - psf/ban_qa.md
-  - psf/meaculpa.md
+  - psf/drift.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
