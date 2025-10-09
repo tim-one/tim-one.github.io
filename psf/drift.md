@@ -57,7 +57,7 @@ Like bureaucracies everywhere, they don't actually recognize limits on the power
 
 This can also be seen as how well-intended overreach can backfire, causing more pain than it could spare.
 
-I've mentioned briefly on d.p.o. that a woman contacted me (in December of 2224) to relate her tale of d.p.o.
+I've mentioned briefly on d.p.o. that a woman contacted me (in December of 2024) to relate her tale of d.p.o.
 moderation pain. I say "a woman" because that was a demographic marker for people the CoC especially intended
 to make welcome. Otherwise I wouldn't care.
 
