@@ -8,7 +8,7 @@ seeming, at times, to egg each other on in a race to the bottom.
 
 Drift is incremental, and not always monotonic. And sometimes it's "secret", not visible to the public.
 
-Followig are some examples. It wiil probably grow over time.
+Followimg are some examples. It will probably grow over time.
 
 #### Early but telling drift
 
@@ -55,7 +55,7 @@ Like bureaucracies everywhere, they don't actually recognize limits on the power
 
 #### Drift to indulge personal pecadillos
 
-This can also be seen as how well-intentioned overreach can backfire, causing more pain than it could spare.
+This can also be seen as how well-intended overreach can backfire, causing more pain than it could spare.
 
 I've mentioned briefly on d.p.o. that a woman contacted me (in December of 2224) to relate her tale of d.p.o.
 moderation pain. I say "a woman" because that was a demographic marker for people the CoC especially intended
