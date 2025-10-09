@@ -10,7 +10,7 @@ Brief replies to questions from a variety of sources, most recent first.
 
 **A:** As I said, I didn't see a sign of ill intent on either side, so declined to write it up here.
 It's nevertheless a kind of dysfunction, so I started [a new page](drift) to record "smaller
-stories" like that. Her taie is at the bottom (for now), but I still left names out of it.
+stories" like that. Her tale is at the bottom (for now), but I still left names out of it.
 
 **2025-10-08 Wed 01:00p CDT**
 
