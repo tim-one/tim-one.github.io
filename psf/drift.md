@@ -8,7 +8,7 @@ seeming, at times, to egg each other on in a race to the bottom.
 
 Drift is incremental, and not always monotonic. And sometimes it's "secret", not visible to the public.
 
-Followimg are some examples. It will probably grow over time.
+Following are some examples. It will probably grow over time.
 
 #### Early but telling drift
 
