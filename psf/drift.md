@@ -41,7 +41,7 @@ But that's not really a recognized constraint:
 > but if you, e,g., call out your PSF affiliation on your profile on X and then post something that goes against
 > the CoC, then that's a problem as that then reflects poorly on the PSF and the rest of the membership.
 
-I see nothing in the actual CoC than can be read that way. Can you? I'm not a lawyer. I don't recall whether
+I see nothing in the actual CoC that can be read that way. Can you? I'm not a lawyer. I don't recall whether
 I ever said on my blog whether or not I'm a PSF member, but it's not a secret that I am (I'm a long-time Fellow,
 in fact). Does saying that out loud now make my blog subject to PSF censorship? We'll see.
 
