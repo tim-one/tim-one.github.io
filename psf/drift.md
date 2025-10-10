@@ -15,15 +15,14 @@ Following are some examples. It will probably grow over time.
 One of the first visible actions in the "brave new CoC" era was blocking an unpopular person on GitHub. They posted
 mildly annoying outlines filled with links to pages they presumably found interesting. They never bothered anyone beyond this.
 But rather than serve the original stated goal of fostering a welcoming community, the CoC was employed as a bludgeon to
-drive someone out. And a person who was quite possibly of a class more recent CoCs recognize as worthy of protection
+drive someone out. And a person who was quite possibly of a class more recent CoCs [^cc] recognize as worthy of protection
 (neurodivergent - posting lists of links appeared to be their only communication style, in or out of "PSF spaces").
+[^cc]: More recent than the PSF's, which as of this writing is behind the newest in this respect.
 
 For more:
 
-```
-https://discuss.python.org/t/steering-council-nomination-raymond-hettinger-2021-term/5731/25
-https://mail.python.org/archives/list/python-committers@python.org/message/EK5PNQSXC4J2RAEHDV6AAOVK4MJHRL6C/
-```
+- [original announcement](https://mail.python.org/archives/list/python-committers@python.org/message/EK5PNQSXC4J2RAEHDV6AAOVK4MJHRL6C)
+- [discussion some years later](https://discuss.python.org/t/steering-council-nomination-raymond-hettinger-2021-term/5731/25)
 
 #### Mission creep
 
