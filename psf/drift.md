@@ -17,6 +17,7 @@ mildly annoying outlines filled with links to pages they presumably found intere
 But rather than serve the original stated goal of fostering a welcoming community, the CoC was employed as a bludgeon to
 drive someone out. And a person who was quite possibly of a class more recent CoCs [^cc] recognize as worthy of protection
 (neurodivergent - posting lists of links appeared to be their only communication style, in or out of "PSF spaces").
+
 [^cc]: More recent than the PSF's, which as of this writing is behind the newest in this respect.
 
 For more:
