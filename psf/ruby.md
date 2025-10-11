@@ -62,11 +62,11 @@ A: Yup. It is, after all, another day 😉. This one is in topic "Suspension of 
 
 ---
 
-And it remains hidden. I didn't ask the mods about it. If thay thought it was merely off-topic, they would have split it off into a new topic. Instead I can only assume they don't want to see alternatives discussed at all.
+And it remains hidden. I didn't ask the mods about it. If they thought it was merely off-topic, they would have split it off into a new topic. Instead I can only assume they don't want to see alternatives discussed at all.
 
 So here it is:
 
-#### [Second poat - hidden](https://discuss.python.org/t/suspension-of-franz-kiraly/103776/105)
+#### [Second post - hidden](https://discuss.python.org/t/suspension-of-franz-kiraly/103776/105)
 
 ---
 
