@@ -24,9 +24,7 @@ So scratch that. Poking around, there's a very different kind of approach. It ap
 
 The heart of Ruby's philosophy is MINASWAN: "Matz is nice and so we are nice": Matz refers to  Yukihiro Matsumoto, Ruby's creator, who is indeed nice.
 
-Here's "The Ruby Community Conduct Guideline":
-
-https://www.ruby-lang.org/en/conduct/
+Here's ["The Ruby Community Conduct Guideline"](https://www.ruby-lang.org/en/conduct/):
 
 - Participants will be tolerant of opposing views.
 
@@ -44,11 +42,9 @@ And Ruby _conferences_ generally use some version of the Contributor Covenant in
 
 In the Python world, Nicholas Tollervey is a beautiful, gentle soul who abandoned "PSF spaces" some years ago due to perceived hostility to, well, _being_ beautiful and gentle. He aimed at something roughly similar in spirit to the Ruby model, but even less prescriptive, via his "On Being Together" poem:
 
-https://ntoll.org/article/on-being-together/
+["On Being Together"](https://ntoll.org/article/on-being-together/)
 
-He went on to adopt the poem at the end as his "CARE_OF_COMMUNITY.rst" guideline for his own OS projects, licensed under CC0 1.0 for anyone to adopt:
-
-https://github.com/ntoll/being_together?tab=readme-ov-file
+He went on to adopt the poem at the end as his ["CARE_OF_COMMUNITY.rst"](https://github.com/ntoll/being_together?tab=readme-ov-file) guideline for his own OS projects, licensed under CC0 1.0 for anyone to adopt.
 
 So maybe those are better ways to frame the whole area. They certainly appeal to me. I don't want to tell people what to do. I want them to "be nice" by their own reflective informed choice, encouraged to do so by seeing a community that _is_ nice - to everyone. That can't be achieved by force.
 
@@ -74,11 +70,7 @@ So here it is:
 
 ---
 
-Of course we don't live in isolation here: we're part of the world, and discussions about the proper roles of CoCs in OS are popping up all over now. Various kinds of serious questioning and pushback are a mushrooming phenomenon. This is a nice, non-hysterical account that briefly traces the history, and how goals have changed from their start, Definitely has a POV, but then everyone does:
-
-https://shujisado.org/2025/09/30/why-heavy-codes-of-conduct-are-unnecessary-for-most-open-source-projects/
-
-At the end, they're persuaded that a Ruby-like return to "simple basic principles" would work best for most online projects now, and shifting the primary focus for online communities back from "safety" to the original goal of "productivity" (which was greatly hurt in some earlier communities by never-ending personal attacks over technical disagreements).
+Of course we don't live in isolation here: we're part of the world, and discussions about the proper roles of CoCs in OS are popping up all over now. Various kinds of serious questioning and pushback are a mushrooming phenomenon. This is a nice, non-hysterical [account](https://shujisado.org/2025/09/30/why-heavy-codes-of-conduct-are-unnecessary-for-most-open-source-projects/) that briefly traces the history, and how goals have changed from their start, Definitely has a POV, but then everyone does.
 
 That last may seem odd to long-time Pythoneers. Our core developers rarely flamed each other to toast over technical disputes and turf wars. but it was daily fodder in projects like Debian. Maybe packaging got more into that stuff. Python didn't reach that kind of sustained ugliness until it peaked with the shameful behavior in the "walrus operator wars".
 
