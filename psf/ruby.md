@@ -51,9 +51,12 @@ He went on to adopt the poem at the end as his "CARE_OF_COMMUNITY.rst" guideline
 
 https://github.com/ntoll/being_together?tab=readme-ov-file
 
+So maybe those are better ways to frame the whole area. They certainly appeal to me. I don't want to tell people what to do. I want them to "be nice" by their own reflective informed choice, encouraged to do so by seeing a community that _is_ nice - to everyone. That can't be achieved by force.
+
 ---
 
 The second post didn't fare so well. From my "Ban Q&A" page:
 
+Q: Another hidden post?!
 
-So maybe those are better ways to frame the whole area. They certainly appeal to me. I don't want to tell people what to do. I want them to "be nice" by their own reflective informed choice, encouraged to do so by seeing a community that _is_ nice - to everyone. That can't be achieved by force.
+A: Yup. It is, after all, another day 😉. This one is in topic "Suspension of Franz Király", and the auto-generated system notification said it was flagged as "off topic" (a refreshing change from the usual "hateful", etc). Which it surely is, by a literal reading. But it's a bit of a challenge finding anything directly about the topic title anywhere in the 100+ posts already there. The actual discussion quickly diverged. Human discourse is discursive. This post was largely continuing a meditation on how the Ruby language community seems to manage to remain free of "conduct drama", and was inviting consideration of the underlying dynamics. I don't at all regret posting it. If it remains hidden, after a few days I'll reproduce it here.
