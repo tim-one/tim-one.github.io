@@ -72,6 +72,8 @@ So here it is:
 
 Of course we don't live in isolation here: we're part of the world, and discussions about the proper roles of CoCs in OS are popping up all over now. Various kinds of serious questioning and pushback are a mushrooming phenomenon. This is a nice, non-hysterical [account](https://shujisado.org/2025/09/30/why-heavy-codes-of-conduct-are-unnecessary-for-most-open-source-projects/) that briefly traces the history, and how goals have changed from their start, Definitely has a POV, but then everyone does.
 
+At the end, they're persuaded that a Ruby-like return to "simple basic principles" would work best for most online projects now, and shifting the primary focus for online communities back from "safety" to the original goal of "productivity" (which was greatly hurt in some earlier communities by never-ending personal attacks over technical disagreements).
+
 That last may seem odd to long-time Pythoneers. Our core developers rarely flamed each other to toast over technical disputes and turf wars. but it was daily fodder in projects like Debian. Maybe packaging got more into that stuff. Python didn't reach that kind of sustained ugliness until it peaked with the shameful behavior in the "walrus operator wars".
 
 I'm still pondering how Ruby has managed to escape almost all of this. I have yet to find any account of "conduct drama" in the highly international Ruby community. No accounts of expulsions, bans, or even suspensions. Some of it is surely due to Matz himself, who is a genuinely nice and humble person. "Walrus operator" could simply never happen there, for two reasons:
