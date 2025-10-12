@@ -32,7 +32,7 @@ Note that Nozik wasn't talking about meritocracies, just utilitarianism[^merit].
 
 Fast forward to another amateur philosopher, who I'll just call C. Best I can tell, nothing about C's educational background is public knowledge, so while I may be wrong, they "read like an amateur philosopher" to me. People with credentials in the "soft sciences" often throw them in your face <0.5 wink>.
 
-One of C's passions is abolishing meritocracies, believing they grant power that "should be" given to others. Apparently to garner some "philosophy cred", they invoked Nozik's "utiilty monster" to describe those at the top of many OS projects' developer hierarchies (still too typically cis white males).
+One of C's passions is abolishing meritocracies, believing they grant power that "should be" given to others. Apparently to garner some "philosophy cred", they invoked Nozik's "utiilty monster" to describe those at the top of many OS projects' developer hierarchies (still too typically cishet white males).
 
 But, unlike Nozik's monsters, those aren't primarily benefiting only themselves. They're instead viewed as benefiting the project itself, and so also the project's entire community. Ignoring that makes the attempted analogy very strained to my eyes. Nozik's _fundamental_ aim was to concoct "monsters" who benefit _only_ themselves.
 
