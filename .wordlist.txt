@@ -113,6 +113,6 @@ rst
 Tollervey
 Yukihiro
 cishet
-Nozic
-Nozik's
+Nozick
+Nozick's
 RoR's
