@@ -37,7 +37,7 @@ One of her passions is abolishing meritocracies, believing they grant power that
 
 But, unlike Nozick's monsters, those aren't primarily benefiting only themselves. They're instead viewed as benefiting the project itself, and so also the project's entire community. Ignoring that makes the attempted analogy very strained to my eyes. Nozick's _fundamental_ aim was to concoct monsters who benefit _only_ themselves.
 
-In any case, that gained traction in her circles of influence. and so I accept it as a kind of "consensus‑flavored truthinesse" now. In those circles, Nozick's "utility monster" is read with Ehmke's take rather than with the original intent.
+In any case, that gained traction in her circles of influence. and so I accept it as a kind of "consensus‑flavored truthiness" now. In those circles, Nozick's "utility monster" is read with Ehmke's take rather than with the original intent.
 
 An irony is that her argument is inherently utilitarian: they're arguing that maximizing community utility is best served by abolishing meritocracy. But Nozick was arguing against utilitarianism _itself_. His monster constructed to try to knock that philosophy down must be very confused to find itself a key player on that philosophy's team :wink:.
 
