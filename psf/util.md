@@ -20,7 +20,7 @@ Now I'm an amateur in philosophy. Little relevant training, and no credentials, 
 
 - "Utilitarianism" is a philosophy holding that the best decisions are those that maximiaze the utility across a community. "Utility" is a somwwhat subtle concept, which can be usually be read as "happiness" without much loss of important nuance. There's more than one flavor of this general theory.
 
-There are multiple philosophical schools in favor of maritocracies. And also opposed. Utilitarianism is one such line.
+There are multiple philosophical schools in favor of maritocracies. And also opposed. Utilitarianism is one such line, employed in both directions by different thinkers.
 
 The academic philosopher Robert Nozik criticized utilitarianism by way of a thought experiment, involving a hypotheticsl "utility monster". Someone who derived _far_ more utility from, say, apples, than anyone else. A mindless appplication of utilitarianism therefore counsels that _all_ apples should be given to that monster. Giving them to anyone else could only reduce the community's aggregate utility.
 
