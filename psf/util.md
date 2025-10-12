@@ -24,7 +24,7 @@ There are multiple philosophical schools in favor of meritocracies. And also opp
 
 The academic philosopher Robert Nozick criticized utilitarianism by way of a thought experiment, involving a hypothetical "utility monster". Someone who derives _far_ more utility from, say, apples, than anyone else. A mindless application of utilitarianism therefore counsels that _all_ apples should be given to that monster. Giving them to anyone else could only reduce the community's aggregate utility.
 
-Now that's so silly you wouldn't think it would get much attention, but by the norms of academic philosophy is did land a major blow (although far from fatal). It points to potential internal incoherence. Utilitarianism was "supposed to be" about benefiting everyone, not just about pleasing an elite of greedy pigs.
+Now that's so silly you wouldn't think it would get much attention, but by the norms of academic philosophy it did land a major blow (although far from fatal). It points to potential internal incoherence. Utilitarianism was "supposed to be" about benefiting everyone, not just about pleasing an elite of greedy pigs.
 
 Note that Nozick wasn't talking about meritocracies, just utilitarianism[^merit].
 
@@ -37,7 +37,7 @@ One of her passions is abolishing meritocracies, believing they grant power that
 
 But, unlike Nozick's monsters, those aren't primarily benefiting only themselves. They're instead viewed as benefiting the project itself, and so also the project's entire community. Ignoring that makes the attempted analogy very strained to my eyes. Nozick's _fundamental_ aim was to concoct monsters who benefit _only_ themselves.
 
-In any case, that gained traction among some "regular people". and so I accept it as some "consensus kinda truthiness-like" thing now. In some circles, Nozick's "utility monster" is read with Ehmke's take rather than with the original intent.
+In any case, that gained traction in her circles of influence. and so I accept it as a kind of "consensus‑flavored truthinesse" now. In those circles, Nozick's "utility monster" is read with Ehmke's take rather than with the original intent.
 
 An irony is that her argument is inherently utilitarian: they're arguing that maximizing community utility is best served by abolishing meritocracy. But Nozick was arguing against utilitarianism _itself_. His monster constructed to try to knock that philosophy down must be very confused to find itself a key player on that philosophy's team :wink:.
 
