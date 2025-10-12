@@ -28,7 +28,7 @@ Now that's so silly you wouldn't think it would get much attention, but by the n
 
 Note that Nozick wasn't talking about meritocracies, just utilitarianism[^merit].
 
-[^merit]: I don't recall Nozick ever addressing meritocracy directly. But he was widely viewed as "radical libertarian", so it's easy to guess that he would have approved if, and only if, all the governed freely agreed to abide by such a system - and pretty much regardless of _which_ "system" you asked him about. His work was much more about individual rights than about governance models, His philosophical bent couldn't have much less in common with EHmke's.
+[^merit]: I don't recall Nozick ever addressing meritocracy directly. But he was widely viewed as "radical libertarian", so it's easy to guess that he would have approved if, and only if, all the governed freely agreed to abide by such a system - and pretty much regardless of _which_ "system" you asked him about. His work was much more about individual rights than about governance models, His philosophical bent couldn't have much less in common with Ehmke's.
 
 Fast forward to another philosopher. Coraline Ada Ehmke, who has made opposition to meritocracy something of a personal brand. Best
 I can tell, nothing about her educational background is public knowledge, so while I may be wrong, she "reads like an amateur philosopher" to me. People with credentials in the "soft sciences" often throw them in your face <0.5 wink>.
