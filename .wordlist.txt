@@ -112,3 +112,7 @@ RoR
 rst
 Tollervey
 Yukihiro
+cishet
+Nozick
+Nozick's
+RoR's

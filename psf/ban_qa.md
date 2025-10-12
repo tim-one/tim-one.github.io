@@ -4,6 +4,13 @@ title: Ban Q&A
 
 Brief replies to questions from a variety of sources, most recent first.
 
+**2025-10-11 Sat 07:30p CDT**
+
+**Q:** What's a "utility monster"?
+
+**A:** I wish I could say I'm glad you asked :wink:. It can be explained, but it's
+more involved than any of us would hope for. [Here you go.](util)
+
 **2025-10-09 Thu 01:30a CDT**
 
 **Q:** You mentioned a woman's tale of moderator grief, but didn't elaborate. What's the story?
