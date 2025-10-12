@@ -30,7 +30,7 @@ Note that Nozik wasn't talking about meritocracies, just utilitarianism[^merit].
 
 [^merit]: I don't recall Nozik ever addressing meritocracy directly. But he was widely viewed as "radical libertarian", so it's easy to guess that he would have approved if, and only if, all the governed freely agreed to abide by such a system - and pretty much regardless of _which_ "system" you asked him about. His philosophical bent couldn't have much less in common with C's.
 
-Fast forward to another amateur philosopher, who I'll just call C. Best I can tell, nothing about C'c educational background is public knowledge, so while I may be wrong, they "read like an amateur philosopher" to me. People with credentials in the "soft sciences" often throw them in your face <0.5 wink>.
+Fast forward to another amateur philosopher, who I'll just call C. Best I can tell, nothing about C's educational background is public knowledge, so while I may be wrong, they "read like an amateur philosopher" to me. People with credentials in the "soft sciences" often throw them in your face <0.5 wink>.
 
 One of C's passions is abolishing meritocracies, believing they grant power that "should be" given to others. Apparently to garner some "philosophy cred", they invoked Nozik's "utiilty monster" to describe those at the top of many OS projects' developer hierarchies (still too typically cis white males).
 
