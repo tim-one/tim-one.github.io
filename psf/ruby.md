@@ -36,7 +36,7 @@ Here's ["The Ruby Community Conduct Guideline"](https://www.ruby-lang.org/en/con
 
 That's it. No pretension to legalisms or comprehensiveness at all, and it doesn't bloat over time. It appears to "just work" for them.
 
-Now Ruby on Rails is a different, although related, offshoot. Don't conflate the two. The RoR creator is a much more controversial figure, a "utility monster" if there ever was one. RoR has its own ideas.
+Now Ruby on Rails is a different, although related, offshoot. Don't conflate the two. The RoR creator is a much more controversial figure, a "[utility monster](util)" if there ever was one. RoR has its own ideas.
 
 And Ruby _conferences_ generally use some version of the Contributor Covenant instead. The concerns at in-person events are far more acute, where people are physically face-to-face in small spaces across some days. On the web, the worst we can do is throw pixels at each other across time zones :wink:. Conferences merit potentially much more heavy-handed, swift, and dictatorial power. Very different contexts, very different approaches.
 
