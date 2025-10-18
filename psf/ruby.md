@@ -64,9 +64,9 @@ A: Yup. It is, after all, another day 😉. This one is in topic "Suspension of 
 
 And it remains hidden. I didn't ask the mods about it. If they thought it was merely off-topic, they would have split it off into a new topic. Instead I can only assume they don't want to see alternatives discussed at all.
 
-So here it is:
+So here it is: (LATER: on 17 Oct 2025, I got an auto-generated message saying that "a staff member" had removed the post permanently. So. no. they don't want the topic discussed. And I have never yet gotten a word from a human about why any of my posts were ever hidden or removed.)
 
-#### [Second post - hidden](https://discuss.python.org/t/suspension-of-franz-kiraly/103776/105)
+#### [Second post](https://discuss.python.org/t/suspension-of-franz-kiraly/103776/105) - ~~hidden~~ destroyed
 
 ---
 
