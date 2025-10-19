@@ -8,7 +8,7 @@ seeming, at times, to egg each other on in a race to the bottom.
 
 Drift is incremental, and not always monotonic. And sometimes it's "secret", not visible to the public.
 
-Following are some examples. It will probably grow over time. Here are links to more recent entries:
+Following are some examples. It will probably grow over time. Here are links to more recent entries:f
 
 - [Drift to reading silence as approval 2025-10-19 Sun](#silence)
 - [Inward drift 2025-10-18 Sat](#inner)
@@ -126,9 +126,9 @@ Not much to say here. The more dissent is suppressed on d.p.o., the less dissent
 
 > “When we avoid hard conversations, we’re not keeping the peace. We’re just keeping the tension.” - Unknown
 
-As a person just wrote to me (they don't want their identity konwn, so I won't say more), after their own "umpleasent" experiences:
+As a person just wrote to me (they don't want their identity konwn, so I won't say more), after their own "umpleasant" experiences:
 
 >  ... I'm still autistic, so I will always have trouble judging how my words will make others feel, so it increasingly feels like I'm walking on egg shells [on d.p.o.] which has caused me to greatly reduce my interactions.
 
-If would be fair to counter that someone's personal bad experiences with moderation don't imply dissent is being suppressed, but it so heppens that this person does dissent - but fears to express it in public. In fact that pattern is common, from all I've seen. "Chilling effect" inhibits all expression.
+If would be fair to counter that someone's personal bad experiences with moderation don't imply dissent is being suppressed, but it so happens that this person does dissent - but fears to express it in public. In fact that pattern is common, from all I've seen. "Chilling effect" inhibits all expression.
 
