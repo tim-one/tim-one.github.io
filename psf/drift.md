@@ -10,6 +10,8 @@ Drift is incremental, and not always monotonic. And sometimes it's "secret", not
 
 Following are some examples. It will probably grow over time.
 
+- [placeholder](#inner)
+
 #### Early but telling drift
 
 One of the first visible actions in the "brave new CoC" era was blocking an unpopular person on GitHub. They posted
@@ -87,7 +89,13 @@ of "welcome". In her words:
 > and who instead just leave (we know many of those have happened already, but how many left or will leave silently?) and
 > I think python will be worse for that.
 
+
 Indeed, the people who leave remain invisible forever more.
 
 And the final insult: her "trust level" on Discourse was reduced from level 3 to level 2 as a result. What kind
 of petty torment is that?! Going on a year now, I see it's still at level 2. BTW, she did reword the post.
+
+ <a id="inner"></a>
+#### placeholder
+
+Text here.
