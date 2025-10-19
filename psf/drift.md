@@ -10,7 +10,7 @@ Drift is incremental, and not always monotonic. And sometimes it's "secret", not
 
 Following are some examples. It will probably grow over time. Here are links to more recent entries:
 
-- [Inward drife](#inner) 2025-10-18 Sat
+- [Inward drift](#inner) 2025-10-18 Sat
 
 #### Early but telling drift
 
@@ -98,15 +98,15 @@ of petty torment is that?! Going on a year now, I see it's still at level 2. BTW
  <a id="inner"></a>
 #### Inward drift
 
-Over time, an enforcement body drifts into viewing _itself_ as "the community" it's supposedly protecting, and increasiongly views questioning of its own actions as threats to the actual community. This raached a North Korean level of bizarrenss in one of the "CoC violations" David Mertz was charged with when he was "indefinitly suspended" from Discourse (and, if anything, the charges against him were even less founded than the ones 
+Over time, an enforcement body drifts into viewing _itself_ as "the community" it's supposedly protecting, and increasingly views questioning of its own actions as threats to the actual community. This reached a North Korean level of bizarreness in one of the "CoC violations" David Mertz was charged with when he was "indefinitely suspended" from Discourse (and, if anything, the charges against him were even less founded than the ones 
 against me)
 
 [Source](https://discuss.python.org/t/why-i-am-withdrawing-fellowship-status-in-psf/58301/4)
 
 > - Gracefully accepting constructive criticism, violating this in particular byin [sic] explicit voicing of a lack of trust against moderator actions like his posts getting hidden and aas well as lack of trust in the current state of the Code of Conduct and the COC WG;
 
-Does this really need to be spelled out? There is no possible "constructive criticsm" given by hiding a psot, and questioning am enforcement body is only a chargeable offense if you question an authoritarian dictator. Not to mention that it vastly overstates what David did: he was visibly angry at a mod for making material edits to his posts (which they agreed to stop doing).
+Does this really need to be spelled out? There is no possible "constructive criticism" given by hiding a post, and questioning am enforcement body is only a chargeable offense if you question an authoritarian dictator. Not to mention that it vastly overstates what David did: he was visibly angry at a mod for making material edits to his posts (which they agreed to stop doing).
 
-That's hardly unique. One of the most frequent frustratioss I hear is from people baffled by inconsistent treatment of various people. People praising the PSF do seem to get a lot more slack than people questioning it [^me]. And I've noted for years that when there's some plausible "political" slant to a disdtrous thread that gets someone suspended, the excesses of the "left wing" side are overlooked. Which sometimes works to my favor, although I wish it wouldn't (for example, I strongly condemned the Trump administration's ICE actions preceding PyCon 2025). That is, poliitical speech is actually welcome - but provived it's echoing the PSF powere players' politics. There's little tolerance of political speech beyond that.
+That's hardly unique. One of the most frequent frustrations I hear is from people baffled by inconsistent treatment of various people. People praising the PSF do seem to get a lot more slack than people questioning it [^me]. And I've noted for years that when there's some plausible "political" slant to a disastrous thread that gets someone suspended, the excesses of the "left wing" side are overlooked. Which sometimes works to my favor, although I wish it wouldn't (for example, I strongly condemned the Trump administration's ICE actions preceding PyCon 2025). That is, political speech is actually welcome - but provided it's echoing the PSF power players' politics. There's little tolerance of political speech beyond that.
 
 [^me]: I seem to be an exception for now. I couldn't be plainer about my loss of trust.
