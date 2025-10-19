@@ -126,7 +126,7 @@ Not much to say here. The more dissent is suppressed on d.p.o., the less dissent
 
 > “When we avoid hard conversations, we’re not keeping the peace. We’re just keeping the tension.” - Unknown
 
-As a person just wrote to me (they don't want their identity konwn, so I won't say more), after their own "umpleasant" experiences:
+As a person just wrote to me (they don't want their identity known, so I won't say more), after their own "unpleasant" experiences:
 
 >  ... I'm still autistic, so I will always have trouble judging how my words will make others feel, so it increasingly feels like I'm walking on egg shells [on d.p.o.] which has caused me to greatly reduce my interactions.
 
