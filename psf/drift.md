@@ -114,7 +114,7 @@ Ironically, what I wrote about "[ICE actions](https://discuss.python.org/t/pycon
 
 > But if people with power are determined to “make an example” of you, you’re hosed. Have no expectations of fair play, due process, or justice. You’re a disposable means to their political goals. They don’t care about you at all, or about facts. Zealots are fixated on their abstract idea of “a greater good” to the exclusion of all else (a mix of self-righteous conviction, cynical power-grabbing, and plain love of bullying). You may prevail in the end if there’s also a functioning legal system (which the US government still has, for now, at least partially so), but it may take years.
 
-Although, np, "functioning legal system" doesn't apply to the PSF.
+Although, no, "functioning legal system" doesn't apply to the PSF.
 
 
 
