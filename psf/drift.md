@@ -10,7 +10,8 @@ Drift is incremental, and not always monotonic. And sometimes it's "secret", not
 
 Following are some examples. It will probably grow over time. Here are links to more recent entries:
 
-- [Inward drift](#inner) 2025-10-18 Sat
+- [Drift to reading silence as approval 2025-10-19 Sun](#silence)
+- [Inward drift 2025-10-18 Sat](#inner)
 
 #### Early but telling drift
 
@@ -109,6 +110,8 @@ Does this really need to be spelled out? There is no possible "constructive crit
 
 That's hardly unique. One of the most frequent frustrations I hear is from people baffled by inconsistent treatment of various people. People praising the PSF do seem to get a lot more slack than people questioning it [^me]. And I've noted for years that when there's some plausible "political" slant to a disastrous thread that gets someone suspended, the excesses of the "left wing" side are overlooked. Which sometimes works to my favor, although I wish it wouldn't (for example, I strongly condemned the Trump administration's ICE actions preceding PyCon 2025). That is, political speech is actually welcome - but provided it's echoing the PSF power players' politics. There's little tolerance of political speech beyond that.
 
+[^me]: I seem to be an exception for now. I couldn't be plainer about my loss of trust.
+
 Ironically, what I wrote about "[ICE actions](https://discuss.python.org/t/pycon-us-2025-travel-guidance/85196/21)" I could just as well have said about the PSF - nobody seemed to notice that :wink::
 
 
@@ -116,7 +119,16 @@ Ironically, what I wrote about "[ICE actions](https://discuss.python.org/t/pycon
 
 Although, no, "functioning legal system" doesn't apply to the PSF.
 
+<a id="silence"></a>
+#### Drift to reading silence as approval
 
+Not much to say here. The more dissent is suppressed on d.p.o., the less dissent is visible. That doesn't mean the community is harmonious.
 
+> “When we avoid hard conversations, we’re not keeping the peace. We’re just keeping the tension.” - Unknown
 
-[^me]: I seem to be an exception for now. I couldn't be plainer about my loss of trust.
+As a person just wrote to me (they don't want their identity konwn, so I won't say more), after their own "umpleasent" experiences:
+
+>  ... I'm still autistic, so I will always have trouble judging how my words will make others feel, so it increasingly feels like I'm walking on egg shells [on d.p.o.] which has caused me to greatly reduce my interactions.
+
+If would be fair to counter that someone's personal bad experiences with moderation don't imply dissent is being suppressed, but it so heppens that this person does dissent - but fears to express it in public. In fact that pattern is common, from all I've seen. "Chilling effect" inhibits all expression.
+
