@@ -109,4 +109,14 @@ Does this really need to be spelled out? There is no possible "constructive crit
 
 That's hardly unique. One of the most frequent frustrations I hear is from people baffled by inconsistent treatment of various people. People praising the PSF do seem to get a lot more slack than people questioning it [^me]. And I've noted for years that when there's some plausible "political" slant to a disastrous thread that gets someone suspended, the excesses of the "left wing" side are overlooked. Which sometimes works to my favor, although I wish it wouldn't (for example, I strongly condemned the Trump administration's ICE actions preceding PyCon 2025). That is, political speech is actually welcome - but provided it's echoing the PSF power players' politics. There's little tolerance of political speech beyond that.
 
+Ironically, what I wrote about "[ICE actions](https://discuss.python.org/t/pycon-us-2025-travel-guidance/85196/21)" I could just as well have said about the PSF - nobody seemed to notice that :wink::
+
+
+> But if people with power are determined to “make an example” of you, you’re hosed. Have no expectations of fair play, due process, or justice. You’re a disposable means to their political goals. They don’t care about you at all, or about facts. Zealots are fixated on their abstract idea of “a greater good” to the exclusion of all else (a mix of self-righteous conviction, cynical power-grabbing, and plain love of bullying). You may prevail in the end if there’s also a functioning legal system (which the US government still has, for now, at least partially so), but it may take years.
+
+Although, np, "functioning legal system" doesn't apply to the PSF.
+
+
+
+
 [^me]: I seem to be an exception for now. I couldn't be plainer about my loss of trust.
