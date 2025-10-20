@@ -132,3 +132,5 @@ As a person just wrote to me (they don't want their identity known, so I won't s
 
 If would be fair to counter that someone's personal bad experiences with moderation don't imply dissent is being suppressed, but it so happens that this person does dissent - but fears to express it in public. In fact that pattern is common, from all I've seen. "Chilling effect" inhibits all expression.
 
+---
+
