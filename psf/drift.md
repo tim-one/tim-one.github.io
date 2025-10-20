@@ -8,7 +8,7 @@ seeming, at times, to egg each other on in a race to the bottom.
 
 Drift is incremental, and not always monotonic. And sometimes it's "secret", not visible to the public.
 
-Following are some examples. It will probably grow over time. Here are links to more recent entries:f
+Following are some examples. It will probably grow over time. Here are links to more recent entries:
 
 - [Drift to reading silence as approval 2025-10-19 Sun](#silence)
 - [Inward drift 2025-10-18 Sat](#inner)
