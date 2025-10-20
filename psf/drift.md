@@ -13,6 +13,8 @@ Following are some examples. It will probably grow over time. Here are links to 
 - [Drift to reading silence as approval 2025-10-19 Sun](#silence)
 - [Inward drift 2025-10-18 Sat](#inner)
 
+---
+
 #### Early but telling drift
 
 One of the first visible actions in the "brave new CoC" era was blocking an unpopular person on GitHub. They posted
@@ -27,6 +29,8 @@ For more:
 
 - [original announcement](https://mail.python.org/archives/list/python-committers@python.org/message/EK5PNQSXC4J2RAEHDV6AAOVK4MJHRL6C)
 - [discussion some years later](https://discuss.python.org/t/steering-council-nomination-raymond-hettinger-2021-term/5731/25)
+
+---
 
 #### Mission creep
 
@@ -55,6 +59,8 @@ And it may not end even there:
 > applies more to Fellows than general members), but I haven't seen that happen.
 
 Like bureaucracies everywhere, they don't actually recognize limits on the power they "should" have to control.
+
+---
 
 #### Drift to indulge personal pecadillos
 
@@ -96,6 +102,8 @@ Indeed, the people who leave remain invisible forever more.
 And the final insult: her "trust level" on Discourse was reduced from level 3 to level 2 as a result. What kind
 of petty torment is that?! Going on a year now, I see it's still at level 2. BTW, she did reword the post.
 
+---
+
  <a id="inner"></a>
 #### Inward drift
 
@@ -119,6 +127,8 @@ Ironically, what I wrote about "[ICE actions](https://discuss.python.org/t/pycon
 
 Although, no, "functioning legal system" doesn't apply to the PSF.
 
+---
+
 <a id="silence"></a>
 #### Drift to reading silence as approval
 
@@ -133,4 +143,3 @@ As a person just wrote to me (they don't want their identity known, so I won't s
 If would be fair to counter that someone's personal bad experiences with moderation don't imply dissent is being suppressed, but it so happens that this person does dissent - but fears to express it in public. In fact that pattern is common, from all I've seen. "Chilling effect" inhibits all expression.
 
 ---
-
