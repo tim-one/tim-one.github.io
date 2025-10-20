@@ -10,8 +10,8 @@ Drift is incremental, and not always monotonic. And sometimes it's "secret", not
 
 Following are some examples. It will probably grow over time. Here are links to more recent entries:
 
-- 2025-10-19 Sun [Drift to reading silence as approval](#silence)
-- 2025-10-18 Sat [Inward drift](#inner)
+- 2025-10-19 Sun - [Drift to reading silence as approval](#silence)
+- 2025-10-18 Sat - [Inward drift](#inner)
 
 ---
 
